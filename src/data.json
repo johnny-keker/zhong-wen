@@ -1,0 +1,10322 @@
+{"data": [
+{
+"consonant": "",
+"vowel":"a",
+"tone": 1,
+"sym":"啊",
+"pinin":"ā",
+"translation": "interjection of surprise; Ah!; Oh!"
+},
+{
+"consonant": "",
+"vowel":"a",
+"tone": 2,
+"sym":"啊",
+"pinin":"á",
+"translation": "interjection expressing doubt or requiring answer; Eh?; what?"
+},
+{
+"consonant": "b",
+"vowel":"a",
+"tone": 1,
+"sym":"八",
+"pinin":"bā",
+"translation": "eight"
+},
+{
+"consonant": "b",
+"vowel":"a",
+"tone": 2,
+"sym":"拔",
+"pinin":"bá",
+"translation": "to pull up"
+},
+{
+"consonant": "b",
+"vowel":"a",
+"tone": 3,
+"sym":"把",
+"pinin":"bǎ",
+"translation": "to hold"
+},
+{
+"consonant": "b",
+"vowel":"a",
+"tone": 4,
+"sym":"坝",
+"pinin":"bà",
+"translation": "dam"
+},
+{
+"consonant": "p",
+"vowel":"a",
+"tone": 1,
+"sym":"葩",
+"pinin":"pā",
+"translation": "corolla of flower"
+},
+{
+"consonant": "p",
+"vowel":"a",
+"tone": 2,
+"sym":"爬",
+"pinin":"pá",
+"translation": "to climb"
+},
+{
+"consonant": "p",
+"vowel":"a",
+"tone": 4,
+"sym":"怕",
+"pinin":"pà",
+"translation": "to be afraid"
+},
+{
+"consonant": "m",
+"vowel":"a",
+"tone": 1,
+"sym":"妈",
+"pinin":"mā",
+"translation": "mom"
+},
+{
+"consonant": "m",
+"vowel":"a",
+"tone": 2,
+"sym":"蟆",
+"pinin":"má",
+"translation": "toad"
+},
+{
+"consonant": "m",
+"vowel":"a",
+"tone": 3,
+"sym":"马",
+"pinin":"mǎ",
+"translation": "horse"
+},
+{
+"consonant": "m",
+"vowel":"a",
+"tone": 4,
+"sym":"蚂",
+"pinin":"mà",
+"translation": "grasshopper"
+},
+{
+"consonant": "f",
+"vowel":"a",
+"tone": 1,
+"sym":"发",
+"pinin":"fā",
+"translation": "to show (one's feeling)"
+},
+{
+"consonant": "f",
+"vowel":"a",
+"tone": 2,
+"sym":"罚",
+"pinin":"fá",
+"translation": "to punish"
+},
+{
+"consonant": "f",
+"vowel":"a",
+"tone": 3,
+"sym":"法",
+"pinin":"fǎ",
+"translation": "law"
+},
+{
+"consonant": "f",
+"vowel":"a",
+"tone": 4,
+"sym":"珐",
+"pinin":"fà",
+"translation": "enamel ware"
+},
+{
+"consonant": "d",
+"vowel":"a",
+"tone": 1,
+"sym":"搭",
+"pinin":"dā",
+"translation": "to put up;"
+},
+{
+"consonant": "d",
+"vowel":"a",
+"tone": 2,
+"sym":"答",
+"pinin":"dá",
+"translation": "to reply"
+},
+{
+"consonant": "d",
+"vowel":"a",
+"tone": 3,
+"sym":"打",
+"pinin":"dǎ",
+"translation": "to beat"
+},
+{
+"consonant": "d",
+"vowel":"a",
+"tone": 4,
+"sym":"大",
+"pinin":"dà",
+"translation": "big"
+},
+{
+"consonant": "t",
+"vowel":"a",
+"tone": 1,
+"sym":"他",
+"pinin":"tā",
+"translation": "he or him"
+},
+{
+"consonant": "t",
+"vowel":"a",
+"tone": 2,
+"sym":"蹹",
+"pinin":"tá",
+"translation": "to tread on"
+},
+{
+"consonant": "t",
+"vowel":"a",
+"tone": 3,
+"sym":"塔",
+"pinin":"tǎ",
+"translation": "pagoda"
+},
+{
+"consonant": "t",
+"vowel":"a",
+"tone": 4,
+"sym":"嚃",
+"pinin":"tà",
+"translation": "to drink"
+},
+{
+"consonant": "n",
+"vowel":"a",
+"tone": 2,
+"sym":"拿",
+"pinin":"ná",
+"translation": "to hold"
+},
+{
+"consonant": "n",
+"vowel":"a",
+"tone": 3,
+"sym":"哪",
+"pinin":"nǎ",
+"translation": "how; which; where"
+},
+{
+"consonant": "n",
+"vowel":"a",
+"tone": 4,
+"sym":"那",
+"pinin":"nà",
+"translation": "that; those;"
+},
+{
+"consonant": "l",
+"vowel":"a",
+"tone": 1,
+"sym":"拉",
+"pinin":"lā",
+"translation": "to pull"
+},
+{
+"consonant": "l",
+"vowel":"a",
+"tone": 2,
+"sym":"剌",
+"pinin":"lá",
+"translation": "to slash"
+},
+{
+"consonant": "l",
+"vowel":"a",
+"tone": 4,
+"sym":"辣",
+"pinin":"là",
+"translation": "hot (spicy)"
+},
+{
+"consonant": "g",
+"vowel":"a",
+"tone": 1,
+"sym":"嘎",
+"pinin":"gā",
+"translation": "cackling sound"
+},
+{
+"consonant": "g",
+"vowel":"a",
+"tone": 2,
+"sym":"轧",
+"pinin":"gá",
+"translation": "to crush together (in a crowd)"
+},
+{
+"consonant": "g",
+"vowel":"a",
+"tone": 3,
+"sym":"尕",
+"pinin":"gǎ",
+"translation": "little"
+},
+{
+"consonant": "g",
+"vowel":"a",
+"tone": 4,
+"sym":"尬",
+"pinin":"gà",
+"translation": "embarrassing"
+},
+{
+"consonant": "k",
+"vowel":"a",
+"tone": 1,
+"sym":"咖",
+"pinin":"kā",
+"translation": "class; grade"
+},
+{
+"consonant": "k",
+"vowel":"a",
+"tone": 3,
+"sym":"卡",
+"pinin":"kǎ",
+"translation": "card (loanword)"
+},
+{
+"consonant": "k",
+"vowel":"a",
+"tone": 4,
+"sym":"髂",
+"pinin":"kà",
+"translation": "ilium; outermost bone of the pelvic girdle"
+},
+{
+"consonant": "h",
+"vowel":"a",
+"tone": 2,
+"sym":"蛤",
+"pinin":"há",
+"translation": "frog"
+},
+{
+"consonant": "h",
+"vowel":"a",
+"tone": 3,
+"sym":"哈",
+"pinin":"hǎ",
+"translation": "a Pekinese"
+},
+{
+"consonant": "z",
+"vowel":"a",
+"tone": 1,
+"sym":"匝",
+"pinin":"zā",
+"translation": "circuit"
+},
+{
+"consonant": "z",
+"vowel":"a",
+"tone": 2,
+"sym":"砸",
+"pinin":"zá",
+"translation": "to smash"
+},
+{
+"consonant": "c",
+"vowel":"a",
+"tone": 1,
+"sym":"擦",
+"pinin":"cā",
+"translation": "to wipe"
+},
+{
+"consonant": "c",
+"vowel":"a",
+"tone": 3,
+"sym":"礤",
+"pinin":"cǎ",
+"translation": "shredder"
+},
+{
+"consonant": "c",
+"vowel":"a",
+"tone": 4,
+"sym":"䵽",
+"pinin":"cà",
+"translation": "sound of drums"
+},
+{
+"consonant": "s",
+"vowel":"a",
+"tone": 1,
+"sym":"撒",
+"pinin":"sā",
+"translation": "to let go"
+},
+{
+"consonant": "s",
+"vowel":"a",
+"tone": 3,
+"sym":"洒",
+"pinin":"sǎ",
+"translation": "to sprinkle"
+},
+{
+"consonant": "s",
+"vowel":"a",
+"tone": 4,
+"sym":"卅",
+"pinin":"sà",
+"translation": "thirty"
+},
+{
+"consonant": "zh",
+"vowel":"a",
+"tone": 1,
+"sym":"扎",
+"pinin":"zhā",
+"translation": "to prick"
+},
+{
+"consonant": "zh",
+"vowel":"a",
+"tone": 2,
+"sym":"闸",
+"pinin":"zhá",
+"translation": "gear"
+},
+{
+"consonant": "zh",
+"vowel":"a",
+"tone": 3,
+"sym":"眨",
+"pinin":"zhǎ",
+"translation": "to blink"
+},
+{
+"consonant": "zh",
+"vowel":"a",
+"tone": 4,
+"sym":"炸",
+"pinin":"zhà",
+"translation": "to burst"
+},
+{
+"consonant": "ch",
+"vowel":"a",
+"tone": 1,
+"sym":"插",
+"pinin":"chā",
+"translation": "to insert"
+},
+{
+"consonant": "ch",
+"vowel":"a",
+"tone": 2,
+"sym":"查",
+"pinin":"chá",
+"translation": "to research"
+},
+{
+"consonant": "ch",
+"vowel":"a",
+"tone": 3,
+"sym":"叉",
+"pinin":"chǎ",
+"translation": "to diverge"
+},
+{
+"consonant": "ch",
+"vowel":"a",
+"tone": 4,
+"sym":"侘",
+"pinin":"chà",
+"translation": "boast"
+},
+{
+"consonant": "sh",
+"vowel":"a",
+"tone": 1,
+"sym":"杀",
+"pinin":"shā",
+"translation": "to kill"
+},
+{
+"consonant": "sh",
+"vowel":"a",
+"tone": 3,
+"sym":"傻",
+"pinin":"shǎ",
+"translation": "foolish"
+},
+{
+"consonant": "sh",
+"vowel":"a",
+"tone": 4,
+"sym":"嗄",
+"pinin":"shà",
+"translation": "hoarse"
+},
+{
+"consonant": "",
+"vowel":"ai",
+"tone": 1,
+"sym":"哎",
+"pinin":"āi",
+"translation": "hey!"
+},
+{
+"consonant": "",
+"vowel":"ai",
+"tone": 2,
+"sym":"啀",
+"pinin":"ái",
+"translation": "to growl (of dog)"
+},
+{
+"consonant": "",
+"vowel":"ai",
+"tone": 3,
+"sym":"矮",
+"pinin":"ǎi",
+"translation": "low; short (in length)"
+},
+{
+"consonant": "",
+"vowel":"ai",
+"tone": 4,
+"sym":"唉",
+"pinin":"ài",
+"translation": "alas"
+},
+{
+"consonant": "b",
+"vowel":"ai",
+"tone": 1,
+"sym":"掰",
+"pinin":"bāi",
+"translation": "to break off or break open something with one's hands"
+},
+{
+"consonant": "b",
+"vowel":"ai",
+"tone": 2,
+"sym":"白",
+"pinin":"bái",
+"translation": "white"
+},
+{
+"consonant": "b",
+"vowel":"ai",
+"tone": 3,
+"sym":"百",
+"pinin":"bǎi",
+"translation": "hundred"
+},
+{
+"consonant": "b",
+"vowel":"ai",
+"tone": 4,
+"sym":"败",
+"pinin":"bài",
+"translation": "to defeat"
+},
+{
+"consonant": "p",
+"vowel":"ai",
+"tone": 1,
+"sym":"拍",
+"pinin":"pāi",
+"translation": "to pat"
+},
+{
+"consonant": "p",
+"vowel":"ai",
+"tone": 2,
+"sym":"排",
+"pinin":"pái",
+"translation": "a row; a line"
+},
+{
+"consonant": "p",
+"vowel":"ai",
+"tone": 4,
+"sym":"湃",
+"pinin":"pài",
+"translation": "sound of waves"
+},
+{
+"consonant": "m",
+"vowel":"ai",
+"tone": 2,
+"sym":"埋",
+"pinin":"mái",
+"translation": "to bury"
+},
+{
+"consonant": "m",
+"vowel":"ai",
+"tone": 3,
+"sym":"买",
+"pinin":"mǎi",
+"translation": "to buy; to purchase"
+},
+{
+"consonant": "m",
+"vowel":"ai",
+"tone": 4,
+"sym":"卖",
+"pinin":"mài",
+"translation": "to sell"
+},
+{
+"consonant": "d",
+"vowel":"ai",
+"tone": 1,
+"sym":"待",
+"pinin":"dāi",
+"translation": "to stay"
+},
+{
+"consonant": "d",
+"vowel":"ai",
+"tone": 3,
+"sym":"歹",
+"pinin":"dǎi",
+"translation": "bad"
+},
+{
+"consonant": "d",
+"vowel":"ai",
+"tone": 4,
+"sym":"戴",
+"pinin":"dài",
+"translation": "to put on or wear (glasses)"
+},
+{
+"consonant": "t",
+"vowel":"ai",
+"tone": 1,
+"sym":"呔",
+"pinin":"tāi",
+"translation": "tie"
+},
+{
+"consonant": "t",
+"vowel":"ai",
+"tone": 2,
+"sym":"抬",
+"pinin":"tái",
+"translation": "to lift"
+},
+{
+"consonant": "t",
+"vowel":"ai",
+"tone": 3,
+"sym":"㘆",
+"pinin":"tǎi",
+"translation": "to laugh at"
+},
+{
+"consonant": "t",
+"vowel":"ai",
+"tone": 4,
+"sym":"太",
+"pinin":"tài",
+"translation": "highest"
+},
+{
+"consonant": "n",
+"vowel":"ai",
+"tone": 2,
+"sym":"㜨",
+"pinin":"nái",
+"translation": "beautiful; pretty"
+},
+{
+"consonant": "n",
+"vowel":"ai",
+"tone": 3,
+"sym":"奶",
+"pinin":"nǎi",
+"translation": "breast"
+},
+{
+"consonant": "n",
+"vowel":"ai",
+"tone": 4,
+"sym":"耐",
+"pinin":"nài",
+"translation": "to endure"
+},
+{
+"consonant": "l",
+"vowel":"ai",
+"tone": 2,
+"sym":"来",
+"pinin":"lái",
+"translation": "to come"
+},
+{
+"consonant": "l",
+"vowel":"ai",
+"tone": 3,
+"sym":"䂾",
+"pinin":"lǎi",
+"translation": "to polish"
+},
+{
+"consonant": "l",
+"vowel":"ai",
+"tone": 4,
+"sym":"赖",
+"pinin":"lài",
+"translation": "to depend on"
+},
+{
+"consonant": "g",
+"vowel":"ai",
+"tone": 1,
+"sym":"该",
+"pinin":"gāi",
+"translation": "should; ought to"
+},
+{
+"consonant": "g",
+"vowel":"ai",
+"tone": 3,
+"sym":"改",
+"pinin":"gǎi",
+"translation": "to change"
+},
+{
+"consonant": "g",
+"vowel":"ai",
+"tone": 4,
+"sym":"盖",
+"pinin":"gài",
+"translation": "lid; top"
+},
+{
+"consonant": "k",
+"vowel":"ai",
+"tone": 1,
+"sym":"开",
+"pinin":"kāi",
+"translation": "to open"
+},
+{
+"consonant": "k",
+"vowel":"ai",
+"tone": 3,
+"sym":"凯",
+"pinin":"kǎi",
+"translation": "triumphant"
+},
+{
+"consonant": "k",
+"vowel":"ai",
+"tone": 4,
+"sym":"愒",
+"pinin":"kài",
+"translation": "to desire"
+},
+{
+"consonant": "h",
+"vowel":"ai",
+"tone": 1,
+"sym":"咳",
+"pinin":"hāi",
+"translation": "sound of sighing"
+},
+{
+"consonant": "h",
+"vowel":"ai",
+"tone": 2,
+"sym":"还",
+"pinin":"hái",
+"translation": "still; still in progress;"
+},
+{
+"consonant": "h",
+"vowel":"ai",
+"tone": 3,
+"sym":"海",
+"pinin":"hǎi",
+"translation": "ocean"
+},
+{
+"consonant": "h",
+"vowel":"ai",
+"tone": 4,
+"sym":"害",
+"pinin":"hài",
+"translation": "to do harm to"
+},
+{
+"consonant": "z",
+"vowel":"ai",
+"tone": 1,
+"sym":"栽",
+"pinin":"zāi",
+"translation": "to grow"
+},
+{
+"consonant": "z",
+"vowel":"ai",
+"tone": 3,
+"sym":"崽",
+"pinin":"zǎi",
+"translation": "child"
+},
+{
+"consonant": "z",
+"vowel":"ai",
+"tone": 4,
+"sym":"再",
+"pinin":"zài",
+"translation": "again"
+},
+{
+"consonant": "c",
+"vowel":"ai",
+"tone": 1,
+"sym":"猜",
+"pinin":"cāi",
+"translation": "to guess"
+},
+{
+"consonant": "c",
+"vowel":"ai",
+"tone": 2,
+"sym":"才",
+"pinin":"cái",
+"translation": "ability;"
+},
+{
+"consonant": "c",
+"vowel":"ai",
+"tone": 3,
+"sym":"采",
+"pinin":"cǎi",
+"translation": "to pick"
+},
+{
+"consonant": "c",
+"vowel":"ai",
+"tone": 4,
+"sym":"菜",
+"pinin":"cài",
+"translation": "dish"
+},
+{
+"consonant": "s",
+"vowel":"ai",
+"tone": 1,
+"sym":"腮",
+"pinin":"sāi",
+"translation": "cheek"
+},
+{
+"consonant": "s",
+"vowel":"ai",
+"tone": 3,
+"sym":"㗷",
+"pinin":"sǎi",
+"translation": "to bite"
+},
+{
+"consonant": "s",
+"vowel":"ai",
+"tone": 4,
+"sym":"赛",
+"pinin":"sài",
+"translation": "to compete"
+},
+{
+"consonant": "zh",
+"vowel":"ai",
+"tone": 1,
+"sym":"摘",
+"pinin":"zhāi",
+"translation": "to take"
+},
+{
+"consonant": "zh",
+"vowel":"ai",
+"tone": 2,
+"sym":"宅",
+"pinin":"zhái",
+"translation": "residence"
+},
+{
+"consonant": "zh",
+"vowel":"ai",
+"tone": 3,
+"sym":"窄",
+"pinin":"zhǎi",
+"translation": "narrow"
+},
+{
+"consonant": "zh",
+"vowel":"ai",
+"tone": 4,
+"sym":"债",
+"pinin":"zhài",
+"translation": "debt"
+},
+{
+"consonant": "ch",
+"vowel":"ai",
+"tone": 1,
+"sym":"差",
+"pinin":"chāi",
+"translation": "to send"
+},
+{
+"consonant": "ch",
+"vowel":"ai",
+"tone": 2,
+"sym":"柴",
+"pinin":"chái",
+"translation": "firewood"
+},
+{
+"consonant": "ch",
+"vowel":"ai",
+"tone": 3,
+"sym":"茝",
+"pinin":"chǎi",
+"translation": "aromatic plant"
+},
+{
+"consonant": "ch",
+"vowel":"ai",
+"tone": 4,
+"sym":"瘥",
+"pinin":"chài",
+"translation": "to recover from disease"
+},
+{
+"consonant": "sh",
+"vowel":"ai",
+"tone": 1,
+"sym":"筛",
+"pinin":"shāi",
+"translation": "to filter"
+},
+{
+"consonant": "sh",
+"vowel":"ai",
+"tone": 3,
+"sym":"色",
+"pinin":"shǎi",
+"translation": "color"
+},
+{
+"consonant": "sh",
+"vowel":"ai",
+"tone": 4,
+"sym":"晒",
+"pinin":"shài",
+"translation": "(of the sun) to shine on;"
+},
+{
+"consonant": "",
+"vowel":"an",
+"tone": 1,
+"sym":"安",
+"pinin":"ān",
+"translation": "content"
+},
+{
+"consonant": "",
+"vowel":"an",
+"tone": 2,
+"sym":"䜙",
+"pinin":"án",
+"translation": "not clever"
+},
+{
+"consonant": "",
+"vowel":"an",
+"tone": 3,
+"sym":"铵",
+"pinin":"ǎn",
+"translation": "ammonium"
+},
+{
+"consonant": "",
+"vowel":"an",
+"tone": 4,
+"sym":"按",
+"pinin":"àn",
+"translation": "to press"
+},
+{
+"consonant": "b",
+"vowel":"an",
+"tone": 1,
+"sym":"班",
+"pinin":"bān",
+"translation": "team"
+},
+{
+"consonant": "b",
+"vowel":"an",
+"tone": 3,
+"sym":"板",
+"pinin":"bǎn",
+"translation": "board"
+},
+{
+"consonant": "b",
+"vowel":"an",
+"tone": 4,
+"sym":"半",
+"pinin":"bàn",
+"translation": "half"
+},
+{
+"consonant": "p",
+"vowel":"an",
+"tone": 1,
+"sym":"攀",
+"pinin":"pān",
+"translation": "to climb"
+},
+{
+"consonant": "p",
+"vowel":"an",
+"tone": 2,
+"sym":"盘",
+"pinin":"pán",
+"translation": "plate"
+},
+{
+"consonant": "p",
+"vowel":"an",
+"tone": 4,
+"sym":"盼",
+"pinin":"pàn",
+"translation": "to hope for"
+},
+{
+"consonant": "m",
+"vowel":"an",
+"tone": 1,
+"sym":"颟",
+"pinin":"mān",
+"translation": "to dawdling"
+},
+{
+"consonant": "m",
+"vowel":"an",
+"tone": 2,
+"sym":"蛮",
+"pinin":"mán",
+"translation": "barbarian"
+},
+{
+"consonant": "m",
+"vowel":"an",
+"tone": 3,
+"sym":"满",
+"pinin":"mǎn",
+"translation": "to fill"
+},
+{
+"consonant": "m",
+"vowel":"an",
+"tone": 4,
+"sym":"慢",
+"pinin":"màn",
+"translation": "slow"
+},
+{
+"consonant": "f",
+"vowel":"an",
+"tone": 1,
+"sym":"翻",
+"pinin":"fān",
+"translation": "to turn over"
+},
+{
+"consonant": "f",
+"vowel":"an",
+"tone": 2,
+"sym":"凡",
+"pinin":"fán",
+"translation": "ordinary"
+},
+{
+"consonant": "f",
+"vowel":"an",
+"tone": 3,
+"sym":"反",
+"pinin":"fǎn",
+"translation": "contrary"
+},
+{
+"consonant": "f",
+"vowel":"an",
+"tone": 4,
+"sym":"饭",
+"pinin":"fàn",
+"translation": "cooked rice"
+},
+{
+"consonant": "d",
+"vowel":"an",
+"tone": 1,
+"sym":"单",
+"pinin":"dān",
+"translation": "bill"
+},
+{
+"consonant": "d",
+"vowel":"an",
+"tone": 3,
+"sym":"撢",
+"pinin":"dǎn",
+"translation": "to dust"
+},
+{
+"consonant": "d",
+"vowel":"an",
+"tone": 4,
+"sym":"蛋",
+"pinin":"dàn",
+"translation": "egg"
+},
+{
+"consonant": "t",
+"vowel":"an",
+"tone": 1,
+"sym":"贪",
+"pinin":"tān",
+"translation": "to have a voracious desire for"
+},
+{
+"consonant": "t",
+"vowel":"an",
+"tone": 2,
+"sym":"谈",
+"pinin":"tán",
+"translation": "to speak"
+},
+{
+"consonant": "t",
+"vowel":"an",
+"tone": 3,
+"sym":"坦",
+"pinin":"tǎn",
+"translation": "flat"
+},
+{
+"consonant": "t",
+"vowel":"an",
+"tone": 4,
+"sym":"探",
+"pinin":"tàn",
+"translation": "to explore"
+},
+{
+"consonant": "n",
+"vowel":"an",
+"tone": 1,
+"sym":"囡",
+"pinin":"nān",
+"translation": "child; daughter"
+},
+{
+"consonant": "n",
+"vowel":"an",
+"tone": 2,
+"sym":"男",
+"pinin":"nán",
+"translation": "male"
+},
+{
+"consonant": "n",
+"vowel":"an",
+"tone": 3,
+"sym":"戁",
+"pinin":"nǎn",
+"translation": "stand in awe"
+},
+{
+"consonant": "n",
+"vowel":"an",
+"tone": 4,
+"sym":"难",
+"pinin":"nàn",
+"translation": "disaster"
+},
+{
+"consonant": "l",
+"vowel":"an",
+"tone": 2,
+"sym":"蓝",
+"pinin":"lán",
+"translation": "blue"
+},
+{
+"consonant": "l",
+"vowel":"an",
+"tone": 3,
+"sym":"懒",
+"pinin":"lǎn",
+"translation": "lazy"
+},
+{
+"consonant": "l",
+"vowel":"an",
+"tone": 4,
+"sym":"烂",
+"pinin":"làn",
+"translation": "soft"
+},
+{
+"consonant": "g",
+"vowel":"an",
+"tone": 1,
+"sym":"干",
+"pinin":"gān",
+"translation": "dry"
+},
+{
+"consonant": "g",
+"vowel":"an",
+"tone": 3,
+"sym":"敢",
+"pinin":"gǎn",
+"translation": "to dare"
+},
+{
+"consonant": "g",
+"vowel":"an",
+"tone": 4,
+"sym":"干",
+"pinin":"gàn",
+"translation": "tree trunk"
+},
+{
+"consonant": "k",
+"vowel":"an",
+"tone": 1,
+"sym":"刊",
+"pinin":"kān",
+"translation": "to print"
+},
+{
+"consonant": "k",
+"vowel":"an",
+"tone": 3,
+"sym":"砍",
+"pinin":"kǎn",
+"translation": "to chop"
+},
+{
+"consonant": "k",
+"vowel":"an",
+"tone": 4,
+"sym":"看",
+"pinin":"kàn",
+"translation": "to see; to look at"
+},
+{
+"consonant": "h",
+"vowel":"an",
+"tone": 1,
+"sym":"唅",
+"pinin":"hān",
+"translation": "a sound"
+},
+{
+"consonant": "h",
+"vowel":"an",
+"tone": 2,
+"sym":"含",
+"pinin":"hán",
+"translation": "to keep"
+},
+{
+"consonant": "h",
+"vowel":"an",
+"tone": 3,
+"sym":"喊",
+"pinin":"hǎn",
+"translation": "to yell"
+},
+{
+"consonant": "h",
+"vowel":"an",
+"tone": 4,
+"sym":"旱",
+"pinin":"hàn",
+"translation": "drought"
+},
+{
+"consonant": "z",
+"vowel":"an",
+"tone": 1,
+"sym":"簪",
+"pinin":"zān",
+"translation": "hairpin"
+},
+{
+"consonant": "z",
+"vowel":"an",
+"tone": 2,
+"sym":"咱",
+"pinin":"zán",
+"translation": "we"
+},
+{
+"consonant": "z",
+"vowel":"an",
+"tone": 3,
+"sym":"攒",
+"pinin":"zǎn",
+"translation": "to collect"
+},
+{
+"consonant": "z",
+"vowel":"an",
+"tone": 4,
+"sym":"欑",
+"pinin":"zàn",
+"translation": "gather"
+},
+{
+"consonant": "c",
+"vowel":"an",
+"tone": 1,
+"sym":"参",
+"pinin":"cān",
+"translation": "to take part in"
+},
+{
+"consonant": "c",
+"vowel":"an",
+"tone": 2,
+"sym":"蚕",
+"pinin":"cán",
+"translation": "silkworm"
+},
+{
+"consonant": "c",
+"vowel":"an",
+"tone": 3,
+"sym":"惨",
+"pinin":"cǎn",
+"translation": "miserable"
+},
+{
+"consonant": "c",
+"vowel":"an",
+"tone": 4,
+"sym":"灿",
+"pinin":"càn",
+"translation": "glorious"
+},
+{
+"consonant": "s",
+"vowel":"an",
+"tone": 1,
+"sym":"三",
+"pinin":"sān",
+"translation": "three"
+},
+{
+"consonant": "s",
+"vowel":"an",
+"tone": 3,
+"sym":"伞",
+"pinin":"sǎn",
+"translation": "umbrella"
+},
+{
+"consonant": "s",
+"vowel":"an",
+"tone": 4,
+"sym":"散",
+"pinin":"sàn",
+"translation": "to scatter"
+},
+{
+"consonant": "zh",
+"vowel":"an",
+"tone": 1,
+"sym":"粘",
+"pinin":"zhān",
+"translation": "to glue"
+},
+{
+"consonant": "zh",
+"vowel":"an",
+"tone": 3,
+"sym":"盏",
+"pinin":"zhǎn",
+"translation": "a small cup"
+},
+{
+"consonant": "zh",
+"vowel":"an",
+"tone": 4,
+"sym":"站",
+"pinin":"zhàn",
+"translation": "station"
+},
+{
+"consonant": "ch",
+"vowel":"an",
+"tone": 1,
+"sym":"掺",
+"pinin":"chān",
+"translation": "to mix"
+},
+{
+"consonant": "ch",
+"vowel":"an",
+"tone": 2,
+"sym":"蝉",
+"pinin":"chán",
+"translation": "cicada"
+},
+{
+"consonant": "ch",
+"vowel":"an",
+"tone": 3,
+"sym":"产",
+"pinin":"chǎn",
+"translation": "to give birth"
+},
+{
+"consonant": "ch",
+"vowel":"an",
+"tone": 4,
+"sym":"儳",
+"pinin":"chàn",
+"translation": "irregular"
+},
+{
+"consonant": "sh",
+"vowel":"an",
+"tone": 1,
+"sym":"山",
+"pinin":"shān",
+"translation": "mountain"
+},
+{
+"consonant": "sh",
+"vowel":"an",
+"tone": 3,
+"sym":"闪",
+"pinin":"shǎn",
+"translation": "to dodge"
+},
+{
+"consonant": "sh",
+"vowel":"an",
+"tone": 4,
+"sym":"善",
+"pinin":"shàn",
+"translation": "good"
+},
+{
+"consonant": "r",
+"vowel":"an",
+"tone": 2,
+"sym":"燃",
+"pinin":"rán",
+"translation": "to burn"
+},
+{
+"consonant": "r",
+"vowel":"an",
+"tone": 3,
+"sym":"㿵",
+"pinin":"rǎn",
+"translation": "soft leather"
+},
+{
+"consonant": "",
+"vowel":"ang",
+"tone": 1,
+"sym":"骯",
+"pinin":"āng",
+"translation": "dirty; filthy"
+},
+{
+"consonant": "",
+"vowel":"ang",
+"tone": 2,
+"sym":"昂",
+"pinin":"áng",
+"translation": "to lift; to raise;"
+},
+{
+"consonant": "",
+"vowel":"ang",
+"tone": 3,
+"sym":"䭺",
+"pinin":"ǎng",
+"translation": "a scared horse"
+},
+{
+"consonant": "",
+"vowel":"ang",
+"tone": 4,
+"sym":"盎",
+"pinin":"àng",
+"translation": "bowl; dish; pot"
+},
+{
+"consonant": "b",
+"vowel":"ang",
+"tone": 1,
+"sym":"帮",
+"pinin":"bāng",
+"translation": "to help;"
+},
+{
+"consonant": "b",
+"vowel":"ang",
+"tone": 3,
+"sym":"绑",
+"pinin":"bǎng",
+"translation": "to tie;"
+},
+{
+"consonant": "b",
+"vowel":"ang",
+"tone": 4,
+"sym":"棒",
+"pinin":"bàng",
+"translation": "stick;"
+},
+{
+"consonant": "p",
+"vowel":"ang",
+"tone": 1,
+"sym":"胮",
+"pinin":"pāng",
+"translation": "to swell"
+},
+{
+"consonant": "p",
+"vowel":"ang",
+"tone": 2,
+"sym":"旁",
+"pinin":"páng",
+"translation": "one side; other; different;"
+},
+{
+"consonant": "p",
+"vowel":"ang",
+"tone": 3,
+"sym":"䒍",
+"pinin":"pǎng",
+"translation": "without color"
+},
+{
+"consonant": "p",
+"vowel":"ang",
+"tone": 4,
+"sym":"胖",
+"pinin":"pàng",
+"translation": "fat; plump"
+},
+{
+"consonant": "m",
+"vowel":"ang",
+"tone": 1,
+"sym":"牤",
+"pinin":"māng",
+"translation": "bull"
+},
+{
+"consonant": "m",
+"vowel":"ang",
+"tone": 2,
+"sym":"忙",
+"pinin":"máng",
+"translation": "busy"
+},
+{
+"consonant": "m",
+"vowel":"ang",
+"tone": 3,
+"sym":"蟒",
+"pinin":"mǎng",
+"translation": "python"
+},
+{
+"consonant": "f",
+"vowel":"ang",
+"tone": 1,
+"sym":"方",
+"pinin":"fāng",
+"translation": "square"
+},
+{
+"consonant": "f",
+"vowel":"ang",
+"tone": 2,
+"sym":"防",
+"pinin":"fáng",
+"translation": "to protect; to defend"
+},
+{
+"consonant": "f",
+"vowel":"ang",
+"tone": 3,
+"sym":"仿",
+"pinin":"fǎng",
+"translation": "to imitate; to copy"
+},
+{
+"consonant": "f",
+"vowel":"ang",
+"tone": 4,
+"sym":"放",
+"pinin":"fàng",
+"translation": "to put; to place; to release"
+},
+{
+"consonant": "d",
+"vowel":"ang",
+"tone": 1,
+"sym":"儅",
+"pinin":"dāng",
+"translation": "stop"
+},
+{
+"consonant": "d",
+"vowel":"ang",
+"tone": 3,
+"sym":"挡",
+"pinin":"dǎng",
+"translation": "to resist"
+},
+{
+"consonant": "d",
+"vowel":"ang",
+"tone": 4,
+"sym":"荡",
+"pinin":"dàng",
+"translation": "to wash"
+},
+{
+"consonant": "t",
+"vowel":"ang",
+"tone": 1,
+"sym":"汤",
+"pinin":"tāng",
+"translation": "soup"
+},
+{
+"consonant": "t",
+"vowel":"ang",
+"tone": 2,
+"sym":"糖",
+"pinin":"táng",
+"translation": "sugar; sweets; candy"
+},
+{
+"consonant": "t",
+"vowel":"ang",
+"tone": 3,
+"sym":"躺",
+"pinin":"tǎng",
+"translation": "to recline"
+},
+{
+"consonant": "t",
+"vowel":"ang",
+"tone": 4,
+"sym":"烫",
+"pinin":"tàng",
+"translation": "to scald"
+},
+{
+"consonant": "n",
+"vowel":"ang",
+"tone": 1,
+"sym":"乪",
+"pinin":"nāng",
+"translation": "a bend in a river"
+},
+{
+"consonant": "n",
+"vowel":"ang",
+"tone": 2,
+"sym":"囊",
+"pinin":"náng",
+"translation": "sack"
+},
+{
+"consonant": "n",
+"vowel":"ang",
+"tone": 3,
+"sym":"攮",
+"pinin":"nǎng",
+"translation": "to fend off; to stab"
+},
+{
+"consonant": "n",
+"vowel":"ang",
+"tone": 4,
+"sym":"㚂",
+"pinin":"nàng",
+"translation": "dust; dirt"
+},
+{
+"consonant": "l",
+"vowel":"ang",
+"tone": 2,
+"sym":"狼",
+"pinin":"láng",
+"translation": "wolf"
+},
+{
+"consonant": "l",
+"vowel":"ang",
+"tone": 3,
+"sym":"朗",
+"pinin":"lǎng",
+"translation": "clear; bright"
+},
+{
+"consonant": "l",
+"vowel":"ang",
+"tone": 4,
+"sym":"浪",
+"pinin":"làng",
+"translation": "wave"
+},
+{
+"consonant": "g",
+"vowel":"ang",
+"tone": 1,
+"sym":"钢",
+"pinin":"gāng",
+"translation": "steel"
+},
+{
+"consonant": "g",
+"vowel":"ang",
+"tone": 3,
+"sym":"港",
+"pinin":"gǎng",
+"translation": "harbor"
+},
+{
+"consonant": "g",
+"vowel":"ang",
+"tone": 4,
+"sym":"鿍",
+"pinin":"gàng",
+"translation": "hill"
+},
+{
+"consonant": "k",
+"vowel":"ang",
+"tone": 1,
+"sym":"康",
+"pinin":"kāng",
+"translation": "healthy"
+},
+{
+"consonant": "k",
+"vowel":"ang",
+"tone": 2,
+"sym":"扛",
+"pinin":"káng",
+"translation": "to carry on one's shoulder"
+},
+{
+"consonant": "k",
+"vowel":"ang",
+"tone": 3,
+"sym":"䡉",
+"pinin":"kǎng",
+"translation": "kind of cart"
+},
+{
+"consonant": "k",
+"vowel":"ang",
+"tone": 4,
+"sym":"亢",
+"pinin":"kàng",
+"translation": "high"
+},
+{
+"consonant": "h",
+"vowel":"ang",
+"tone": 1,
+"sym":"夯",
+"pinin":"hāng",
+"translation": "to tamp"
+},
+{
+"consonant": "h",
+"vowel":"ang",
+"tone": 2,
+"sym":"行",
+"pinin":"háng",
+"translation": "row"
+},
+{
+"consonant": "h",
+"vowel":"ang",
+"tone": 4,
+"sym":"沆",
+"pinin":"hàng",
+"translation": "a fog"
+},
+{
+"consonant": "z",
+"vowel":"ang",
+"tone": 1,
+"sym":"脏",
+"pinin":"zāng",
+"translation": "dirty; filthy"
+},
+{
+"consonant": "z",
+"vowel":"ang",
+"tone": 3,
+"sym":"驵",
+"pinin":"zǎng",
+"translation": "powerful horse"
+},
+{
+"consonant": "z",
+"vowel":"ang",
+"tone": 4,
+"sym":"葬",
+"pinin":"zàng",
+"translation": "to bury (the dead)"
+},
+{
+"consonant": "s",
+"vowel":"ang",
+"tone": 1,
+"sym":"丧",
+"pinin":"sāng",
+"translation": "mourning; funeral"
+},
+{
+"consonant": "s",
+"vowel":"ang",
+"tone": 3,
+"sym":"嗓",
+"pinin":"sǎng",
+"translation": "throat; voice"
+},
+{
+"consonant": "s",
+"vowel":"ang",
+"tone": 4,
+"sym":"丧",
+"pinin":"sàng",
+"translation": "to lose something abstract but important"
+},
+{
+"consonant": "c",
+"vowel":"ang",
+"tone": 1,
+"sym":"舱",
+"pinin":"cāng",
+"translation": "cabin"
+},
+{
+"consonant": "c",
+"vowel":"ang",
+"tone": 2,
+"sym":"藏",
+"pinin":"cáng",
+"translation": "to conceal; to hide away"
+},
+{
+"consonant": "c",
+"vowel":"ang",
+"tone": 4,
+"sym":"䢢",
+"pinin":"càng",
+"translation": "to pass"
+},
+{
+"consonant": "zh",
+"vowel":"ang",
+"tone": 1,
+"sym":"张",
+"pinin":"zhāng",
+"translation": "to open up"
+},
+{
+"consonant": "zh",
+"vowel":"ang",
+"tone": 3,
+"sym":"长",
+"pinin":"zhǎng",
+"translation": "chief"
+},
+{
+"consonant": "zh",
+"vowel":"ang",
+"tone": 4,
+"sym":"仗",
+"pinin":"zhàng",
+"translation": "war; battle"
+},
+{
+"consonant": "sh",
+"vowel":"ang",
+"tone": 1,
+"sym":"伤",
+"pinin":"shāng",
+"translation": "to injure"
+},
+{
+"consonant": "sh",
+"vowel":"ang",
+"tone": 3,
+"sym":"赏",
+"pinin":"shǎng",
+"translation": "to bestow (a reward)"
+},
+{
+"consonant": "sh",
+"vowel":"ang",
+"tone": 4,
+"sym":"上",
+"pinin":"shàng",
+"translation": "on top"
+},
+{
+"consonant": "ch",
+"vowel":"ang",
+"tone": 1,
+"sym":"昌",
+"pinin":"chāng",
+"translation": "prosperous"
+},
+{
+"consonant": "ch",
+"vowel":"ang",
+"tone": 2,
+"sym":"常",
+"pinin":"cháng",
+"translation": "always"
+},
+{
+"consonant": "ch",
+"vowel":"ang",
+"tone": 3,
+"sym":"场",
+"pinin":"chǎng",
+"translation": "stage"
+},
+{
+"consonant": "ch",
+"vowel":"ang",
+"tone": 4,
+"sym":"唱",
+"pinin":"chàng",
+"translation": "to sing"
+},
+{
+"consonant": "r",
+"vowel":"ang",
+"tone": 2,
+"sym":"瀼",
+"pinin":"ráng",
+"translation": "dewy"
+},
+{
+"consonant": "r",
+"vowel":"ang",
+"tone": 3,
+"sym":"壤",
+"pinin":"rǎng",
+"translation": "soil; earth"
+},
+{
+"consonant": "r",
+"vowel":"ang",
+"tone": 4,
+"sym":"让",
+"pinin":"ràng",
+"translation": "to yield"
+},
+{
+"consonant": "",
+"vowel":"ao",
+"tone": 1,
+"sym":"凹",
+"pinin":"āo",
+"translation": "depressed"
+},
+{
+"consonant": "",
+"vowel":"ao",
+"tone": 2,
+"sym":"熬",
+"pinin":"áo",
+"translation": "to cook on a slow fire"
+},
+{
+"consonant": "",
+"vowel":"ao",
+"tone": 3,
+"sym":"袄",
+"pinin":"ǎo",
+"translation": "coat;"
+},
+{
+"consonant": "",
+"vowel":"ao",
+"tone": 4,
+"sym":"奥",
+"pinin":"ào",
+"translation": "obscure"
+},
+{
+"consonant": "b",
+"vowel":"ao",
+"tone": 1,
+"sym":"包",
+"pinin":"bāo",
+"translation": "to cover"
+},
+{
+"consonant": "b",
+"vowel":"ao",
+"tone": 2,
+"sym":"薄",
+"pinin":"báo",
+"translation": "thin"
+},
+{
+"consonant": "b",
+"vowel":"ao",
+"tone": 3,
+"sym":"宝",
+"pinin":"bǎo",
+"translation": "jewel; gem; treasure"
+},
+{
+"consonant": "b",
+"vowel":"ao",
+"tone": 4,
+"sym":"抱",
+"pinin":"bào",
+"translation": "to hold"
+},
+{
+"consonant": "p",
+"vowel":"ao",
+"tone": 1,
+"sym":"抛",
+"pinin":"pāo",
+"translation": "to throw"
+},
+{
+"consonant": "p",
+"vowel":"ao",
+"tone": 2,
+"sym":"刨",
+"pinin":"páo",
+"translation": "to dig"
+},
+{
+"consonant": "p",
+"vowel":"ao",
+"tone": 3,
+"sym":"跑",
+"pinin":"pǎo",
+"translation": "to run"
+},
+{
+"consonant": "p",
+"vowel":"ao",
+"tone": 4,
+"sym":"泡",
+"pinin":"pào",
+"translation": "bubble"
+},
+{
+"consonant": "m",
+"vowel":"ao",
+"tone": 1,
+"sym":"猫",
+"pinin":"māo",
+"translation": "cat"
+},
+{
+"consonant": "m",
+"vowel":"ao",
+"tone": 2,
+"sym":"毛",
+"pinin":"máo",
+"translation": "hair"
+},
+{
+"consonant": "m",
+"vowel":"ao",
+"tone": 3,
+"sym":"泖",
+"pinin":"mǎo",
+"translation": "still water"
+},
+{
+"consonant": "m",
+"vowel":"ao",
+"tone": 4,
+"sym":"媢",
+"pinin":"mào",
+"translation": "envious"
+},
+{
+"consonant": "d",
+"vowel":"ao",
+"tone": 1,
+"sym":"刀",
+"pinin":"dāo",
+"translation": "knife"
+},
+{
+"consonant": "d",
+"vowel":"ao",
+"tone": 3,
+"sym":"倒",
+"pinin":"dǎo",
+"translation": "to fall"
+},
+{
+"consonant": "d",
+"vowel":"ao",
+"tone": 4,
+"sym":"道",
+"pinin":"dào",
+"translation": "road; path"
+},
+{
+"consonant": "t",
+"vowel":"ao",
+"tone": 1,
+"sym":"弢",
+"pinin":"tāo",
+"translation": "to cover"
+},
+{
+"consonant": "t",
+"vowel":"ao",
+"tone": 2,
+"sym":"逃",
+"pinin":"táo",
+"translation": "to escape"
+},
+{
+"consonant": "t",
+"vowel":"ao",
+"tone": 3,
+"sym":"讨",
+"pinin":"tǎo",
+"translation": "to invite"
+},
+{
+"consonant": "t",
+"vowel":"ao",
+"tone": 4,
+"sym":"套",
+"pinin":"tào",
+"translation": "to cover"
+},
+{
+"consonant": "n",
+"vowel":"ao",
+"tone": 1,
+"sym":"孬",
+"pinin":"nāo",
+"translation": "no good"
+},
+{
+"consonant": "n",
+"vowel":"ao",
+"tone": 2,
+"sym":"䛝",
+"pinin":"náo",
+"translation": "to puzzle"
+},
+{
+"consonant": "n",
+"vowel":"ao",
+"tone": 3,
+"sym":"脑",
+"pinin":"nǎo",
+"translation": "brain; mind"
+},
+{
+"consonant": "n",
+"vowel":"ao",
+"tone": 4,
+"sym":"闹",
+"pinin":"nào",
+"translation": "noisy"
+},
+{
+"consonant": "l",
+"vowel":"ao",
+"tone": 1,
+"sym":"捞",
+"pinin":"lāo",
+"translation": "to fish up"
+},
+{
+"consonant": "l",
+"vowel":"ao",
+"tone": 2,
+"sym":"牢",
+"pinin":"láo",
+"translation": "firm"
+},
+{
+"consonant": "l",
+"vowel":"ao",
+"tone": 3,
+"sym":"咾",
+"pinin":"lǎo",
+"translation": "a sound"
+},
+{
+"consonant": "l",
+"vowel":"ao",
+"tone": 4,
+"sym":"涝",
+"pinin":"lào",
+"translation": "flooded"
+},
+{
+"consonant": "g",
+"vowel":"ao",
+"tone": 1,
+"sym":"槔",
+"pinin":"gāo",
+"translation": "water pulley"
+},
+{
+"consonant": "g",
+"vowel":"ao",
+"tone": 3,
+"sym":"搞",
+"pinin":"gǎo",
+"translation": "to do"
+},
+{
+"consonant": "g",
+"vowel":"ao",
+"tone": 4,
+"sym":"告",
+"pinin":"gào",
+"translation": "to say"
+},
+{
+"consonant": "k",
+"vowel":"ao",
+"tone": 1,
+"sym":"尻",
+"pinin":"kāo",
+"translation": "coccyx"
+},
+{
+"consonant": "k",
+"vowel":"ao",
+"tone": 3,
+"sym":"烤",
+"pinin":"kǎo",
+"translation": "to roast"
+},
+{
+"consonant": "k",
+"vowel":"ao",
+"tone": 4,
+"sym":"䎋",
+"pinin":"kào",
+"translation": "fly"
+},
+{
+"consonant": "h",
+"vowel":"ao",
+"tone": 1,
+"sym":"嚆",
+"pinin":"hāo",
+"translation": "sound; noise"
+},
+{
+"consonant": "h",
+"vowel":"ao",
+"tone": 2,
+"sym":"嗥",
+"pinin":"háo",
+"translation": "to howl (like a wolf)"
+},
+{
+"consonant": "h",
+"vowel":"ao",
+"tone": 3,
+"sym":"好",
+"pinin":"hǎo",
+"translation": "good"
+},
+{
+"consonant": "h",
+"vowel":"ao",
+"tone": 4,
+"sym":"号",
+"pinin":"hào",
+"translation": "day of a month"
+},
+{
+"consonant": "z",
+"vowel":"ao",
+"tone": 1,
+"sym":"傮",
+"pinin":"zāo",
+"translation": "finis"
+},
+{
+"consonant": "z",
+"vowel":"ao",
+"tone": 2,
+"sym":"凿",
+"pinin":"záo",
+"translation": "chisel"
+},
+{
+"consonant": "z",
+"vowel":"ao",
+"tone": 3,
+"sym":"早",
+"pinin":"zǎo",
+"translation": "early"
+},
+{
+"consonant": "z",
+"vowel":"ao",
+"tone": 4,
+"sym":"造",
+"pinin":"zào",
+"translation": "to make"
+},
+{
+"consonant": "s",
+"vowel":"ao",
+"tone": 1,
+"sym":"慅",
+"pinin":"sāo",
+"translation": "agitated"
+},
+{
+"consonant": "s",
+"vowel":"ao",
+"tone": 3,
+"sym":"扫",
+"pinin":"sǎo",
+"translation": "to sweep"
+},
+{
+"consonant": "s",
+"vowel":"ao",
+"tone": 4,
+"sym":"喿",
+"pinin":"sào",
+"translation": "chirping of birds"
+},
+{
+"consonant": "c",
+"vowel":"ao",
+"tone": 1,
+"sym":"糙",
+"pinin":"cāo",
+"translation": "rough"
+},
+{
+"consonant": "c",
+"vowel":"ao",
+"tone": 2,
+"sym":"槽",
+"pinin":"cáo",
+"translation": "trough"
+},
+{
+"consonant": "c",
+"vowel":"ao",
+"tone": 3,
+"sym":"草",
+"pinin":"cǎo",
+"translation": "grass"
+},
+{
+"consonant": "c",
+"vowel":"ao",
+"tone": 4,
+"sym":"鄵",
+"pinin":"cào",
+"translation": "ancient place name"
+},
+{
+"consonant": "zh",
+"vowel":"ao",
+"tone": 1,
+"sym":"招",
+"pinin":"zhāo",
+"translation": "to recruit"
+},
+{
+"consonant": "zh",
+"vowel":"ao",
+"tone": 2,
+"sym":"着",
+"pinin":"zháo",
+"translation": "to touch"
+},
+{
+"consonant": "zh",
+"vowel":"ao",
+"tone": 3,
+"sym":"找",
+"pinin":"zhǎo",
+"translation": "to try to find"
+},
+{
+"consonant": "zh",
+"vowel":"ao",
+"tone": 4,
+"sym":"照",
+"pinin":"zhào",
+"translation": "according to"
+},
+{
+"consonant": "sh",
+"vowel":"ao",
+"tone": 1,
+"sym":"烧",
+"pinin":"shāo",
+"translation": "to burn; to cook"
+},
+{
+"consonant": "sh",
+"vowel":"ao",
+"tone": 2,
+"sym":"韶",
+"pinin":"sháo",
+"translation": "excellent; harmonious"
+},
+{
+"consonant": "sh",
+"vowel":"ao",
+"tone": 3,
+"sym":"少",
+"pinin":"shǎo",
+"translation": "few; less"
+},
+{
+"consonant": "sh",
+"vowel":"ao",
+"tone": 4,
+"sym":"哨",
+"pinin":"shào",
+"translation": "a whistle; sentry"
+},
+{
+"consonant": "ch",
+"vowel":"ao",
+"tone": 1,
+"sym":"抄",
+"pinin":"chāo",
+"translation": "to make a copy"
+},
+{
+"consonant": "ch",
+"vowel":"ao",
+"tone": 2,
+"sym":"潮",
+"pinin":"cháo",
+"translation": "tide"
+},
+{
+"consonant": "ch",
+"vowel":"ao",
+"tone": 3,
+"sym":"吵",
+"pinin":"chǎo",
+"translation": "to quarrel"
+},
+{
+"consonant": "r",
+"vowel":"ao",
+"tone": 2,
+"sym":"饶",
+"pinin":"ráo",
+"translation": "rich"
+},
+{
+"consonant": "r",
+"vowel":"ao",
+"tone": 3,
+"sym":"㑱",
+"pinin":"rǎo",
+"translation": "kind of monkey"
+},
+{
+"consonant": "r",
+"vowel":"ao",
+"tone": 4,
+"sym":"绕",
+"pinin":"rào",
+"translation": "to wind"
+},
+{
+"consonant": "",
+"vowel":"e",
+"tone": 1,
+"sym":"婀",
+"pinin":"ē",
+"translation": "graceful"
+},
+{
+"consonant": "",
+"vowel":"e",
+"tone": 2,
+"sym":"鹅",
+"pinin":"é",
+"translation": "goose"
+},
+{
+"consonant": "",
+"vowel":"e",
+"tone": 3,
+"sym":"頋",
+"pinin":"ě",
+"translation": "to care for"
+},
+{
+"consonant": "",
+"vowel":"e",
+"tone": 4,
+"sym":"饿",
+"pinin":"è",
+"translation": "to be hungry"
+},
+{
+"consonant": "d",
+"vowel":"e",
+"tone": 1,
+"sym":"嘚",
+"pinin":"dē",
+"translation": "for the sound of horsehoofs"
+},
+{
+"consonant": "d",
+"vowel":"e",
+"tone": 2,
+"sym":"得",
+"pinin":"dé",
+"translation": "to obtain"
+},
+{
+"consonant": "t",
+"vowel":"e",
+"tone": 4,
+"sym":"特",
+"pinin":"tè",
+"translation": "special"
+},
+{
+"consonant": "n",
+"vowel":"e",
+"tone": 4,
+"sym":"疒",
+"pinin":"nè",
+"translation": "sick"
+},
+{
+"consonant": "l",
+"vowel":"e",
+"tone": 4,
+"sym":"乐",
+"pinin":"lè",
+"translation": "happy"
+},
+{
+"consonant": "g",
+"vowel":"e",
+"tone": 1,
+"sym":"割",
+"pinin":"gē",
+"translation": "to cut"
+},
+{
+"consonant": "g",
+"vowel":"e",
+"tone": 2,
+"sym":"隔",
+"pinin":"gé",
+"translation": "to separate"
+},
+{
+"consonant": "g",
+"vowel":"e",
+"tone": 3,
+"sym":"哿",
+"pinin":"gě",
+"translation": "excellent"
+},
+{
+"consonant": "g",
+"vowel":"e",
+"tone": 4,
+"sym":"个",
+"pinin":"gè",
+"translation": "individual"
+},
+{
+"consonant": "k",
+"vowel":"e",
+"tone": 1,
+"sym":"颗",
+"pinin":"kē",
+"translation": "corn grains"
+},
+{
+"consonant": "k",
+"vowel":"e",
+"tone": 2,
+"sym":"咳",
+"pinin":"ké",
+"translation": "cough"
+},
+{
+"consonant": "k",
+"vowel":"e",
+"tone": 3,
+"sym":"渴",
+"pinin":"kě",
+"translation": "thirsty"
+},
+{
+"consonant": "k",
+"vowel":"e",
+"tone": 4,
+"sym":"克",
+"pinin":"kè",
+"translation": "to be able to"
+},
+{
+"consonant": "h",
+"vowel":"e",
+"tone": 1,
+"sym":"喝",
+"pinin":"hē",
+"translation": "to drink;"
+},
+{
+"consonant": "h",
+"vowel":"e",
+"tone": 2,
+"sym":"河",
+"pinin":"hé",
+"translation": "river"
+},
+{
+"consonant": "h",
+"vowel":"e",
+"tone": 4,
+"sym":"喝",
+"pinin":"hè",
+"translation": "to shout"
+},
+{
+"consonant": "z",
+"vowel":"e",
+"tone": 2,
+"sym":"泽",
+"pinin":"zé",
+"translation": "pool"
+},
+{
+"consonant": "z",
+"vowel":"e",
+"tone": 4,
+"sym":"昃",
+"pinin":"zè",
+"translation": "afternoon"
+},
+{
+"consonant": "s",
+"vowel":"e",
+"tone": 1,
+"sym":"閪",
+"pinin":"sē",
+"translation": "to lose item"
+},
+{
+"consonant": "s",
+"vowel":"e",
+"tone": 4,
+"sym":"色",
+"pinin":"sè",
+"translation": "color"
+},
+{
+"consonant": "c",
+"vowel":"e",
+"tone": 4,
+"sym":"册",
+"pinin":"cè",
+"translation": "book"
+},
+{
+"consonant": "zh",
+"vowel":"e",
+"tone": 1,
+"sym":"遮",
+"pinin":"zhē",
+"translation": "to cover up"
+},
+{
+"consonant": "zh",
+"vowel":"e",
+"tone": 2,
+"sym":"折",
+"pinin":"zhé",
+"translation": "to break"
+},
+{
+"consonant": "zh",
+"vowel":"e",
+"tone": 3,
+"sym":"褶",
+"pinin":"zhě",
+"translation": "pleat"
+},
+{
+"consonant": "zh",
+"vowel":"e",
+"tone": 4,
+"sym":"这",
+"pinin":"zhè",
+"translation": "this"
+},
+{
+"consonant": "sh",
+"vowel":"e",
+"tone": 1,
+"sym":"奢",
+"pinin":"shē",
+"translation": "extravagant"
+},
+{
+"consonant": "sh",
+"vowel":"e",
+"tone": 2,
+"sym":"蛇",
+"pinin":"shé",
+"translation": "snake"
+},
+{
+"consonant": "sh",
+"vowel":"e",
+"tone": 3,
+"sym":"舍",
+"pinin":"shě",
+"translation": "to give up"
+},
+{
+"consonant": "sh",
+"vowel":"e",
+"tone": 4,
+"sym":"射",
+"pinin":"shè",
+"translation": "to shoot"
+},
+{
+"consonant": "ch",
+"vowel":"e",
+"tone": 1,
+"sym":"车",
+"pinin":"chē",
+"translation": "car"
+},
+{
+"consonant": "ch",
+"vowel":"e",
+"tone": 3,
+"sym":"扯",
+"pinin":"chě",
+"translation": "to pull"
+},
+{
+"consonant": "ch",
+"vowel":"e",
+"tone": 4,
+"sym":"撤",
+"pinin":"chè",
+"translation": "to remove"
+},
+{
+"consonant": "r",
+"vowel":"e",
+"tone": 3,
+"sym":"喏",
+"pinin":"rě",
+"translation": "to salute; make one's curtsy"
+},
+{
+"consonant": "r",
+"vowel":"e",
+"tone": 4,
+"sym":"热",
+"pinin":"rè",
+"translation": "to warm up;"
+},
+{
+"consonant": "",
+"vowel":"ei",
+"tone": 1,
+"sym":"诶",
+"pinin":"ēi",
+"translation": "hey (to call somebody)"
+},
+{
+"consonant": "",
+"vowel":"ei",
+"tone": 2,
+"sym":"诶",
+"pinin":"éi",
+"translation": "hey (to express surprise)"
+},
+{
+"consonant": "",
+"vowel":"ei",
+"tone": 3,
+"sym":"诶",
+"pinin":"ěi",
+"translation": "hey (to express disagreement)"
+},
+{
+"consonant": "",
+"vowel":"ei",
+"tone": 4,
+"sym":"诶",
+"pinin":"èi",
+"translation": "hey (to express agreement)"
+},
+{
+"consonant": "b",
+"vowel":"ei",
+"tone": 1,
+"sym":"杯",
+"pinin":"bēi",
+"translation": "cup"
+},
+{
+"consonant": "b",
+"vowel":"ei",
+"tone": 3,
+"sym":"北",
+"pinin":"běi",
+"translation": "north"
+},
+{
+"consonant": "b",
+"vowel":"ei",
+"tone": 4,
+"sym":"倍",
+"pinin":"bèi",
+"translation": "double"
+},
+{
+"consonant": "p",
+"vowel":"ei",
+"tone": 1,
+"sym":"柸",
+"pinin":"pēi",
+"translation": "to hate"
+},
+{
+"consonant": "p",
+"vowel":"ei",
+"tone": 2,
+"sym":"陪",
+"pinin":"péi",
+"translation": "to accompany"
+},
+{
+"consonant": "p",
+"vowel":"ei",
+"tone": 4,
+"sym":"配",
+"pinin":"pèi",
+"translation": "to join"
+},
+{
+"consonant": "m",
+"vowel":"ei",
+"tone": 2,
+"sym":"没",
+"pinin":"méi",
+"translation": "have not"
+},
+{
+"consonant": "m",
+"vowel":"ei",
+"tone": 3,
+"sym":"每",
+"pinin":"měi",
+"translation": "each; every"
+},
+{
+"consonant": "m",
+"vowel":"ei",
+"tone": 4,
+"sym":"妹",
+"pinin":"mèi",
+"translation": "younger sister"
+},
+{
+"consonant": "f",
+"vowel":"ei",
+"tone": 1,
+"sym":"飞",
+"pinin":"fēi",
+"translation": "to fly"
+},
+{
+"consonant": "f",
+"vowel":"ei",
+"tone": 2,
+"sym":"肥",
+"pinin":"féi",
+"translation": "fat"
+},
+{
+"consonant": "f",
+"vowel":"ei",
+"tone": 3,
+"sym":"朏",
+"pinin":"fěi",
+"translation": "crescent moon"
+},
+{
+"consonant": "f",
+"vowel":"ei",
+"tone": 4,
+"sym":"费",
+"pinin":"fèi",
+"translation": "to cost"
+},
+{
+"consonant": "d",
+"vowel":"ei",
+"tone": 3,
+"sym":"得",
+"pinin":"děi",
+"translation": "to have to"
+},
+{
+"consonant": "n",
+"vowel":"ei",
+"tone": 3,
+"sym":"哪",
+"pinin":"něi",
+"translation": "which"
+},
+{
+"consonant": "n",
+"vowel":"ei",
+"tone": 4,
+"sym":"内",
+"pinin":"nèi",
+"translation": "inside"
+},
+{
+"consonant": "l",
+"vowel":"ei",
+"tone": 1,
+"sym":"勒",
+"pinin":"lēi",
+"translation": "to strap tightly; to bind"
+},
+{
+"consonant": "l",
+"vowel":"ei",
+"tone": 2,
+"sym":"雷",
+"pinin":"léi",
+"translation": "thunder"
+},
+{
+"consonant": "l",
+"vowel":"ei",
+"tone": 3,
+"sym":"儡",
+"pinin":"lěi",
+"translation": "puppet"
+},
+{
+"consonant": "l",
+"vowel":"ei",
+"tone": 4,
+"sym":"泪",
+"pinin":"lèi",
+"translation": "tears"
+},
+{
+"consonant": "g",
+"vowel":"ei",
+"tone": 3,
+"sym":"给",
+"pinin":"gěi",
+"translation": "to; for"
+},
+{
+"consonant": "h",
+"vowel":"ei",
+"tone": 1,
+"sym":"黑",
+"pinin":"hēi",
+"translation": "black"
+},
+{
+"consonant": "z",
+"vowel":"ei",
+"tone": 2,
+"sym":"贼",
+"pinin":"zéi",
+"translation": "thief"
+},
+{
+"consonant": "sh",
+"vowel":"ei",
+"tone": 2,
+"sym":"谁",
+"pinin":"shéi",
+"translation": "who"
+},
+{
+"consonant": "",
+"vowel":"en",
+"tone": 1,
+"sym":"恩",
+"pinin":"ēn",
+"translation": "favor"
+},
+{
+"consonant": "",
+"vowel":"en",
+"tone": 3,
+"sym":"䅰",
+"pinin":"ěn",
+"translation": "kind of grass"
+},
+{
+"consonant": "",
+"vowel":"en",
+"tone": 4,
+"sym":"摁",
+"pinin":"èn",
+"translation": "to press"
+},
+{
+"consonant": "b",
+"vowel":"en",
+"tone": 1,
+"sym":"奔",
+"pinin":"bēn",
+"translation": "to hurry"
+},
+{
+"consonant": "b",
+"vowel":"en",
+"tone": 3,
+"sym":"本",
+"pinin":"běn",
+"translation": "root; stem"
+},
+{
+"consonant": "b",
+"vowel":"en",
+"tone": 4,
+"sym":"笨",
+"pinin":"bèn",
+"translation": "stupid; foolish"
+},
+{
+"consonant": "p",
+"vowel":"en",
+"tone": 1,
+"sym":"喷",
+"pinin":"pēn",
+"translation": "to puff"
+},
+{
+"consonant": "p",
+"vowel":"en",
+"tone": 2,
+"sym":"盆",
+"pinin":"pén",
+"translation": "basin"
+},
+{
+"consonant": "p",
+"vowel":"en",
+"tone": 4,
+"sym":"喷",
+"pinin":"pèn",
+"translation": "(of a smell) strong"
+},
+{
+"consonant": "m",
+"vowel":"en",
+"tone": 1,
+"sym":"闷",
+"pinin":"mēn",
+"translation": "shut indoors"
+},
+{
+"consonant": "m",
+"vowel":"en",
+"tone": 2,
+"sym":"门",
+"pinin":"mén",
+"translation": "gate; door"
+},
+{
+"consonant": "m",
+"vowel":"en",
+"tone": 4,
+"sym":"懑",
+"pinin":"mèn",
+"translation": "melancholy"
+},
+{
+"consonant": "f",
+"vowel":"en",
+"tone": 1,
+"sym":"分",
+"pinin":"fēn",
+"translation": "to divide"
+},
+{
+"consonant": "f",
+"vowel":"en",
+"tone": 2,
+"sym":"坟",
+"pinin":"fén",
+"translation": "grave"
+},
+{
+"consonant": "f",
+"vowel":"en",
+"tone": 3,
+"sym":"粉",
+"pinin":"fěn",
+"translation": "powder"
+},
+{
+"consonant": "f",
+"vowel":"en",
+"tone": 4,
+"sym":"忿",
+"pinin":"fèn",
+"translation": "anger"
+},
+{
+"consonant": "d",
+"vowel":"en",
+"tone": 4,
+"sym":"扽",
+"pinin":"dèn",
+"translation": "to yank; to pull tight"
+},
+{
+"consonant": "n",
+"vowel":"en",
+"tone": 4,
+"sym":"嫩",
+"pinin":"nèn",
+"translation": "tender; soft"
+},
+{
+"consonant": "g",
+"vowel":"en",
+"tone": 1,
+"sym":"根",
+"pinin":"gēn",
+"translation": "root"
+},
+{
+"consonant": "g",
+"vowel":"en",
+"tone": 2,
+"sym":"哏",
+"pinin":"gén",
+"translation": "funny"
+},
+{
+"consonant": "g",
+"vowel":"en",
+"tone": 3,
+"sym":"艮",
+"pinin":"gěn",
+"translation": "tough"
+},
+{
+"consonant": "g",
+"vowel":"en",
+"tone": 4,
+"sym":"亘",
+"pinin":"gèn",
+"translation": "extending all the way across"
+},
+{
+"consonant": "k",
+"vowel":"en",
+"tone": 3,
+"sym":"肯",
+"pinin":"kěn",
+"translation": "to agree"
+},
+{
+"consonant": "k",
+"vowel":"en",
+"tone": 4,
+"sym":"掯",
+"pinin":"kèn",
+"translation": "to push down"
+},
+{
+"consonant": "h",
+"vowel":"en",
+"tone": 2,
+"sym":"拫",
+"pinin":"hén",
+"translation": "to pull; to drag"
+},
+{
+"consonant": "h",
+"vowel":"en",
+"tone": 3,
+"sym":"佷",
+"pinin":"hěn",
+"translation": "to act contrary to"
+},
+{
+"consonant": "h",
+"vowel":"en",
+"tone": 4,
+"sym":"恨",
+"pinin":"hèn",
+"translation": "to hate"
+},
+{
+"consonant": "z",
+"vowel":"en",
+"tone": 1,
+"sym":"㻸",
+"pinin":"zēn",
+"translation": "jade stone"
+},
+{
+"consonant": "z",
+"vowel":"en",
+"tone": 3,
+"sym":"怎",
+"pinin":"zěn",
+"translation": "how"
+},
+{
+"consonant": "z",
+"vowel":"en",
+"tone": 4,
+"sym":"谮",
+"pinin":"zèn",
+"translation": "to slander"
+},
+{
+"consonant": "s",
+"vowel":"en",
+"tone": 1,
+"sym":"森",
+"pinin":"sēn",
+"translation": "forest"
+},
+{
+"consonant": "c",
+"vowel":"en",
+"tone": 1,
+"sym":"嵾",
+"pinin":"cēn",
+"translation": "uneven"
+},
+{
+"consonant": "c",
+"vowel":"en",
+"tone": 2,
+"sym":"涔",
+"pinin":"cén",
+"translation": "overflow;"
+},
+{
+"consonant": "zh",
+"vowel":"en",
+"tone": 1,
+"sym":"真",
+"pinin":"zhēn",
+"translation": "really"
+},
+{
+"consonant": "zh",
+"vowel":"en",
+"tone": 3,
+"sym":"畛",
+"pinin":"zhěn",
+"translation": "border"
+},
+{
+"consonant": "zh",
+"vowel":"en",
+"tone": 4,
+"sym":"震",
+"pinin":"zhèn",
+"translation": "to shake"
+},
+{
+"consonant": "sh",
+"vowel":"en",
+"tone": 1,
+"sym":"深",
+"pinin":"shēn",
+"translation": "deep"
+},
+{
+"consonant": "sh",
+"vowel":"en",
+"tone": 2,
+"sym":"什",
+"pinin":"shén",
+"translation": "what"
+},
+{
+"consonant": "sh",
+"vowel":"en",
+"tone": 3,
+"sym":"审",
+"pinin":"shěn",
+"translation": "to examine"
+},
+{
+"consonant": "sh",
+"vowel":"en",
+"tone": 4,
+"sym":"慎",
+"pinin":"shèn",
+"translation": "careful"
+},
+{
+"consonant": "ch",
+"vowel":"en",
+"tone": 1,
+"sym":"嗔",
+"pinin":"chēn",
+"translation": "to be angry at"
+},
+{
+"consonant": "ch",
+"vowel":"en",
+"tone": 2,
+"sym":"谌",
+"pinin":"chén",
+"translation": "faithful"
+},
+{
+"consonant": "ch",
+"vowel":"en",
+"tone": 3,
+"sym":"碜",
+"pinin":"chěn",
+"translation": "gritty (of food)"
+},
+{
+"consonant": "ch",
+"vowel":"en",
+"tone": 4,
+"sym":"儭",
+"pinin":"chèn",
+"translation": "to assist"
+},
+{
+"consonant": "r",
+"vowel":"en",
+"tone": 2,
+"sym":"人",
+"pinin":"rén",
+"translation": "person"
+},
+{
+"consonant": "r",
+"vowel":"en",
+"tone": 3,
+"sym":"忍",
+"pinin":"rěn",
+"translation": "to bear"
+},
+{
+"consonant": "r",
+"vowel":"en",
+"tone": 4,
+"sym":"人",
+"pinin":"rén",
+"translation": "person"
+},
+{
+"consonant": "",
+"vowel":"eng",
+"tone": 1,
+"sym":"鞥",
+"pinin":"ēng",
+"translation": "reins"
+},
+{
+"consonant": "b",
+"vowel":"eng",
+"tone": 1,
+"sym":"绷",
+"pinin":"bēng",
+"translation": "to draw tight"
+},
+{
+"consonant": "b",
+"vowel":"eng",
+"tone": 2,
+"sym":"甭",
+"pinin":"béng",
+"translation": "need not; please don't"
+},
+{
+"consonant": "b",
+"vowel":"eng",
+"tone": 3,
+"sym":"菶",
+"pinin":"běng",
+"translation": "expand"
+},
+{
+"consonant": "b",
+"vowel":"eng",
+"tone": 4,
+"sym":"蹦",
+"pinin":"bèng",
+"translation": "to jump"
+},
+{
+"consonant": "p",
+"vowel":"eng",
+"tone": 1,
+"sym":"匉",
+"pinin":"pēng",
+"translation": "noise of waters"
+},
+{
+"consonant": "p",
+"vowel":"eng",
+"tone": 2,
+"sym":"朋",
+"pinin":"péng",
+"translation": "friend"
+},
+{
+"consonant": "p",
+"vowel":"eng",
+"tone": 3,
+"sym":"𡗗",
+"pinin":"pěng",
+"translation": "folded hands"
+},
+{
+"consonant": "p",
+"vowel":"eng",
+"tone": 4,
+"sym":"碰",
+"pinin":"pèng",
+"translation": "to touch; to meet with"
+},
+{
+"consonant": "m",
+"vowel":"eng",
+"tone": 1,
+"sym":"蒙",
+"pinin":"mēng",
+"translation": "to cheat"
+},
+{
+"consonant": "m",
+"vowel":"eng",
+"tone": 2,
+"sym":"檬",
+"pinin":"méng",
+"translation": "lemon"
+},
+{
+"consonant": "m",
+"vowel":"eng",
+"tone": 3,
+"sym":"艋",
+"pinin":"měng",
+"translation": "small boat"
+},
+{
+"consonant": "m",
+"vowel":"eng",
+"tone": 4,
+"sym":"梦",
+"pinin":"mèng",
+"translation": "dream"
+},
+{
+"consonant": "f",
+"vowel":"eng",
+"tone": 1,
+"sym":"风",
+"pinin":"fēng",
+"translation": "wind"
+},
+{
+"consonant": "f",
+"vowel":"eng",
+"tone": 2,
+"sym":"逢",
+"pinin":"féng",
+"translation": "to meet by chance"
+},
+{
+"consonant": "f",
+"vowel":"eng",
+"tone": 3,
+"sym":"唪",
+"pinin":"fěng",
+"translation": "recite; chant"
+},
+{
+"consonant": "f",
+"vowel":"eng",
+"tone": 4,
+"sym":"俸",
+"pinin":"fèng",
+"translation": "salary"
+},
+{
+"consonant": "d",
+"vowel":"eng",
+"tone": 1,
+"sym":"灯",
+"pinin":"dēng",
+"translation": "lamp; light"
+},
+{
+"consonant": "d",
+"vowel":"eng",
+"tone": 3,
+"sym":"等",
+"pinin":"děng",
+"translation": "class"
+},
+{
+"consonant": "d",
+"vowel":"eng",
+"tone": 4,
+"sym":"瞪",
+"pinin":"dèng",
+"translation": "to stare at"
+},
+{
+"consonant": "t",
+"vowel":"eng",
+"tone": 1,
+"sym":"熥",
+"pinin":"tēng",
+"translation": " tōng (Tw)"
+},
+{
+"consonant": "t",
+"vowel":"eng",
+"tone": 2,
+"sym":"疼",
+"pinin":"téng",
+"translation": "(it) hurts; sore"
+},
+{
+"consonant": "n",
+"vowel":"eng",
+"tone": 2,
+"sym":"能",
+"pinin":"néng",
+"translation": "(physics) energy"
+},
+{
+"consonant": "n",
+"vowel":"eng",
+"tone": 3,
+"sym":"𠹌",
+"pinin":"něng",
+"translation": "uncommo"
+},
+{
+"consonant": "n",
+"vowel":"eng",
+"tone": 4,
+"sym":"㲌",
+"pinin":"nèng",
+"translation": "dog's hair"
+},
+{
+"consonant": "l",
+"vowel":"eng",
+"tone": 2,
+"sym":"崚",
+"pinin":"léng",
+"translation": "lofty (as of mountain)"
+},
+{
+"consonant": "l",
+"vowel":"eng",
+"tone": 3,
+"sym":"冷",
+"pinin":"lěng",
+"translation": "cold"
+},
+{
+"consonant": "l",
+"vowel":"eng",
+"tone": 4,
+"sym":"愣",
+"pinin":"lèng",
+"translation": "to look distracted"
+},
+{
+"consonant": "g",
+"vowel":"eng",
+"tone": 1,
+"sym":"耕",
+"pinin":"gēng",
+"translation": "to plow; to till"
+},
+{
+"consonant": "g",
+"vowel":"eng",
+"tone": 3,
+"sym":"梗",
+"pinin":"gěng",
+"translation": "branch"
+},
+{
+"consonant": "g",
+"vowel":"eng",
+"tone": 4,
+"sym":"更",
+"pinin":"gèng",
+"translation": "more; even more"
+},
+{
+"consonant": "k",
+"vowel":"eng",
+"tone": 1,
+"sym":"坑",
+"pinin":"kēng",
+"translation": "hole;"
+},
+{
+"consonant": "h",
+"vowel":"eng",
+"tone": 1,
+"sym":"哼",
+"pinin":"hēng",
+"translation": "to snort"
+},
+{
+"consonant": "h",
+"vowel":"eng",
+"tone": 2,
+"sym":"横",
+"pinin":"héng",
+"translation": "horizontal"
+},
+{
+"consonant": "h",
+"vowel":"eng",
+"tone": 4,
+"sym":"横",
+"pinin":"hèng",
+"translation": "harsh and unreasonable"
+},
+{
+"consonant": "z",
+"vowel":"eng",
+"tone": 1,
+"sym":"增",
+"pinin":"zēng",
+"translation": "to increase"
+},
+{
+"consonant": "z",
+"vowel":"eng",
+"tone": 3,
+"sym":"㽪",
+"pinin":"zěng",
+"translation": "rice field"
+},
+{
+"consonant": "z",
+"vowel":"eng",
+"tone": 4,
+"sym":"赠",
+"pinin":"zèng",
+"translation": "to give as a present"
+},
+{
+"consonant": "s",
+"vowel":"eng",
+"tone": 1,
+"sym":"鬙",
+"pinin":"sēng",
+"translation": "short hair"
+},
+{
+"consonant": "s",
+"vowel":"eng",
+"tone": 4,
+"sym":"𡬙",
+"pinin":"sèng",
+"translation": "to wake up"
+},
+{
+"consonant": "c",
+"vowel":"eng",
+"tone": 1,
+"sym":"噌",
+"pinin":"cēng",
+"translation": "to scold"
+},
+{
+"consonant": "c",
+"vowel":"eng",
+"tone": 2,
+"sym":"层",
+"pinin":"céng",
+"translation": "layer"
+},
+{
+"consonant": "c",
+"vowel":"eng",
+"tone": 4,
+"sym":"蹭",
+"pinin":"cèng",
+"translation": "to rub against"
+},
+{
+"consonant": "zh",
+"vowel":"eng",
+"tone": 1,
+"sym":"睁",
+"pinin":"zhēng",
+"translation": "to open (one's eyes)"
+},
+{
+"consonant": "zh",
+"vowel":"eng",
+"tone": 3,
+"sym":"整",
+"pinin":"zhěng",
+"translation": "exactly"
+},
+{
+"consonant": "zh",
+"vowel":"eng",
+"tone": 4,
+"sym":"正",
+"pinin":"zhèng",
+"translation": "straight"
+},
+{
+"consonant": "sh",
+"vowel":"eng",
+"tone": 1,
+"sym":"声",
+"pinin":"shēng",
+"translation": "sound; voice"
+},
+{
+"consonant": "sh",
+"vowel":"eng",
+"tone": 2,
+"sym":"绳",
+"pinin":"shéng",
+"translation": "rope"
+},
+{
+"consonant": "sh",
+"vowel":"eng",
+"tone": 3,
+"sym":"省",
+"pinin":"shěng",
+"translation": "to save"
+},
+{
+"consonant": "sh",
+"vowel":"eng",
+"tone": 4,
+"sym":"剩",
+"pinin":"shèng",
+"translation": "to remain"
+},
+{
+"consonant": "ch",
+"vowel":"eng",
+"tone": 1,
+"sym":"称",
+"pinin":"chēng",
+"translation": "to weigh"
+},
+{
+"consonant": "ch",
+"vowel":"eng",
+"tone": 2,
+"sym":"成",
+"pinin":"chéng",
+"translation": "to succeed"
+},
+{
+"consonant": "ch",
+"vowel":"eng",
+"tone": 3,
+"sym":"悜",
+"pinin":"chěng",
+"translation": "obscure"
+},
+{
+"consonant": "ch",
+"vowel":"eng",
+"tone": 4,
+"sym":"秤",
+"pinin":"chèng",
+"translation": "steelyard"
+},
+{
+"consonant": "r",
+"vowel":"eng",
+"tone": 1,
+"sym":"扔",
+"pinin":"rēng",
+"translation": "to throw"
+},
+{
+"consonant": "r",
+"vowel":"eng",
+"tone": 2,
+"sym":"仍",
+"pinin":"réng",
+"translation": "still; yet"
+},
+{
+"consonant": "r",
+"vowel":"eng",
+"tone": 4,
+"sym":"芿",
+"pinin":"èng",
+"translation": "weeds that regrow from cut-down roots"
+},
+{
+"consonant": "",
+"vowel":"er",
+"tone": 2,
+"sym":"而",
+"pinin":"ér",
+"translation": "and; as well as"
+},
+{
+"consonant": "",
+"vowel":"er",
+"tone": 3,
+"sym":"迩",
+"pinin":"ěr",
+"translation": "recently"
+},
+{
+"consonant": "",
+"vowel":"er",
+"tone": 4,
+"sym":"迩",
+"pinin":"ěr",
+"translation": "recently"
+},
+{
+"consonant": "b",
+"vowel":"i",
+"tone": 1,
+"sym":"逼",
+"pinin":"bī",
+"translation": "to force (somebody to do something)"
+},
+{
+"consonant": "b",
+"vowel":"i",
+"tone": 2,
+"sym":"鼻",
+"pinin":"bí",
+"translation": "nose"
+},
+{
+"consonant": "b",
+"vowel":"i",
+"tone": 3,
+"sym":"笔",
+"pinin":"bǐ",
+"translation": "pen"
+},
+{
+"consonant": "b",
+"vowel":"i",
+"tone": 4,
+"sym":"必",
+"pinin":"bì",
+"translation": "certainly"
+},
+{
+"consonant": "p",
+"vowel":"i",
+"tone": 1,
+"sym":"劈",
+"pinin":"pī",
+"translation": "to chop"
+},
+{
+"consonant": "p",
+"vowel":"i",
+"tone": 2,
+"sym":"皮",
+"pinin":"pí",
+"translation": "leather; skin"
+},
+{
+"consonant": "p",
+"vowel":"i",
+"tone": 3,
+"sym":"劈",
+"pinin":"pǐ",
+"translation": "to split in two"
+},
+{
+"consonant": "p",
+"vowel":"i",
+"tone": 4,
+"sym":"媲",
+"pinin":"pì",
+"translation": "to match; to pair"
+},
+{
+"consonant": "m",
+"vowel":"i",
+"tone": 1,
+"sym":"咪",
+"pinin":"mī",
+"translation": "sound for calling a cat"
+},
+{
+"consonant": "m",
+"vowel":"i",
+"tone": 2,
+"sym":"谜",
+"pinin":"mí",
+"translation": "riddle"
+},
+{
+"consonant": "m",
+"vowel":"i",
+"tone": 3,
+"sym":"米",
+"pinin":"mǐ",
+"translation": "rice"
+},
+{
+"consonant": "m",
+"vowel":"i",
+"tone": 4,
+"sym":"密",
+"pinin":"mì",
+"translation": "secret"
+},
+{
+"consonant": "d",
+"vowel":"i",
+"tone": 1,
+"sym":"滴",
+"pinin":"dī",
+"translation": "a drop"
+},
+{
+"consonant": "d",
+"vowel":"i",
+"tone": 2,
+"sym":"敌",
+"pinin":"dí",
+"translation": "enemy"
+},
+{
+"consonant": "d",
+"vowel":"i",
+"tone": 3,
+"sym":"底",
+"pinin":"dǐ",
+"translation": "background"
+},
+{
+"consonant": "d",
+"vowel":"i",
+"tone": 4,
+"sym":"地",
+"pinin":"dì",
+"translation": "earth; ground"
+},
+{
+"consonant": "t",
+"vowel":"i",
+"tone": 1,
+"sym":"踢",
+"pinin":"tī",
+"translation": "to kick"
+},
+{
+"consonant": "t",
+"vowel":"i",
+"tone": 2,
+"sym":"提",
+"pinin":"tí",
+"translation": "to carry"
+},
+{
+"consonant": "t",
+"vowel":"i",
+"tone": 3,
+"sym":"体",
+"pinin":"tǐ",
+"translation": "body"
+},
+{
+"consonant": "t",
+"vowel":"i",
+"tone": 4,
+"sym":"剃",
+"pinin":"tì",
+"translation": "to shave"
+},
+{
+"consonant": "n",
+"vowel":"i",
+"tone": 1,
+"sym":"妮",
+"pinin":"nī",
+"translation": "girl"
+},
+{
+"consonant": "n",
+"vowel":"i",
+"tone": 2,
+"sym":"泥",
+"pinin":"ní",
+"translation": "mud; clay"
+},
+{
+"consonant": "n",
+"vowel":"i",
+"tone": 3,
+"sym":"你",
+"pinin":"nǐ",
+"translation": "you"
+},
+{
+"consonant": "n",
+"vowel":"i",
+"tone": 4,
+"sym":"匿",
+"pinin":"nì",
+"translation": "to hide"
+},
+{
+"consonant": "l",
+"vowel":"i",
+"tone": 2,
+"sym":"离",
+"pinin":"lí",
+"translation": "to leave;"
+},
+{
+"consonant": "l",
+"vowel":"i",
+"tone": 3,
+"sym":"里",
+"pinin":"lǐ",
+"translation": "interior"
+},
+{
+"consonant": "l",
+"vowel":"i",
+"tone": 4,
+"sym":"力",
+"pinin":"lì",
+"translation": "power"
+},
+{
+"consonant": "q",
+"vowel":"i",
+"tone": 1,
+"sym":"七",
+"pinin":"qī",
+"translation": "seven"
+},
+{
+"consonant": "q",
+"vowel":"i",
+"tone": 2,
+"sym":"棋",
+"pinin":"qí",
+"translation": "chess"
+},
+{
+"consonant": "q",
+"vowel":"i",
+"tone": 3,
+"sym":"起",
+"pinin":"qǐ",
+"translation": "to get up"
+},
+{
+"consonant": "q",
+"vowel":"i",
+"tone": 4,
+"sym":"气",
+"pinin":"qì",
+"translation": "gas"
+},
+{
+"consonant": "j",
+"vowel":"i",
+"tone": 1,
+"sym":"鸡",
+"pinin":"jī",
+"translation": "fowl; chicken"
+},
+{
+"consonant": "j",
+"vowel":"i",
+"tone": 2,
+"sym":"极",
+"pinin":"jí",
+"translation": "extremely"
+},
+{
+"consonant": "j",
+"vowel":"i",
+"tone": 3,
+"sym":"挤",
+"pinin":"jǐ",
+"translation": "to crowd in"
+},
+{
+"consonant": "j",
+"vowel":"i",
+"tone": 4,
+"sym":"寄",
+"pinin":"jì",
+"translation": "to send"
+},
+{
+"consonant": "x",
+"vowel":"i",
+"tone": 1,
+"sym":"西",
+"pinin":"xī",
+"translation": "west"
+},
+{
+"consonant": "x",
+"vowel":"i",
+"tone": 2,
+"sym":"席",
+"pinin":"xí",
+"translation": "banquet"
+},
+{
+"consonant": "x",
+"vowel":"i",
+"tone": 3,
+"sym":"洗",
+"pinin":"xǐ",
+"translation": "to wash"
+},
+{
+"consonant": "x",
+"vowel":"i",
+"tone": 4,
+"sym":"系",
+"pinin":"xì",
+"translation": "system"
+},
+{
+"consonant": "z",
+"vowel":"i",
+"tone": 1,
+"sym":"訾",
+"pinin":"zī",
+"translation": "to calculate"
+},
+{
+"consonant": "z",
+"vowel":"i",
+"tone": 3,
+"sym":"紫",
+"pinin":"zǐ",
+"translation": "purple; violet"
+},
+{
+"consonant": "z",
+"vowel":"i",
+"tone": 4,
+"sym":"字",
+"pinin":"zì",
+"translation": "letter; symbol"
+},
+{
+"consonant": "s",
+"vowel":"i",
+"tone": 1,
+"sym":"撕",
+"pinin":"sī",
+"translation": "to tear"
+},
+{
+"consonant": "s",
+"vowel":"i",
+"tone": 3,
+"sym":"死",
+"pinin":"sǐ",
+"translation": "to die"
+},
+{
+"consonant": "s",
+"vowel":"i",
+"tone": 4,
+"sym":"四",
+"pinin":"sì",
+"translation": "four"
+},
+{
+"consonant": "c",
+"vowel":"i",
+"tone": 1,
+"sym":"差",
+"pinin":"cī",
+"translation": "irregular"
+},
+{
+"consonant": "c",
+"vowel":"i",
+"tone": 2,
+"sym":"词",
+"pinin":"cí",
+"translation": "word"
+},
+{
+"consonant": "c",
+"vowel":"i",
+"tone": 3,
+"sym":"此",
+"pinin":"cǐ",
+"translation": "this; these"
+},
+{
+"consonant": "c",
+"vowel":"i",
+"tone": 4,
+"sym":"次",
+"pinin":"cì",
+"translation": "next in sequence"
+},
+{
+"consonant": "zh",
+"vowel":"i",
+"tone": 1,
+"sym":"支",
+"pinin":"zhī",
+"translation": "to support"
+},
+{
+"consonant": "zh",
+"vowel":"i",
+"tone": 2,
+"sym":"直",
+"pinin":"zhí",
+"translation": "straight"
+},
+{
+"consonant": "zh",
+"vowel":"i",
+"tone": 3,
+"sym":"只",
+"pinin":"zhǐ",
+"translation": "only"
+},
+{
+"consonant": "zh",
+"vowel":"i",
+"tone": 4,
+"sym":"治",
+"pinin":"zhì",
+"translation": "to rule"
+},
+{
+"consonant": "sh",
+"vowel":"i",
+"tone": 1,
+"sym":"诗",
+"pinin":"shī",
+"translation": "poem"
+},
+{
+"consonant": "sh",
+"vowel":"i",
+"tone": 2,
+"sym":"十",
+"pinin":"shí",
+"translation": "ten"
+},
+{
+"consonant": "sh",
+"vowel":"i",
+"tone": 3,
+"sym":"使",
+"pinin":"shǐ",
+"translation": "to make"
+},
+{
+"consonant": "sh",
+"vowel":"i",
+"tone": 4,
+"sym":"试",
+"pinin":"shì",
+"translation": "to test"
+},
+{
+"consonant": "ch",
+"vowel":"i",
+"tone": 1,
+"sym":"吃",
+"pinin":"chī",
+"translation": "to eat"
+},
+{
+"consonant": "ch",
+"vowel":"i",
+"tone": 2,
+"sym":"迟",
+"pinin":"chí",
+"translation": "late;"
+},
+{
+"consonant": "ch",
+"vowel":"i",
+"tone": 3,
+"sym":"侈",
+"pinin":"chǐ",
+"translation": "extravagant"
+},
+{
+"consonant": "ch",
+"vowel":"i",
+"tone": 4,
+"sym":"赤",
+"pinin":"chì",
+"translation": "red"
+},
+{
+"consonant": "r",
+"vowel":"i",
+"tone": 4,
+"sym":"日",
+"pinin":"rì",
+"translation": "sun"
+},
+{
+"consonant": "",
+"vowel":"ia",
+"tone": 1,
+"sym":"丫",
+"pinin":"yā",
+"translation": "fork"
+},
+{
+"consonant": "",
+"vowel":"ia",
+"tone": 2,
+"sym":"牙",
+"pinin":"yá",
+"translation": "tooth;"
+},
+{
+"consonant": "",
+"vowel":"ia",
+"tone": 3,
+"sym":"哑",
+"pinin":"yǎ",
+"translation": "mute"
+},
+{
+"consonant": "",
+"vowel":"ia",
+"tone": 4,
+"sym":"轧",
+"pinin":"yà",
+"translation": "to crush"
+},
+{
+"consonant": "d",
+"vowel":"ia",
+"tone": 3,
+"sym":"嗲",
+"pinin":"diǎ",
+"translation": "coy; childish"
+},
+{
+"consonant": "l",
+"vowel":"ia",
+"tone": 3,
+"sym":"俩",
+"pinin":"liǎ",
+"translation": "both; some"
+},
+{
+"consonant": "q",
+"vowel":"ia",
+"tone": 1,
+"sym":"掐",
+"pinin":"qiā",
+"translation": "to pick (flowers)"
+},
+{
+"consonant": "q",
+"vowel":"ia",
+"tone": 3,
+"sym":"卡",
+"pinin":"qiǎ",
+"translation": "to block"
+},
+{
+"consonant": "q",
+"vowel":"ia",
+"tone": 4,
+"sym":"恰",
+"pinin":"qià",
+"translation": "just"
+},
+{
+"consonant": "j",
+"vowel":"ia",
+"tone": 1,
+"sym":"家",
+"pinin":"jiā",
+"translation": "home; family"
+},
+{
+"consonant": "j",
+"vowel":"ia",
+"tone": 2,
+"sym":"戛",
+"pinin":"jiá",
+"translation": "lance; to tap"
+},
+{
+"consonant": "j",
+"vowel":"ia",
+"tone": 3,
+"sym":"假",
+"pinin":"jiǎ",
+"translation": "fake"
+},
+{
+"consonant": "j",
+"vowel":"ia",
+"tone": 4,
+"sym":"架",
+"pinin":"jià",
+"translation": "to support"
+},
+{
+"consonant": "x",
+"vowel":"ia",
+"tone": 1,
+"sym":"瞎",
+"pinin":"xiā",
+"translation": "blind"
+},
+{
+"consonant": "x",
+"vowel":"ia",
+"tone": 2,
+"sym":"峡",
+"pinin":"xiá",
+"translation": "gorge"
+},
+{
+"consonant": "x",
+"vowel":"ia",
+"tone": 3,
+"sym":"閜",
+"pinin":"xiǎ",
+"translation": "to split open"
+},
+{
+"consonant": "x",
+"vowel":"ia",
+"tone": 4,
+"sym":"下",
+"pinin":"xià",
+"translation": "down"
+},
+{
+"consonant": "",
+"vowel":"ian",
+"tone": 1,
+"sym":"淹",
+"pinin":"yān",
+"translation": "to flood"
+},
+{
+"consonant": "",
+"vowel":"ian",
+"tone": 2,
+"sym":"沿",
+"pinin":"yán",
+"translation": "along"
+},
+{
+"consonant": "",
+"vowel":"ian",
+"tone": 3,
+"sym":"演",
+"pinin":"yǎn",
+"translation": "to develop"
+},
+{
+"consonant": "",
+"vowel":"ian",
+"tone": 4,
+"sym":"咽",
+"pinin":"yàn",
+"translation": "to swallow"
+},
+{
+"consonant": "b",
+"vowel":"ian",
+"tone": 1,
+"sym":"边",
+"pinin":"biān",
+"translation": "side; edge"
+},
+{
+"consonant": "b",
+"vowel":"ian",
+"tone": 3,
+"sym":"扁",
+"pinin":"biǎn",
+"translation": "flat"
+},
+{
+"consonant": "b",
+"vowel":"ian",
+"tone": 4,
+"sym":"变",
+"pinin":"biàn",
+"translation": "to change; to become different"
+},
+{
+"consonant": "p",
+"vowel":"ian",
+"tone": 1,
+"sym":"篇",
+"pinin":"piān",
+"translation": "sheet"
+},
+{
+"consonant": "p",
+"vowel":"ian",
+"tone": 2,
+"sym":"蹁",
+"pinin":"pián",
+"translation": "to limp"
+},
+{
+"consonant": "p",
+"vowel":"ian",
+"tone": 3,
+"sym":"脸",
+"pinin":"liǎn",
+"translation": "face"
+},
+{
+"consonant": "p",
+"vowel":"ian",
+"tone": 4,
+"sym":"片",
+"pinin":"piàn",
+"translation": "film"
+},
+{
+"consonant": "m",
+"vowel":"ian",
+"tone": 2,
+"sym":"眠",
+"pinin":"mián",
+"translation": "to sleep"
+},
+{
+"consonant": "m",
+"vowel":"ian",
+"tone": 3,
+"sym":"愐",
+"pinin":"miǎn",
+"translation": "shy"
+},
+{
+"consonant": "m",
+"vowel":"ian",
+"tone": 4,
+"sym":"㴐",
+"pinin":"miàn",
+"translation": "flowing water"
+},
+{
+"consonant": "d",
+"vowel":"ian",
+"tone": 1,
+"sym":"巅",
+"pinin":"diān",
+"translation": "summit"
+},
+{
+"consonant": "d",
+"vowel":"ian",
+"tone": 3,
+"sym":"点",
+"pinin":"diǎn",
+"translation": "point"
+},
+{
+"consonant": "d",
+"vowel":"ian",
+"tone": 4,
+"sym":"电",
+"pinin":"diàn",
+"translation": "lightning"
+},
+{
+"consonant": "t",
+"vowel":"ian",
+"tone": 1,
+"sym":"天",
+"pinin":"tiān",
+"translation": "day; sky"
+},
+{
+"consonant": "t",
+"vowel":"ian",
+"tone": 2,
+"sym":"田",
+"pinin":"tián",
+"translation": "field; farm"
+},
+{
+"consonant": "t",
+"vowel":"ian",
+"tone": 3,
+"sym":"忝",
+"pinin":"tiǎn",
+"translation": "to shame"
+},
+{
+"consonant": "t",
+"vowel":"ian",
+"tone": 4,
+"sym":"㶺",
+"pinin":"tiàn",
+"translation": "light or glow of fire"
+},
+{
+"consonant": "n",
+"vowel":"ian",
+"tone": 1,
+"sym":"拈",
+"pinin":"niān",
+"translation": "to nip"
+},
+{
+"consonant": "n",
+"vowel":"ian",
+"tone": 2,
+"sym":"年",
+"pinin":"nián",
+"translation": "year"
+},
+{
+"consonant": "n",
+"vowel":"ian",
+"tone": 3,
+"sym":"涊",
+"pinin":"niǎn",
+"translation": "muddy water"
+},
+{
+"consonant": "n",
+"vowel":"ian",
+"tone": 4,
+"sym":"念",
+"pinin":"niàn",
+"translation": "to read"
+},
+{
+"consonant": "l",
+"vowel":"ian",
+"tone": 2,
+"sym":"连",
+"pinin":"lián",
+"translation": "to link; to join"
+},
+{
+"consonant": "l",
+"vowel":"ian",
+"tone": 3,
+"sym":"炼",
+"pinin":"liàn",
+"translation": "to refine; to smelt"
+},
+{
+"consonant": "l",
+"vowel":"ian",
+"tone": 4,
+"sym":"炼",
+"pinin":"liàn",
+"translation": "to refine; to smelt"
+},
+{
+"consonant": "q",
+"vowel":"ian",
+"tone": 1,
+"sym":"千",
+"pinin":"qiān",
+"translation": "thousand"
+},
+{
+"consonant": "q",
+"vowel":"ian",
+"tone": 2,
+"sym":"钱",
+"pinin":"qián",
+"translation": "coin"
+},
+{
+"consonant": "q",
+"vowel":"ian",
+"tone": 3,
+"sym":"浅",
+"pinin":"qiǎn",
+"translation": "shallow"
+},
+{
+"consonant": "q",
+"vowel":"ian",
+"tone": 4,
+"sym":"嵌",
+"pinin":"qiàn",
+"translation": "to inlay"
+},
+{
+"consonant": "j",
+"vowel":"ian",
+"tone": 1,
+"sym":"间",
+"pinin":"jiān",
+"translation": "between"
+},
+{
+"consonant": "j",
+"vowel":"ian",
+"tone": 3,
+"sym":"捡",
+"pinin":"jiǎn",
+"translation": "to pick up; to collect"
+},
+{
+"consonant": "j",
+"vowel":"ian",
+"tone": 4,
+"sym":"件",
+"pinin":"jiàn",
+"translation": "item"
+},
+{
+"consonant": "x",
+"vowel":"ian",
+"tone": 1,
+"sym":"先",
+"pinin":"xiān",
+"translation": "early"
+},
+{
+"consonant": "x",
+"vowel":"ian",
+"tone": 2,
+"sym":"嫌",
+"pinin":"xián",
+"translation": "to dislike"
+},
+{
+"consonant": "x",
+"vowel":"ian",
+"tone": 3,
+"sym":"险",
+"pinin":"xiǎn",
+"translation": "danger"
+},
+{
+"consonant": "x",
+"vowel":"ian",
+"tone": 4,
+"sym":"线",
+"pinin":"xiàn",
+"translation": "thread"
+},
+{
+"consonant": "",
+"vowel":"iang",
+"tone": 1,
+"sym":"央",
+"pinin":"yāng",
+"translation": "center"
+},
+{
+"consonant": "",
+"vowel":"iang",
+"tone": 2,
+"sym":"羊",
+"pinin":"yáng",
+"translation": "sheep"
+},
+{
+"consonant": "",
+"vowel":"iang",
+"tone": 3,
+"sym":"氧",
+"pinin":"yǎng",
+"translation": "oxygen"
+},
+{
+"consonant": "",
+"vowel":"iang",
+"tone": 4,
+"sym":"样",
+"pinin":"yàng",
+"translation": "pattern"
+},
+{
+"consonant": "n",
+"vowel":"iang",
+"tone": 2,
+"sym":"娘",
+"pinin":"niáng",
+"translation": "mother"
+},
+{
+"consonant": "n",
+"vowel":"iang",
+"tone": 4,
+"sym":"酿",
+"pinin":"niàng",
+"translation": "to make honey"
+},
+{
+"consonant": "l",
+"vowel":"iang",
+"tone": 2,
+"sym":"量",
+"pinin":"liáng",
+"translation": "to measure"
+},
+{
+"consonant": "l",
+"vowel":"iang",
+"tone": 3,
+"sym":"两",
+"pinin":"liǎng",
+"translation": "two; both; some"
+},
+{
+"consonant": "l",
+"vowel":"iang",
+"tone": 4,
+"sym":"亮",
+"pinin":"liàng",
+"translation": "bright"
+},
+{
+"consonant": "q",
+"vowel":"iang",
+"tone": 1,
+"sym":"枪",
+"pinin":"qiāng",
+"translation": "gun"
+},
+{
+"consonant": "q",
+"vowel":"iang",
+"tone": 2,
+"sym":"墙",
+"pinin":"qiáng",
+"translation": "wall"
+},
+{
+"consonant": "q",
+"vowel":"iang",
+"tone": 3,
+"sym":"抢",
+"pinin":"qiǎng",
+"translation": "to fight over"
+},
+{
+"consonant": "q",
+"vowel":"iang",
+"tone": 4,
+"sym":"呛",
+"pinin":"qiàng",
+"translation": "to irritate the nose"
+},
+{
+"consonant": "j",
+"vowel":"iang",
+"tone": 1,
+"sym":"江",
+"pinin":"jiāng",
+"translation": "river"
+},
+{
+"consonant": "j",
+"vowel":"iang",
+"tone": 3,
+"sym":"讲",
+"pinin":"jiǎng",
+"translation": "to speak"
+},
+{
+"consonant": "j",
+"vowel":"iang",
+"tone": 4,
+"sym":"降",
+"pinin":"jiàng",
+"translation": "to drop"
+},
+{
+"consonant": "x",
+"vowel":"iang",
+"tone": 1,
+"sym":"箱",
+"pinin":"xiāng",
+"translation": "box"
+},
+{
+"consonant": "x",
+"vowel":"iang",
+"tone": 2,
+"sym":"降",
+"pinin":"xiáng",
+"translation": "to surrender"
+},
+{
+"consonant": "x",
+"vowel":"iang",
+"tone": 3,
+"sym":"想",
+"pinin":"xiǎng",
+"translation": "to think"
+},
+{
+"consonant": "x",
+"vowel":"iang",
+"tone": 4,
+"sym":"向",
+"pinin":"xiàng",
+"translation": "towards"
+},
+{
+"consonant": "",
+"vowel":"iao",
+"tone": 1,
+"sym":"腰",
+"pinin":"yāo",
+"translation": "waist"
+},
+{
+"consonant": "",
+"vowel":"iao",
+"tone": 2,
+"sym":"摇",
+"pinin":"yáo",
+"translation": "to shake"
+},
+{
+"consonant": "",
+"vowel":"iao",
+"tone": 3,
+"sym":"咬",
+"pinin":"yǎo",
+"translation": "to bite"
+},
+{
+"consonant": "",
+"vowel":"iao",
+"tone": 4,
+"sym":"要",
+"pinin":"yào",
+"translation": "important"
+},
+{
+"consonant": "b",
+"vowel":"iao",
+"tone": 1,
+"sym":"标",
+"pinin":"biāo",
+"translation": "mark"
+},
+{
+"consonant": "b",
+"vowel":"iao",
+"tone": 2,
+"sym":"嫑",
+"pinin":"biáo",
+"translation": "don't; must not"
+},
+{
+"consonant": "b",
+"vowel":"iao",
+"tone": 3,
+"sym":"表",
+"pinin":"biǎo",
+"translation": "pocket watch"
+},
+{
+"consonant": "b",
+"vowel":"iao",
+"tone": 4,
+"sym":"㧼",
+"pinin":"biào",
+"translation": "to distribute"
+},
+{
+"consonant": "p",
+"vowel":"iao",
+"tone": 1,
+"sym":"飘",
+"pinin":"piāo",
+"translation": "to float"
+},
+{
+"consonant": "p",
+"vowel":"iao",
+"tone": 2,
+"sym":"䴩",
+"pinin":"piáo",
+"translation": "kind of deer"
+},
+{
+"consonant": "p",
+"vowel":"iao",
+"tone": 3,
+"sym":"皫",
+"pinin":"piǎo",
+"translation": "white"
+},
+{
+"consonant": "p",
+"vowel":"iao",
+"tone": 4,
+"sym":"票",
+"pinin":"piào",
+"translation": "ticket"
+},
+{
+"consonant": "m",
+"vowel":"iao",
+"tone": 1,
+"sym":"喵",
+"pinin":"miāo",
+"translation": "cat's mewing"
+},
+{
+"consonant": "m",
+"vowel":"iao",
+"tone": 2,
+"sym":"䁧",
+"pinin":"miáo",
+"translation": "to open wide (eyes)"
+},
+{
+"consonant": "m",
+"vowel":"iao",
+"tone": 3,
+"sym":"秒",
+"pinin":"miǎo",
+"translation": "second (unit of time)"
+},
+{
+"consonant": "m",
+"vowel":"iao",
+"tone": 4,
+"sym":"妙",
+"pinin":"miào",
+"translation": "clever; wonderful"
+},
+{
+"consonant": "d",
+"vowel":"iao",
+"tone": 1,
+"sym":"刁",
+"pinin":"diāo",
+"translation": "artful"
+},
+{
+"consonant": "d",
+"vowel":"iao",
+"tone": 4,
+"sym":"吊",
+"pinin":"diào",
+"translation": "to suspend"
+},
+{
+"consonant": "t",
+"vowel":"iao",
+"tone": 1,
+"sym":"恌",
+"pinin":"tiāo",
+"translation": "frivolous"
+},
+{
+"consonant": "t",
+"vowel":"iao",
+"tone": 2,
+"sym":"趒",
+"pinin":"tiáo",
+"translation": "to climb over"
+},
+{
+"consonant": "t",
+"vowel":"iao",
+"tone": 3,
+"sym":"誂",
+"pinin":"tiǎo",
+"translation": "to tempt"
+},
+{
+"consonant": "t",
+"vowel":"iao",
+"tone": 4,
+"sym":"眺",
+"pinin":"tiào",
+"translation": "to gaze into the distance"
+},
+{
+"consonant": "n",
+"vowel":"iao",
+"tone": 3,
+"sym":"鸟",
+"pinin":"niǎo",
+"translation": "bird"
+},
+{
+"consonant": "n",
+"vowel":"iao",
+"tone": 4,
+"sym":"尿",
+"pinin":"niào",
+"translation": "urine"
+},
+{
+"consonant": "l",
+"vowel":"iao",
+"tone": 1,
+"sym":"撩",
+"pinin":"liāo",
+"translation": "to lift up"
+},
+{
+"consonant": "l",
+"vowel":"iao",
+"tone": 2,
+"sym":"聊",
+"pinin":"liáo",
+"translation": "to chat"
+},
+{
+"consonant": "l",
+"vowel":"iao",
+"tone": 3,
+"sym":"了",
+"pinin":"liǎo",
+"translation": "to finish"
+},
+{
+"consonant": "l",
+"vowel":"iao",
+"tone": 4,
+"sym":"料",
+"pinin":"liào",
+"translation": "to expect"
+},
+{
+"consonant": "q",
+"vowel":"iao",
+"tone": 1,
+"sym":"敲",
+"pinin":"qiāo",
+"translation": "to hit; to strike"
+},
+{
+"consonant": "q",
+"vowel":"iao",
+"tone": 2,
+"sym":"桥",
+"pinin":"qiáo",
+"translation": "bridge"
+},
+{
+"consonant": "q",
+"vowel":"iao",
+"tone": 3,
+"sym":"悄",
+"pinin":"qiǎo",
+"translation": "quiet; sad"
+},
+{
+"consonant": "q",
+"vowel":"iao",
+"tone": 4,
+"sym":"壳",
+"pinin":"qiào",
+"translation": "shell"
+},
+{
+"consonant": "j",
+"vowel":"iao",
+"tone": 1,
+"sym":"教",
+"pinin":"jiāo",
+"translation": "to teach"
+},
+{
+"consonant": "j",
+"vowel":"iao",
+"tone": 2,
+"sym":"嚼",
+"pinin":"jiáo",
+"translation": "to chew"
+},
+{
+"consonant": "j",
+"vowel":"iao",
+"tone": 3,
+"sym":"脚",
+"pinin":"jiǎo",
+"translation": "foot"
+},
+{
+"consonant": "j",
+"vowel":"iao",
+"tone": 4,
+"sym":"叫",
+"pinin":"jiào",
+"translation": "to shout"
+},
+{
+"consonant": "x",
+"vowel":"iao",
+"tone": 1,
+"sym":"消",
+"pinin":"xiāo",
+"translation": "to disappear"
+},
+{
+"consonant": "x",
+"vowel":"iao",
+"tone": 2,
+"sym":"崤",
+"pinin":"xiáo",
+"translation": "name of a mountain in Henan"
+},
+{
+"consonant": "x",
+"vowel":"iao",
+"tone": 3,
+"sym":"小",
+"pinin":"xiǎo",
+"translation": "small"
+},
+{
+"consonant": "x",
+"vowel":"iao",
+"tone": 4,
+"sym":"笑",
+"pinin":"xiào",
+"translation": "laugh; smile"
+},
+{
+"consonant": "",
+"vowel":"ie",
+"tone": 1,
+"sym":"掖",
+"pinin":"yē",
+"translation": "to tuck (into a pocket"
+},
+{
+"consonant": "",
+"vowel":"ie",
+"tone": 2,
+"sym":"爷",
+"pinin":"yé",
+"translation": "grandpa"
+},
+{
+"consonant": "",
+"vowel":"ie",
+"tone": 3,
+"sym":"也",
+"pinin":"yě",
+"translation": "also"
+},
+{
+"consonant": "",
+"vowel":"ie",
+"tone": 4,
+"sym":"夜",
+"pinin":"yè",
+"translation": "night"
+},
+{
+"consonant": "b",
+"vowel":"ie",
+"tone": 1,
+"sym":"憋",
+"pinin":"biē",
+"translation": "to choke"
+},
+{
+"consonant": "b",
+"vowel":"ie",
+"tone": 2,
+"sym":"䏟",
+"pinin":"bié",
+"translation": "big; large"
+},
+{
+"consonant": "b",
+"vowel":"ie",
+"tone": 3,
+"sym":"瘪",
+"pinin":"biě",
+"translation": "deflated; shriveled"
+},
+{
+"consonant": "b",
+"vowel":"ie",
+"tone": 4,
+"sym":"䌘",
+"pinin":"biè",
+"translation": "to knit"
+},
+{
+"consonant": "p",
+"vowel":"ie",
+"tone": 1,
+"sym":"撇",
+"pinin":"piē",
+"translation": "to cast away"
+},
+{
+"consonant": "p",
+"vowel":"ie",
+"tone": 3,
+"sym":"撇",
+"pinin":"piě",
+"translation": "to throw"
+},
+{
+"consonant": "m",
+"vowel":"ie",
+"tone": 1,
+"sym":"乜",
+"pinin":"miē",
+"translation": "to squint"
+},
+{
+"consonant": "m",
+"vowel":"ie",
+"tone": 4,
+"sym":"灭",
+"pinin":"miè",
+"translation": "to extinguish or put out"
+},
+{
+"consonant": "d",
+"vowel":"ie",
+"tone": 1,
+"sym":"褺",
+"pinin":"diē",
+"translation": "dirt"
+},
+{
+"consonant": "d",
+"vowel":"ie",
+"tone": 2,
+"sym":"咥",
+"pinin":"dié",
+"translation": "gnaw; bite"
+},
+{
+"consonant": "t",
+"vowel":"ie",
+"tone": 1,
+"sym":"贴",
+"pinin":"tiē",
+"translation": "to stick; to paste"
+},
+{
+"consonant": "t",
+"vowel":"ie",
+"tone": 2,
+"sym":"䩞",
+"pinin":"tié",
+"translation": "trappings"
+},
+{
+"consonant": "t",
+"vowel":"ie",
+"tone": 3,
+"sym":"铁",
+"pinin":"tiě",
+"translation": "iron (metal)"
+},
+{
+"consonant": "t",
+"vowel":"ie",
+"tone": 4,
+"sym":"呫",
+"pinin":"tiè",
+"translation": "to mutter"
+},
+{
+"consonant": "n",
+"vowel":"ie",
+"tone": 1,
+"sym":"捏",
+"pinin":"niē",
+"translation": "to pinch"
+},
+{
+"consonant": "n",
+"vowel":"ie",
+"tone": 2,
+"sym":"苶",
+"pinin":"nié",
+"translation": "weary; tired"
+},
+{
+"consonant": "n",
+"vowel":"ie",
+"tone": 4,
+"sym":"聂",
+"pinin":"niè",
+"translation": "to whisper"
+},
+{
+"consonant": "l",
+"vowel":"ie",
+"tone": 1,
+"sym":"咧",
+"pinin":"liē",
+"translation": "to cry"
+},
+{
+"consonant": "l",
+"vowel":"ie",
+"tone": 3,
+"sym":"䟩",
+"pinin":"liě",
+"translation": "hard of walk forward"
+},
+{
+"consonant": "l",
+"vowel":"ie",
+"tone": 4,
+"sym":"劣",
+"pinin":"liè",
+"translation": "inferior"
+},
+{
+"consonant": "q",
+"vowel":"ie",
+"tone": 1,
+"sym":"切",
+"pinin":"qiē",
+"translation": "to cut; to slice"
+},
+{
+"consonant": "q",
+"vowel":"ie",
+"tone": 2,
+"sym":"茄",
+"pinin":"qié",
+"translation": "eggplant"
+},
+{
+"consonant": "q",
+"vowel":"ie",
+"tone": 3,
+"sym":"且",
+"pinin":"qiě",
+"translation": "and; moreover"
+},
+{
+"consonant": "q",
+"vowel":"ie",
+"tone": 4,
+"sym":"帹",
+"pinin":"qiè",
+"translation": "man's headband"
+},
+{
+"consonant": "j",
+"vowel":"ie",
+"tone": 1,
+"sym":"接",
+"pinin":"jiē",
+"translation": "to receive"
+},
+{
+"consonant": "j",
+"vowel":"ie",
+"tone": 2,
+"sym":"节",
+"pinin":"jié",
+"translation": "festival"
+},
+{
+"consonant": "j",
+"vowel":"ie",
+"tone": 3,
+"sym":"解",
+"pinin":"jiě",
+"translation": "to divide; to break up"
+},
+{
+"consonant": "j",
+"vowel":"ie",
+"tone": 4,
+"sym":"借",
+"pinin":"jiè",
+"translation": "to lend"
+},
+{
+"consonant": "x",
+"vowel":"ie",
+"tone": 1,
+"sym":"歇",
+"pinin":"xiē",
+"translation": "to rest"
+},
+{
+"consonant": "x",
+"vowel":"ie",
+"tone": 2,
+"sym":"鞋",
+"pinin":"xié",
+"translation": "shoe"
+},
+{
+"consonant": "x",
+"vowel":"ie",
+"tone": 3,
+"sym":"写",
+"pinin":"xiě",
+"translation": "to write"
+},
+{
+"consonant": "x",
+"vowel":"ie",
+"tone": 4,
+"sym":"谢",
+"pinin":"xiè",
+"translation": "to thank; to apologize"
+},
+{
+"consonant": "",
+"vowel":"in",
+"tone": 1,
+"sym":"阴",
+"pinin":"yīn",
+"translation": "cloudy"
+},
+{
+"consonant": "",
+"vowel":"in",
+"tone": 2,
+"sym":"银",
+"pinin":"yín",
+"translation": "silver"
+},
+{
+"consonant": "",
+"vowel":"in",
+"tone": 3,
+"sym":"引",
+"pinin":"yǐn",
+"translation": "to draw"
+},
+{
+"consonant": "",
+"vowel":"in",
+"tone": 4,
+"sym":"印",
+"pinin":"yìn",
+"translation": "to print"
+},
+{
+"consonant": "b",
+"vowel":"in",
+"tone": 1,
+"sym":"傧",
+"pinin":"bīn",
+"translation": "best man"
+},
+{
+"consonant": "b",
+"vowel":"in",
+"tone": 3,
+"sym":"䐔",
+"pinin":"bǐn",
+"translation": "muscle of the calf (of the leg)"
+},
+{
+"consonant": "b",
+"vowel":"in",
+"tone": 4,
+"sym":"摈",
+"pinin":"bìn",
+"translation": "to reject"
+},
+{
+"consonant": "p",
+"vowel":"in",
+"tone": 1,
+"sym":"拼",
+"pinin":"pīn",
+"translation": "to piece together"
+},
+{
+"consonant": "p",
+"vowel":"in",
+"tone": 2,
+"sym":"贫",
+"pinin":"pín",
+"translation": "poor"
+},
+{
+"consonant": "p",
+"vowel":"in",
+"tone": 3,
+"sym":"品",
+"pinin":"pǐn",
+"translation": "product"
+},
+{
+"consonant": "p",
+"vowel":"in",
+"tone": 4,
+"sym":"聘",
+"pinin":"pìn",
+"translation": "to engage"
+},
+{
+"consonant": "m",
+"vowel":"in",
+"tone": 2,
+"sym":"旻",
+"pinin":"mín",
+"translation": "heaven"
+},
+{
+"consonant": "m",
+"vowel":"in",
+"tone": 3,
+"sym":"刡",
+"pinin":"mǐn",
+"translation": "to scrape; to pare"
+},
+{
+"consonant": "n",
+"vowel":"in",
+"tone": 2,
+"sym":"您",
+"pinin":"nín",
+"translation": "you"
+},
+{
+"consonant": "l",
+"vowel":"in",
+"tone": 1,
+"sym":"拎",
+"pinin":"līn",
+"translation": "to lift; to carry in one's hand"
+},
+{
+"consonant": "l",
+"vowel":"in",
+"tone": 2,
+"sym":"淋",
+"pinin":"lín",
+"translation": "to sprinkle"
+},
+{
+"consonant": "l",
+"vowel":"in",
+"tone": 3,
+"sym":"僯",
+"pinin":"lǐn",
+"translation": "ashamed"
+},
+{
+"consonant": "l",
+"vowel":"in",
+"tone": 4,
+"sym":"淋",
+"pinin":"lìn",
+"translation": "to filter"
+},
+{
+"consonant": "q",
+"vowel":"in",
+"tone": 1,
+"sym":"亲",
+"pinin":"qīn",
+"translation": "parent"
+},
+{
+"consonant": "q",
+"vowel":"in",
+"tone": 2,
+"sym":"勤",
+"pinin":"qín",
+"translation": "diligent"
+},
+{
+"consonant": "q",
+"vowel":"in",
+"tone": 3,
+"sym":"昑",
+"pinin":"qǐn",
+"translation": "bright"
+},
+{
+"consonant": "q",
+"vowel":"in",
+"tone": 4,
+"sym":"㤈",
+"pinin":"qìn",
+"translation": "sad; sorrowful"
+},
+{
+"consonant": "j",
+"vowel":"in",
+"tone": 1,
+"sym":"金",
+"pinin":"jīn",
+"translation": "gold"
+},
+{
+"consonant": "j",
+"vowel":"in",
+"tone": 3,
+"sym":"仅",
+"pinin":"jǐn",
+"translation": "barely"
+},
+{
+"consonant": "j",
+"vowel":"in",
+"tone": 4,
+"sym":"进",
+"pinin":"jìn",
+"translation": "to go forward"
+},
+{
+"consonant": "x",
+"vowel":"in",
+"tone": 1,
+"sym":"心",
+"pinin":"xīn",
+"translation": "heart"
+},
+{
+"consonant": "x",
+"vowel":"in",
+"tone": 2,
+"sym":"镡",
+"pinin":"xín",
+"translation": "guard (on a sword handle)"
+},
+{
+"consonant": "x",
+"vowel":"in",
+"tone": 3,
+"sym":"伈",
+"pinin":"xǐn",
+"translation": "nervous; fearful"
+},
+{
+"consonant": "x",
+"vowel":"in",
+"tone": 4,
+"sym":"信",
+"pinin":"xìn",
+"translation": "letter; mail"
+},
+{
+"consonant": "",
+"vowel":"ing",
+"tone": 1,
+"sym":"应",
+"pinin":"yīng",
+"translation": "to agree (to do something)"
+},
+{
+"consonant": "",
+"vowel":"ing",
+"tone": 2,
+"sym":"赢",
+"pinin":"yíng",
+"translation": "to beat; to win"
+},
+{
+"consonant": "",
+"vowel":"ing",
+"tone": 3,
+"sym":"颖",
+"pinin":"yǐng",
+"translation": "head of grain"
+},
+{
+"consonant": "",
+"vowel":"ing",
+"tone": 4,
+"sym":"硬",
+"pinin":"yìng",
+"translation": "hard"
+},
+{
+"consonant": "b",
+"vowel":"ing",
+"tone": 1,
+"sym":"兵",
+"pinin":"bīng",
+"translation": "soldiers"
+},
+{
+"consonant": "b",
+"vowel":"ing",
+"tone": 3,
+"sym":"饼",
+"pinin":"bǐng",
+"translation": "cookie"
+},
+{
+"consonant": "b",
+"vowel":"ing",
+"tone": 4,
+"sym":"病",
+"pinin":"bìng",
+"translation": "illness"
+},
+{
+"consonant": "p",
+"vowel":"ing",
+"tone": 1,
+"sym":"娉",
+"pinin":"pīng",
+"translation": "graceful"
+},
+{
+"consonant": "p",
+"vowel":"ing",
+"tone": 2,
+"sym":"瓶",
+"pinin":"píng",
+"translation": "bottle"
+},
+{
+"consonant": "p",
+"vowel":"ing",
+"tone": 4,
+"sym":"䀻",
+"pinin":"pìng",
+"translation": "to look"
+},
+{
+"consonant": "m",
+"vowel":"ing",
+"tone": 2,
+"sym":"名",
+"pinin":"míng",
+"translation": "name"
+},
+{
+"consonant": "m",
+"vowel":"ing",
+"tone": 3,
+"sym":"酩",
+"pinin":"mǐng",
+"translation": "intoxicated"
+},
+{
+"consonant": "m",
+"vowel":"ing",
+"tone": 4,
+"sym":"命",
+"pinin":"mìng",
+"translation": "life; fate"
+},
+{
+"consonant": "d",
+"vowel":"ing",
+"tone": 1,
+"sym":"钉",
+"pinin":"dīng",
+"translation": "nail"
+},
+{
+"consonant": "d",
+"vowel":"ing",
+"tone": 3,
+"sym":"顶",
+"pinin":"dǐng",
+"translation": "most"
+},
+{
+"consonant": "d",
+"vowel":"ing",
+"tone": 4,
+"sym":"碇",
+"pinin":"dìng",
+"translation": "anchor"
+},
+{
+"consonant": "t",
+"vowel":"ing",
+"tone": 1,
+"sym":"听",
+"pinin":"tīng",
+"translation": "to obey"
+},
+{
+"consonant": "t",
+"vowel":"ing",
+"tone": 2,
+"sym":"停",
+"pinin":"tíng",
+"translation": "to stop"
+},
+{
+"consonant": "t",
+"vowel":"ing",
+"tone": 3,
+"sym":"艇",
+"pinin":"tǐng",
+"translation": "vessel; small ship"
+},
+{
+"consonant": "t",
+"vowel":"ing",
+"tone": 4,
+"sym":"听",
+"pinin":"tìng",
+"translation": "to allow"
+},
+{
+"consonant": "n",
+"vowel":"ing",
+"tone": 2,
+"sym":"宁",
+"pinin":"níng",
+"translation": "peaceful"
+},
+{
+"consonant": "n",
+"vowel":"ing",
+"tone": 3,
+"sym":"拧",
+"pinin":"nǐng",
+"translation": "to disagree"
+},
+{
+"consonant": "n",
+"vowel":"ing",
+"tone": 4,
+"sym":"拧",
+"pinin":"nìng",
+"translation": "stubborn"
+},
+{
+"consonant": "l",
+"vowel":"ing",
+"tone": 1,
+"sym":"昤",
+"pinin":"līng",
+"translation": "sunshine"
+},
+{
+"consonant": "l",
+"vowel":"ing",
+"tone": 2,
+"sym":"零",
+"pinin":"líng",
+"translation": "zero"
+},
+{
+"consonant": "l",
+"vowel":"ing",
+"tone": 3,
+"sym":"领",
+"pinin":"lǐng",
+"translation": "neck"
+},
+{
+"consonant": "l",
+"vowel":"ing",
+"tone": 4,
+"sym":"另",
+"pinin":"lìng",
+"translation": "other; another"
+},
+{
+"consonant": "q",
+"vowel":"ing",
+"tone": 1,
+"sym":"青",
+"pinin":"qīng",
+"translation": "green"
+},
+{
+"consonant": "q",
+"vowel":"ing",
+"tone": 2,
+"sym":"情",
+"pinin":"qíng",
+"translation": "feeling"
+},
+{
+"consonant": "q",
+"vowel":"ing",
+"tone": 3,
+"sym":"廎",
+"pinin":"qǐng",
+"translation": "room"
+},
+{
+"consonant": "q",
+"vowel":"ing",
+"tone": 4,
+"sym":"庆",
+"pinin":"qìng",
+"translation": "to celebrate"
+},
+{
+"consonant": "j",
+"vowel":"ing",
+"tone": 1,
+"sym":"晶",
+"pinin":"jīng",
+"translation": "crystal"
+},
+{
+"consonant": "j",
+"vowel":"ing",
+"tone": 3,
+"sym":"儆",
+"pinin":"jǐng",
+"translation": "to warn"
+},
+{
+"consonant": "j",
+"vowel":"ing",
+"tone": 4,
+"sym":"静",
+"pinin":"jìng",
+"translation": "still; calm"
+},
+{
+"consonant": "x",
+"vowel":"ing",
+"tone": 1,
+"sym":"星",
+"pinin":"xīng",
+"translation": "star"
+},
+{
+"consonant": "x",
+"vowel":"ing",
+"tone": 2,
+"sym":"型",
+"pinin":"xíng",
+"translation": "type"
+},
+{
+"consonant": "x",
+"vowel":"ing",
+"tone": 3,
+"sym":"醒",
+"pinin":"xǐng",
+"translation": "to be awake"
+},
+{
+"consonant": "x",
+"vowel":"ing",
+"tone": 4,
+"sym":"姓",
+"pinin":"xìng",
+"translation": "family name; surname"
+},
+{
+"consonant": "",
+"vowel":"iong",
+"tone": 1,
+"sym":"雍",
+"pinin":"yōng",
+"translation": "harmony"
+},
+{
+"consonant": "",
+"vowel":"iong",
+"tone": 2,
+"sym":"喁",
+"pinin":"yóng",
+"translation": "breathing (of fish)"
+},
+{
+"consonant": "",
+"vowel":"iong",
+"tone": 3,
+"sym":"勇",
+"pinin":"yǒng",
+"translation": "brave"
+},
+{
+"consonant": "",
+"vowel":"iong",
+"tone": 4,
+"sym":"用",
+"pinin":"yòng",
+"translation": "to employ"
+},
+{
+"consonant": "q",
+"vowel":"iong",
+"tone": 1,
+"sym":"銎",
+"pinin":"qiōng",
+"translation": "eye of an axe"
+},
+{
+"consonant": "q",
+"vowel":"iong",
+"tone": 2,
+"sym":"嬛",
+"pinin":"qióng",
+"translation": "alone"
+},
+{
+"consonant": "j",
+"vowel":"iong",
+"tone": 1,
+"sym":"坰",
+"pinin":"jiōng",
+"translation": "environs"
+},
+{
+"consonant": "j",
+"vowel":"iong",
+"tone": 3,
+"sym":"澃",
+"pinin":"jiǒng",
+"translation": "clear"
+},
+{
+"consonant": "x",
+"vowel":"iong",
+"tone": 1,
+"sym":"胸",
+"pinin":"xiōng",
+"translation": "chest"
+},
+{
+"consonant": "x",
+"vowel":"iong",
+"tone": 2,
+"sym":"雄",
+"pinin":"xióng",
+"translation": "male"
+},
+{
+"consonant": "x",
+"vowel":"iong",
+"tone": 4,
+"sym":"诇",
+"pinin":"xiòng",
+"translation": "to spy"
+},
+{
+"consonant": "",
+"vowel":"iou",
+"tone": 1,
+"sym":"优",
+"pinin":"yōu",
+"translation": "excellent"
+},
+{
+"consonant": "",
+"vowel":"iou",
+"tone": 2,
+"sym":"油",
+"pinin":"yóu",
+"translation": "oil"
+},
+{
+"consonant": "",
+"vowel":"iou",
+"tone": 3,
+"sym":"有",
+"pinin":"yǒu",
+"translation": "to have"
+},
+{
+"consonant": "",
+"vowel":"iou",
+"tone": 4,
+"sym":"右",
+"pinin":"yòu",
+"translation": "right (-hand)"
+},
+{
+"consonant": "m",
+"vowel":"iou",
+"tone": 4,
+"sym":"缪",
+"pinin":"miù",
+"translation": "error"
+},
+{
+"consonant": "d",
+"vowel":"iou",
+"tone": 1,
+"sym":"丢",
+"pinin":"diū",
+"translation": "to lose"
+},
+{
+"consonant": "n",
+"vowel":"iou",
+"tone": 1,
+"sym":"妞",
+"pinin":"niū",
+"translation": "girl"
+},
+{
+"consonant": "n",
+"vowel":"iou",
+"tone": 2,
+"sym":"牛",
+"pinin":"niú",
+"translation": "ox"
+},
+{
+"consonant": "n",
+"vowel":"iou",
+"tone": 3,
+"sym":"扭",
+"pinin":"niǔ",
+"translation": "to turn"
+},
+{
+"consonant": "n",
+"vowel":"iou",
+"tone": 4,
+"sym":"䋴",
+"pinin":"niù",
+"translation": "silk fabrics with mixed colors"
+},
+{
+"consonant": "l",
+"vowel":"iou",
+"tone": 1,
+"sym":"溜",
+"pinin":"liū",
+"translation": "to slip away"
+},
+{
+"consonant": "l",
+"vowel":"iou",
+"tone": 2,
+"sym":"流",
+"pinin":"liú",
+"translation": "to flow"
+},
+{
+"consonant": "l",
+"vowel":"iou",
+"tone": 3,
+"sym":"柳",
+"pinin":"liǔ",
+"translation": "willow"
+},
+{
+"consonant": "l",
+"vowel":"iou",
+"tone": 4,
+"sym":"六",
+"pinin":"liù",
+"translation": "six"
+},
+{
+"consonant": "q",
+"vowel":"iou",
+"tone": 1,
+"sym":"揪",
+"pinin":"jiū",
+"translation": "to seize"
+},
+{
+"consonant": "q",
+"vowel":"iou",
+"tone": 2,
+"sym":"球",
+"pinin":"qiú",
+"translation": "ball; sphere"
+},
+{
+"consonant": "q",
+"vowel":"iou",
+"tone": 3,
+"sym":"糗",
+"pinin":"qiǔ",
+"translation": "dry rations (for a journey)"
+},
+{
+"consonant": "q",
+"vowel":"iou",
+"tone": 4,
+"sym":"䟬",
+"pinin":"qiù",
+"translation": "to walk"
+},
+{
+"consonant": "j",
+"vowel":"iou",
+"tone": 1,
+"sym":"揫",
+"pinin":"jiū",
+"translation": "to gather"
+},
+{
+"consonant": "j",
+"vowel":"iou",
+"tone": 3,
+"sym":"九",
+"pinin":"jiǔ",
+"translation": "nine"
+},
+{
+"consonant": "j",
+"vowel":"iou",
+"tone": 4,
+"sym":"就",
+"pinin":"jiù",
+"translation": "at once"
+},
+{
+"consonant": "x",
+"vowel":"iou",
+"tone": 1,
+"sym":"修",
+"pinin":"xiū",
+"translation": "to decorate"
+},
+{
+"consonant": "x",
+"vowel":"iou",
+"tone": 3,
+"sym":"宿",
+"pinin":"xiǔ",
+"translation": "night"
+},
+{
+"consonant": "x",
+"vowel":"iou",
+"tone": 4,
+"sym":"岫",
+"pinin":"xiù",
+"translation": "cave"
+},
+{
+"consonant": "",
+"vowel":"o",
+"tone": 1,
+"sym":"喔",
+"pinin":"ō",
+"translation": "I see"
+},
+{
+"consonant": "b",
+"vowel":"o",
+"tone": 1,
+"sym":"剥",
+"pinin":"bō",
+"translation": "to peel"
+},
+{
+"consonant": "b",
+"vowel":"o",
+"tone": 2,
+"sym":"帛",
+"pinin":"bó",
+"translation": "silk"
+},
+{
+"consonant": "b",
+"vowel":"o",
+"tone": 3,
+"sym":"簸",
+"pinin":"bǒ",
+"translation": "to winnow"
+},
+{
+"consonant": "b",
+"vowel":"o",
+"tone": 4,
+"sym":"播",
+"pinin":"bò ",
+"translation": "to sow"
+},
+{
+"consonant": "p",
+"vowel":"o",
+"tone": 1,
+"sym":"泼",
+"pinin":"pō",
+"translation": "to splash"
+},
+{
+"consonant": "p",
+"vowel":"o",
+"tone": 2,
+"sym":"婆",
+"pinin":"pó",
+"translation": "grandmother"
+},
+{
+"consonant": "p",
+"vowel":"o",
+"tone": 3,
+"sym":"尀",
+"pinin":"pǒ",
+"translation": "cannot"
+},
+{
+"consonant": "p",
+"vowel":"o",
+"tone": 4,
+"sym":"破",
+"pinin":"pò",
+"translation": "broken"
+},
+{
+"consonant": "m",
+"vowel":"o",
+"tone": 1,
+"sym":"摸",
+"pinin":"mō",
+"translation": "to feel with the hand"
+},
+{
+"consonant": "m",
+"vowel":"o",
+"tone": 2,
+"sym":"磨",
+"pinin":"mó",
+"translation": "to rub"
+},
+{
+"consonant": "m",
+"vowel":"o",
+"tone": 3,
+"sym":"抹",
+"pinin":"mǒ",
+"translation": "to smear;"
+},
+{
+"consonant": "m",
+"vowel":"o",
+"tone": 4,
+"sym":"末",
+"pinin":"mò",
+"translation": "final stage"
+},
+{
+"consonant": "d",
+"vowel":"ong",
+"tone": 1,
+"sym":"东",
+"pinin":"dōng",
+"translation": "east"
+},
+{
+"consonant": "d",
+"vowel":"ong",
+"tone": 3,
+"sym":"懂",
+"pinin":"dǒng",
+"translation": "to understand"
+},
+{
+"consonant": "d",
+"vowel":"ong",
+"tone": 4,
+"sym":"冻",
+"pinin":"dòng",
+"translation": "to freeze"
+},
+{
+"consonant": "t",
+"vowel":"ong",
+"tone": 1,
+"sym":"通",
+"pinin":"tōng",
+"translation": "to go through"
+},
+{
+"consonant": "t",
+"vowel":"ong",
+"tone": 2,
+"sym":"同",
+"pinin":"tóng",
+"translation": "like; same; similar"
+},
+{
+"consonant": "t",
+"vowel":"ong",
+"tone": 3,
+"sym":"桶",
+"pinin":"tǒng",
+"translation": "bucket"
+},
+{
+"consonant": "t",
+"vowel":"ong",
+"tone": 4,
+"sym":"恸",
+"pinin":"tòng",
+"translation": "grief"
+},
+{
+"consonant": "n",
+"vowel":"ong",
+"tone": 2,
+"sym":"浓",
+"pinin":"nóng",
+"translation": "concentrated"
+},
+{
+"consonant": "n",
+"vowel":"ong",
+"tone": 3,
+"sym":"䵜",
+"pinin":"nǒng",
+"translation": "to plough and sow"
+},
+{
+"consonant": "n",
+"vowel":"ong",
+"tone": 4,
+"sym":"弄",
+"pinin":"nòng",
+"translation": "to do; to manage"
+},
+{
+"consonant": "l",
+"vowel":"ong",
+"tone": 1,
+"sym":"隆",
+"pinin":"lōng",
+"translation": "sound of drums"
+},
+{
+"consonant": "l",
+"vowel":"ong",
+"tone": 2,
+"sym":"龙",
+"pinin":"lóng",
+"translation": "dragon"
+},
+{
+"consonant": "l",
+"vowel":"ong",
+"tone": 3,
+"sym":"儱",
+"pinin":"lǒng",
+"translation": "rude"
+},
+{
+"consonant": "l",
+"vowel":"ong",
+"tone": 4,
+"sym":"弄",
+"pinin":"lòng",
+"translation": "lane; alley"
+},
+{
+"consonant": "g",
+"vowel":"ong",
+"tone": 1,
+"sym":"供",
+"pinin":"gōng",
+"translation": "to provide"
+},
+{
+"consonant": "g",
+"vowel":"ong",
+"tone": 3,
+"sym":"巩",
+"pinin":"gǒng",
+"translation": "secure; solid"
+},
+{
+"consonant": "g",
+"vowel":"ong",
+"tone": 4,
+"sym":"共",
+"pinin":"gòng",
+"translation": "common"
+},
+{
+"consonant": "k",
+"vowel":"ong",
+"tone": 1,
+"sym":"空",
+"pinin":"kōng",
+"translation": "empty"
+},
+{
+"consonant": "k",
+"vowel":"ong",
+"tone": 3,
+"sym":"孔",
+"pinin":"kǒng",
+"translation": "hole"
+},
+{
+"consonant": "k",
+"vowel":"ong",
+"tone": 4,
+"sym":"鞚",
+"pinin":"kòng",
+"translation": "bridle"
+},
+{
+"consonant": "h",
+"vowel":"ong",
+"tone": 1,
+"sym":"烘",
+"pinin":"hōng",
+"translation": "to bake"
+},
+{
+"consonant": "h",
+"vowel":"ong",
+"tone": 2,
+"sym":"红",
+"pinin":"hóng",
+"translation": "red; popular"
+},
+{
+"consonant": "h",
+"vowel":"ong",
+"tone": 3,
+"sym":"唝",
+"pinin":"hǒng",
+"translation": "sing"
+},
+{
+"consonant": "h",
+"vowel":"ong",
+"tone": 4,
+"sym":"蕻",
+"pinin":"hòng",
+"translation": "budding"
+},
+{
+"consonant": "z",
+"vowel":"ong",
+"tone": 1,
+"sym":"宗",
+"pinin":"zōng",
+"translation": "school"
+},
+{
+"consonant": "z",
+"vowel":"ong",
+"tone": 3,
+"sym":"偬",
+"pinin":"zǒng",
+"translation": "busy"
+},
+{
+"consonant": "z",
+"vowel":"ong",
+"tone": 4,
+"sym":"从",
+"pinin":"zòng",
+"translation": "second cousin"
+},
+{
+"consonant": "s",
+"vowel":"ong",
+"tone": 1,
+"sym":"松",
+"pinin":"sōng",
+"translation": "loose"
+},
+{
+"consonant": "s",
+"vowel":"ong",
+"tone": 2,
+"sym":"㞞",
+"pinin":"sóng",
+"translation": "weak and incompetent"
+},
+{
+"consonant": "s",
+"vowel":"ong",
+"tone": 3,
+"sym":"悚",
+"pinin":"sǒng",
+"translation": "frightened"
+},
+{
+"consonant": "s",
+"vowel":"ong",
+"tone": 4,
+"sym":"送",
+"pinin":"sòng",
+"translation": "to deliver"
+},
+{
+"consonant": "c",
+"vowel":"ong",
+"tone": 1,
+"sym":"葱",
+"pinin":"cōng",
+"translation": "green onion"
+},
+{
+"consonant": "c",
+"vowel":"ong",
+"tone": 2,
+"sym":"悰",
+"pinin":"cóng",
+"translation": "joy"
+},
+{
+"consonant": "zh",
+"vowel":"ong",
+"tone": 1,
+"sym":"中",
+"pinin":"zhōng",
+"translation": "China"
+},
+{
+"consonant": "zh",
+"vowel":"ong",
+"tone": 3,
+"sym":"种",
+"pinin":"zhǒng",
+"translation": "seed"
+},
+{
+"consonant": "zh",
+"vowel":"ong",
+"tone": 4,
+"sym":"种",
+"pinin":"zhòng",
+"translation": "to plant"
+},
+{
+"consonant": "ch",
+"vowel":"ong",
+"tone": 1,
+"sym":"冲",
+"pinin":"chōng",
+"translation": "thoroughfare"
+},
+{
+"consonant": "ch",
+"vowel":"ong",
+"tone": 2,
+"sym":"重",
+"pinin":"chóng",
+"translation": "to repeat"
+},
+{
+"consonant": "ch",
+"vowel":"ong",
+"tone": 3,
+"sym":"宠",
+"pinin":"chǒng",
+"translation": "to love"
+},
+{
+"consonant": "ch",
+"vowel":"ong",
+"tone": 4,
+"sym":"冲",
+"pinin":"chòng",
+"translation": "powerful"
+},
+{
+"consonant": "r",
+"vowel":"ong",
+"tone": 2,
+"sym":"容",
+"pinin":"róng",
+"translation": "to hold"
+},
+{
+"consonant": "r",
+"vowel":"ong",
+"tone": 3,
+"sym":"冗",
+"pinin":"rǒng",
+"translation": "extraneous"
+},
+{
+"consonant": "",
+"vowel":"ou ",
+"tone": 1,
+"sym":"殴",
+"pinin":"ōu",
+"translation": "to hit somebody"
+},
+{
+"consonant": "",
+"vowel":"ou ",
+"tone": 3,
+"sym":"偶",
+"pinin":"ǒu",
+"translation": "accidental"
+},
+{
+"consonant": "",
+"vowel":"ou ",
+"tone": 4,
+"sym":"怄",
+"pinin":"òu",
+"translation": "to annoy"
+},
+{
+"consonant": "p",
+"vowel":"ou ",
+"tone": 1,
+"sym":"剖",
+"pinin":"pōu",
+"translation": "to analyze"
+},
+{
+"consonant": "p",
+"vowel":"ou ",
+"tone": 2,
+"sym":"垺",
+"pinin":"póu",
+"translation": "extremely large"
+},
+{
+"consonant": "p",
+"vowel":"ou ",
+"tone": 3,
+"sym":"掊",
+"pinin":"pǒu",
+"translation": "break up"
+},
+{
+"consonant": "m",
+"vowel":"ou ",
+"tone": 1,
+"sym":"哞",
+"pinin":"mōu",
+"translation": "moo (sound made by cow)"
+},
+{
+"consonant": "m",
+"vowel":"ou ",
+"tone": 2,
+"sym":"谋",
+"pinin":"móu",
+"translation": "to plan"
+},
+{
+"consonant": "m",
+"vowel":"ou ",
+"tone": 3,
+"sym":"某",
+"pinin":"mǒu",
+"translation": "some; a certain"
+},
+{
+"consonant": "f",
+"vowel":"ou ",
+"tone": 2,
+"sym":"紑",
+"pinin":"fóu",
+"translation": "bright; glossy (of silk)"
+},
+{
+"consonant": "f",
+"vowel":"ou ",
+"tone": 3,
+"sym":"否",
+"pinin":"fǒu",
+"translation": "to negate"
+},
+{
+"consonant": "d",
+"vowel":"ou ",
+"tone": 1,
+"sym":"兜",
+"pinin":"dōu",
+"translation": "pocket"
+},
+{
+"consonant": "d",
+"vowel":"ou ",
+"tone": 3,
+"sym":"抖",
+"pinin":"dǒu",
+"translation": "to tremble"
+},
+{
+"consonant": "d",
+"vowel":"ou ",
+"tone": 4,
+"sym":"斗",
+"pinin":"dòu",
+"translation": "to fight"
+},
+{
+"consonant": "t",
+"vowel":"ou ",
+"tone": 1,
+"sym":"偷",
+"pinin":"tōu",
+"translation": "to steal"
+},
+{
+"consonant": "t",
+"vowel":"ou ",
+"tone": 2,
+"sym":"投",
+"pinin":"tóu",
+"translation": "to cast"
+},
+{
+"consonant": "t",
+"vowel":"ou ",
+"tone": 3,
+"sym":"黈",
+"pinin":"tǒu",
+"translation": "a yellow color"
+},
+{
+"consonant": "t",
+"vowel":"ou ",
+"tone": 4,
+"sym":"䟝",
+"pinin":"tòu",
+"translation": "to walk right into"
+},
+{
+"consonant": "l",
+"vowel":"ou ",
+"tone": 1,
+"sym":"搂",
+"pinin":"lōu",
+"translation": "to draw towards oneself"
+},
+{
+"consonant": "l",
+"vowel":"ou ",
+"tone": 2,
+"sym":"偻",
+"pinin":"lóu",
+"translation": "hunchback"
+},
+{
+"consonant": "l",
+"vowel":"ou ",
+"tone": 3,
+"sym":"搂",
+"pinin":"lǒu",
+"translation": "to hug"
+},
+{
+"consonant": "l",
+"vowel":"ou ",
+"tone": 4,
+"sym":"露",
+"pinin":"lòu",
+"translation": "to show"
+},
+{
+"consonant": "g",
+"vowel":"ou ",
+"tone": 1,
+"sym":"钩",
+"pinin":"gōu",
+"translation": "to hook"
+},
+{
+"consonant": "g",
+"vowel":"ou ",
+"tone": 3,
+"sym":"狗",
+"pinin":"gǒu",
+"translation": "dog"
+},
+{
+"consonant": "g",
+"vowel":"ou ",
+"tone": 4,
+"sym":"购",
+"pinin":"gòu",
+"translation": "to buy; to purchase"
+},
+{
+"consonant": "k",
+"vowel":"ou ",
+"tone": 1,
+"sym":"抠",
+"pinin":"kōu",
+"translation": "to dig out"
+},
+{
+"consonant": "k",
+"vowel":"ou ",
+"tone": 3,
+"sym":"口",
+"pinin":"kǒu",
+"translation": "mouth"
+},
+{
+"consonant": "k",
+"vowel":"ou ",
+"tone": 4,
+"sym":"叩",
+"pinin":"kòu",
+"translation": "to knock"
+},
+{
+"consonant": "h",
+"vowel":"ou ",
+"tone": 1,
+"sym":"齁",
+"pinin":"hōu",
+"translation": "to snore"
+},
+{
+"consonant": "h",
+"vowel":"ou ",
+"tone": 2,
+"sym":"猴",
+"pinin":"hóu",
+"translation": "monkey"
+},
+{
+"consonant": "h",
+"vowel":"ou ",
+"tone": 3,
+"sym":"吼",
+"pinin":"hǒu",
+"translation": "to roar; to howl"
+},
+{
+"consonant": "h",
+"vowel":"ou ",
+"tone": 4,
+"sym":"后",
+"pinin":"hòu",
+"translation": "back"
+},
+{
+"consonant": "z",
+"vowel":"ou ",
+"tone": 1,
+"sym":"緅",
+"pinin":"zōu",
+"translation": "purple silk"
+},
+{
+"consonant": "z",
+"vowel":"ou ",
+"tone": 3,
+"sym":"走",
+"pinin":"zǒu",
+"translation": "to walk"
+},
+{
+"consonant": "z",
+"vowel":"ou ",
+"tone": 4,
+"sym":"奏",
+"pinin":"zòu",
+"translation": "to play music"
+},
+{
+"consonant": "s",
+"vowel":"ou ",
+"tone": 1,
+"sym":"搜",
+"pinin":"sōu",
+"translation": "to search"
+},
+{
+"consonant": "s",
+"vowel":"ou ",
+"tone": 3,
+"sym":"叟",
+"pinin":"sǒu",
+"translation": "old gentleman"
+},
+{
+"consonant": "s",
+"vowel":"ou ",
+"tone": 4,
+"sym":"嗽",
+"pinin":"sòu",
+"translation": "cough"
+},
+{
+"consonant": "c",
+"vowel":"ou ",
+"tone": 2,
+"sym":"𧡣",
+"pinin":"cóu",
+"translation": "to look at something unhappily"
+},
+{
+"consonant": "c",
+"vowel":"ou ",
+"tone": 4,
+"sym":"辏",
+"pinin":"còu",
+"translation": "to converge"
+},
+{
+"consonant": "zh",
+"vowel":"ou ",
+"tone": 1,
+"sym":"周",
+"pinin":"zhōu",
+"translation": "week"
+},
+{
+"consonant": "zh",
+"vowel":"ou ",
+"tone": 2,
+"sym":"轴",
+"pinin":"zhóu",
+"translation": "axis"
+},
+{
+"consonant": "zh",
+"vowel":"ou ",
+"tone": 3,
+"sym":"帚",
+"pinin":"zhǒu",
+"translation": "broom"
+},
+{
+"consonant": "zh",
+"vowel":"ou ",
+"tone": 4,
+"sym":"咒",
+"pinin":"zhòu",
+"translation": "magic spell"
+},
+{
+"consonant": "sh",
+"vowel":"ou ",
+"tone": 1,
+"sym":"收",
+"pinin":"shōu",
+"translation": "to accept"
+},
+{
+"consonant": "sh",
+"vowel":"ou ",
+"tone": 2,
+"sym":"熟",
+"pinin":"shóu",
+"translation": "cooked (of food)"
+},
+{
+"consonant": "sh",
+"vowel":"ou ",
+"tone": 3,
+"sym":"手",
+"pinin":"shǒu",
+"translation": "hand"
+},
+{
+"consonant": "sh",
+"vowel":"ou ",
+"tone": 4,
+"sym":"售",
+"pinin":"shòu",
+"translation": "to sell"
+},
+{
+"consonant": "ch",
+"vowel":"ou ",
+"tone": 1,
+"sym":"瘳",
+"pinin":"chōu",
+"translation": "to recover"
+},
+{
+"consonant": "ch",
+"vowel":"ou ",
+"tone": 2,
+"sym":"愁",
+"pinin":"chóu",
+"translation": "to worry about"
+},
+{
+"consonant": "ch",
+"vowel":"ou ",
+"tone": 3,
+"sym":"丑",
+"pinin":"chǒu",
+"translation": "shameful"
+},
+{
+"consonant": "ch",
+"vowel":"ou ",
+"tone": 4,
+"sym":"臭",
+"pinin":"chòu",
+"translation": "stench; smelly"
+},
+{
+"consonant": "r",
+"vowel":"ou ",
+"tone": 2,
+"sym":"柔",
+"pinin":"róu",
+"translation": "soft; flexible"
+},
+{
+"consonant": "r",
+"vowel":"ou ",
+"tone": 4,
+"sym":"肉",
+"pinin":"ròu",
+"translation": "meat"
+},
+{
+"consonant": "",
+"vowel":"u",
+"tone": 1,
+"sym":"屋",
+"pinin":"wū",
+"translation": "house; room"
+},
+{
+"consonant": "",
+"vowel":"u",
+"tone": 2,
+"sym":"无",
+"pinin":"wú",
+"translation": "not to have;"
+},
+{
+"consonant": "",
+"vowel":"u",
+"tone": 3,
+"sym":"五",
+"pinin":"wǔ",
+"translation": "five"
+},
+{
+"consonant": "",
+"vowel":"u",
+"tone": 4,
+"sym":"雾",
+"pinin":"wù",
+"translation": "fog; mist"
+},
+{
+"consonant": "b",
+"vowel":"u",
+"tone": 1,
+"sym":"钸",
+"pinin":"bū",
+"translation": "metal plate"
+},
+{
+"consonant": "b",
+"vowel":"u",
+"tone": 2,
+"sym":"醭",
+"pinin":"bú",
+"translation": "mold on liquids"
+},
+{
+"consonant": "b",
+"vowel":"u",
+"tone": 3,
+"sym":"捕",
+"pinin":"bǔ",
+"translation": "to catch"
+},
+{
+"consonant": "b",
+"vowel":"u",
+"tone": 4,
+"sym":"不",
+"pinin":"bù",
+"translation": "(negative prefix); not; no"
+},
+{
+"consonant": "p",
+"vowel":"u",
+"tone": 1,
+"sym":"铺",
+"pinin":"pū",
+"translation": "to spread"
+},
+{
+"consonant": "p",
+"vowel":"u",
+"tone": 2,
+"sym":"仆",
+"pinin":"pú",
+"translation": "servant"
+},
+{
+"consonant": "p",
+"vowel":"u",
+"tone": 3,
+"sym":"谱",
+"pinin":"pǔ",
+"translation": "chart; list; table"
+},
+{
+"consonant": "p",
+"vowel":"u",
+"tone": 4,
+"sym":"瀑",
+"pinin":"pù",
+"translation": "waterfall"
+},
+{
+"consonant": "m",
+"vowel":"u",
+"tone": 2,
+"sym":"模",
+"pinin":"mú",
+"translation": "mold"
+},
+{
+"consonant": "m",
+"vowel":"u",
+"tone": 3,
+"sym":"姥",
+"pinin":"mǔ",
+"translation": "old woman"
+},
+{
+"consonant": "m",
+"vowel":"u",
+"tone": 4,
+"sym":"木",
+"pinin":"mù",
+"translation": "tree; wood"
+},
+{
+"consonant": "f",
+"vowel":"u",
+"tone": 1,
+"sym":"夫",
+"pinin":"fū",
+"translation": "husband"
+},
+{
+"consonant": "f",
+"vowel":"u",
+"tone": 2,
+"sym":"扶",
+"pinin":"fú",
+"translation": "to support with the hand;"
+},
+{
+"consonant": "f",
+"vowel":"u",
+"tone": 3,
+"sym":"俯",
+"pinin":"fǔ",
+"translation": "to look down"
+},
+{
+"consonant": "f",
+"vowel":"u",
+"tone": 4,
+"sym":"付",
+"pinin":"fù",
+"translation": "to pay"
+},
+{
+"consonant": "d",
+"vowel":"u",
+"tone": 1,
+"sym":"都",
+"pinin":"dū",
+"translation": "capital city"
+},
+{
+"consonant": "d",
+"vowel":"u",
+"tone": 2,
+"sym":"读",
+"pinin":"dú",
+"translation": "to read"
+},
+{
+"consonant": "d",
+"vowel":"u",
+"tone": 3,
+"sym":"肚",
+"pinin":"dǔ",
+"translation": "tripe"
+},
+{
+"consonant": "d",
+"vowel":"u",
+"tone": 4,
+"sym":"渡",
+"pinin":"dù",
+"translation": "to cross"
+},
+{
+"consonant": "t",
+"vowel":"u",
+"tone": 1,
+"sym":"秃",
+"pinin":"tū",
+"translation": "bald"
+},
+{
+"consonant": "t",
+"vowel":"u",
+"tone": 2,
+"sym":"图",
+"pinin":"tú",
+"translation": "diagram"
+},
+{
+"consonant": "t",
+"vowel":"u",
+"tone": 3,
+"sym":"土",
+"pinin":"tǔ",
+"translation": "earth"
+},
+{
+"consonant": "t",
+"vowel":"u",
+"tone": 4,
+"sym":"兔",
+"pinin":"tù",
+"translation": "rabbit"
+},
+{
+"consonant": "n",
+"vowel":"u",
+"tone": 2,
+"sym":"奴",
+"pinin":"nú",
+"translation": "slave"
+},
+{
+"consonant": "n",
+"vowel":"u",
+"tone": 3,
+"sym":"砮",
+"pinin":"nǔ",
+"translation": "flint"
+},
+{
+"consonant": "n",
+"vowel":"u",
+"tone": 4,
+"sym":"怒",
+"pinin":"nù",
+"translation": "anger"
+},
+{
+"consonant": "l",
+"vowel":"u",
+"tone": 1,
+"sym":"噜",
+"pinin":"lū",
+"translation": "grumble"
+},
+{
+"consonant": "l",
+"vowel":"u",
+"tone": 2,
+"sym":"庐",
+"pinin":"lú",
+"translation": "hut"
+},
+{
+"consonant": "l",
+"vowel":"u",
+"tone": 3,
+"sym":"掳",
+"pinin":"lǔ",
+"translation": "to capture"
+},
+{
+"consonant": "l",
+"vowel":"u",
+"tone": 4,
+"sym":"路",
+"pinin":"lù",
+"translation": "road;"
+},
+{
+"consonant": "g",
+"vowel":"u",
+"tone": 1,
+"sym":"辜",
+"pinin":"gū",
+"translation": "crime"
+},
+{
+"consonant": "g",
+"vowel":"u",
+"tone": 2,
+"sym":"䜼",
+"pinin":"gú",
+"translation": "kind of bean"
+},
+{
+"consonant": "g",
+"vowel":"u",
+"tone": 3,
+"sym":"古",
+"pinin":"gǔ",
+"translation": "ancient"
+},
+{
+"consonant": "g",
+"vowel":"u",
+"tone": 4,
+"sym":"雇",
+"pinin":"gù",
+"translation": "to employ"
+},
+{
+"consonant": "k",
+"vowel":"u",
+"tone": 1,
+"sym":"哭",
+"pinin":"kū",
+"translation": "to cry"
+},
+{
+"consonant": "k",
+"vowel":"u",
+"tone": 3,
+"sym":"苦",
+"pinin":"kǔ",
+"translation": "bitter"
+},
+{
+"consonant": "k",
+"vowel":"u",
+"tone": 4,
+"sym":"䔯",
+"pinin":"kù",
+"translation": "salted"
+},
+{
+"consonant": "h",
+"vowel":"u",
+"tone": 1,
+"sym":"呼",
+"pinin":"hū",
+"translation": "to call"
+},
+{
+"consonant": "h",
+"vowel":"u",
+"tone": 2,
+"sym":"湖",
+"pinin":"hú",
+"translation": "lake"
+},
+{
+"consonant": "h",
+"vowel":"u",
+"tone": 3,
+"sym":"虎",
+"pinin":"hǔ",
+"translation": "tiger"
+},
+{
+"consonant": "h",
+"vowel":"u",
+"tone": 4,
+"sym":"护",
+"pinin":"hù",
+"translation": "to protect"
+},
+{
+"consonant": "z",
+"vowel":"u",
+"tone": 1,
+"sym":"租",
+"pinin":"zū",
+"translation": "to hire"
+},
+{
+"consonant": "z",
+"vowel":"u",
+"tone": 2,
+"sym":"足",
+"pinin":"zú",
+"translation": "foot"
+},
+{
+"consonant": "z",
+"vowel":"u",
+"tone": 3,
+"sym":"组",
+"pinin":"zǔ",
+"translation": "to form"
+},
+{
+"consonant": "s",
+"vowel":"u",
+"tone": 1,
+"sym":"㢝",
+"pinin":"sū",
+"translation": "cottage"
+},
+{
+"consonant": "s",
+"vowel":"u",
+"tone": 2,
+"sym":"俗",
+"pinin":"sú",
+"translation": "custom"
+},
+{
+"consonant": "s",
+"vowel":"u",
+"tone": 4,
+"sym":"粟",
+"pinin":"sù",
+"translation": "grain"
+},
+{
+"consonant": "c",
+"vowel":"u",
+"tone": 1,
+"sym":"粗",
+"pinin":"cū",
+"translation": "remote"
+},
+{
+"consonant": "c",
+"vowel":"u",
+"tone": 2,
+"sym":"徂",
+"pinin":"cú",
+"translation": "to go; to reach"
+},
+{
+"consonant": "c",
+"vowel":"u",
+"tone": 3,
+"sym":"皻",
+"pinin":"cǔ",
+"translation": "chapped skin"
+},
+{
+"consonant": "c",
+"vowel":"u",
+"tone": 4,
+"sym":"蔟",
+"pinin":"cù",
+"translation": "collect"
+},
+{
+"consonant": "zh",
+"vowel":"u",
+"tone": 1,
+"sym":"朱",
+"pinin":"zhū",
+"translation": "vermilion"
+},
+{
+"consonant": "zh",
+"vowel":"u",
+"tone": 2,
+"sym":"竹",
+"pinin":"zhú",
+"translation": "bamboo"
+},
+{
+"consonant": "zh",
+"vowel":"u",
+"tone": 3,
+"sym":"煮",
+"pinin":"zhǔ",
+"translation": "to cook; to boil"
+},
+{
+"consonant": "zh",
+"vowel":"u",
+"tone": 4,
+"sym":"祝",
+"pinin":"zhù",
+"translation": "to wish"
+},
+{
+"consonant": "sh",
+"vowel":"u",
+"tone": 1,
+"sym":"书",
+"pinin":"shū",
+"translation": "book"
+},
+{
+"consonant": "sh",
+"vowel":"u",
+"tone": 2,
+"sym":"叔",
+"pinin":"shú ",
+"translation": "uncle"
+},
+{
+"consonant": "sh",
+"vowel":"u",
+"tone": 3,
+"sym":"数",
+"pinin":"shǔ",
+"translation": "to count"
+},
+{
+"consonant": "sh",
+"vowel":"u",
+"tone": 4,
+"sym":"数",
+"pinin":"shù",
+"translation": "number"
+},
+{
+"consonant": "ch",
+"vowel":"u",
+"tone": 1,
+"sym":"出",
+"pinin":"chū",
+"translation": "to go out"
+},
+{
+"consonant": "ch",
+"vowel":"u",
+"tone": 2,
+"sym":"厨",
+"pinin":"chú",
+"translation": "kitchen"
+},
+{
+"consonant": "ch",
+"vowel":"u",
+"tone": 3,
+"sym":"楚",
+"pinin":"chǔ",
+"translation": "distinct"
+},
+{
+"consonant": "ch",
+"vowel":"u",
+"tone": 4,
+"sym":"处",
+"pinin":"chù",
+"translation": "place"
+},
+{
+"consonant": "r",
+"vowel":"u",
+"tone": 2,
+"sym":"如",
+"pinin":"rú",
+"translation": "as; as if; such as"
+},
+{
+"consonant": "r",
+"vowel":"u",
+"tone": 3,
+"sym":"乳",
+"pinin":"rǔ",
+"translation": "milk"
+},
+{
+"consonant": "r",
+"vowel":"u",
+"tone": 4,
+"sym":"入",
+"pinin":"rù",
+"translation": "to enter"
+},
+{
+"consonant": "",
+"vowel":"ua",
+"tone": 1,
+"sym":"挖",
+"pinin":"wā",
+"translation": "to dig"
+},
+{
+"consonant": "",
+"vowel":"ua",
+"tone": 2,
+"sym":"娃",
+"pinin":"wá",
+"translation": "baby; doll"
+},
+{
+"consonant": "",
+"vowel":"ua",
+"tone": 3,
+"sym":"邷",
+"pinin":"wǎ",
+"translation": "to grab"
+},
+{
+"consonant": "",
+"vowel":"ua",
+"tone": 4,
+"sym":"袜",
+"pinin":"wà",
+"translation": "socks"
+},
+{
+"consonant": "g",
+"vowel":"ua",
+"tone": 1,
+"sym":"嘎",
+"pinin":"gā",
+"translation": "cackling sound"
+},
+{
+"consonant": "g",
+"vowel":"ua",
+"tone": 2,
+"sym":"钆",
+"pinin":"gá",
+"translation": "gadolinium (chemistry)"
+},
+{
+"consonant": "g",
+"vowel":"ua",
+"tone": 3,
+"sym":"尕",
+"pinin":"gǎ",
+"translation": "little (dialect)"
+},
+{
+"consonant": "g",
+"vowel":"ua",
+"tone": 4,
+"sym":"尕",
+"pinin":"gǎ",
+"translation": "little (dialect)"
+},
+{
+"consonant": "k",
+"vowel":"ua",
+"tone": 1,
+"sym":"咖",
+"pinin":"kā",
+"translation": "grade"
+},
+{
+"consonant": "k",
+"vowel":"ua",
+"tone": 3,
+"sym":"咯",
+"pinin":"kǎ",
+"translation": "to cough up"
+},
+{
+"consonant": "k",
+"vowel":"ua",
+"tone": 4,
+"sym":"髂",
+"pinin":"kà",
+"translation": "ilium"
+},
+{
+"consonant": "h",
+"vowel":"ua",
+"tone": 1,
+"sym":"哈",
+"pinin":"hā",
+"translation": "to adore"
+},
+{
+"consonant": "h",
+"vowel":"ua",
+"tone": 2,
+"sym":"蛤",
+"pinin":"há",
+"translation": "frog; toad"
+},
+{
+"consonant": "h",
+"vowel":"ua",
+"tone": 3,
+"sym":"哈",
+"pinin":"hǎ",
+"translation": "a pug"
+},
+{
+"consonant": "zh",
+"vowel":"ua",
+"tone": 1,
+"sym":"扎",
+"pinin":"zhā",
+"translation": "to prick"
+},
+{
+"consonant": "zh",
+"vowel":"ua",
+"tone": 2,
+"sym":"霅",
+"pinin":"zhá",
+"translation": "rain"
+},
+{
+"consonant": "zh",
+"vowel":"ua",
+"tone": 3,
+"sym":"眨",
+"pinin":"zhǎ",
+"translation": "to blink"
+},
+{
+"consonant": "zh",
+"vowel":"ua",
+"tone": 4,
+"sym":"奓",
+"pinin":"zhà",
+"translation": "to open"
+},
+{
+"consonant": "sh",
+"vowel":"ua",
+"tone": 1,
+"sym":"杀",
+"pinin":"shā",
+"translation": "to kill"
+},
+{
+"consonant": "sh",
+"vowel":"ua",
+"tone": 3,
+"sym":"傻",
+"pinin":"shǎ",
+"translation": "foolish"
+},
+{
+"consonant": "sh",
+"vowel":"ua",
+"tone": 4,
+"sym":"箑",
+"pinin":"shà",
+"translation": "fan"
+},
+{
+"consonant": "",
+"vowel":"uai",
+"tone": 1,
+"sym":"䴜",
+"pinin":"wāi",
+"translation": "salt"
+},
+{
+"consonant": "",
+"vowel":"uai",
+"tone": 3,
+"sym":"崴",
+"pinin":"wǎi",
+"translation": "to sprain (one's ankle)"
+},
+{
+"consonant": "",
+"vowel":"uai",
+"tone": 4,
+"sym":"外",
+"pinin":"wài",
+"translation": "outside"
+},
+{
+"consonant": "g",
+"vowel":"uai",
+"tone": 1,
+"sym":"该",
+"pinin":"gāi",
+"translation": "should"
+},
+{
+"consonant": "g",
+"vowel":"uai",
+"tone": 3,
+"sym":"改",
+"pinin":"gǎi",
+"translation": "to change"
+},
+{
+"consonant": "g",
+"vowel":"uai",
+"tone": 4,
+"sym":"盖",
+"pinin":"gài",
+"translation": "lid; top"
+},
+{
+"consonant": "k",
+"vowel":"uai",
+"tone": 1,
+"sym":"开",
+"pinin":"kāi",
+"translation": "to open"
+},
+{
+"consonant": "k",
+"vowel":"uai",
+"tone": 3,
+"sym":"剀",
+"pinin":"kǎi",
+"translation": "carefully"
+},
+{
+"consonant": "k",
+"vowel":"uai",
+"tone": 4,
+"sym":"愒",
+"pinin":"kài",
+"translation": "to desire"
+},
+{
+"consonant": "h",
+"vowel":"uai",
+"tone": 1,
+"sym":"咳",
+"pinin":"hāi",
+"translation": "sound of sighing"
+},
+{
+"consonant": "h",
+"vowel":"uai",
+"tone": 2,
+"sym":"孩",
+"pinin":"hái",
+"translation": "child"
+},
+{
+"consonant": "h",
+"vowel":"uai",
+"tone": 3,
+"sym":"海",
+"pinin":"hǎi",
+"translation": "ocean"
+},
+{
+"consonant": "h",
+"vowel":"uai",
+"tone": 4,
+"sym":"餀",
+"pinin":"hài",
+"translation": "tainted food"
+},
+{
+"consonant": "zh",
+"vowel":"uai",
+"tone": 1,
+"sym":"摘",
+"pinin":"zhāi",
+"translation": "to borrow"
+},
+{
+"consonant": "zh",
+"vowel":"uai",
+"tone": 2,
+"sym":"择",
+"pinin":"zhái",
+"translation": "to select;"
+},
+{
+"consonant": "zh",
+"vowel":"uai",
+"tone": 3,
+"sym":"窄",
+"pinin":"zhǎi",
+"translation": "narrow"
+},
+{
+"consonant": "zh",
+"vowel":"uai",
+"tone": 4,
+"sym":"债",
+"pinin":"zhài",
+"translation": "debt"
+},
+{
+"consonant": "sh",
+"vowel":"uai",
+"tone": 1,
+"sym":"筛",
+"pinin":"shāi",
+"translation": "to filter"
+},
+{
+"consonant": "sh",
+"vowel":"uai",
+"tone": 3,
+"sym":"色",
+"pinin":"shǎi",
+"translation": "dice"
+},
+{
+"consonant": "sh",
+"vowel":"uai",
+"tone": 4,
+"sym":"𧜁",
+"pinin":"shài",
+"translation": "to make smaller"
+},
+{
+"consonant": "ch",
+"vowel":"uai",
+"tone": 1,
+"sym":"拆",
+"pinin":"chāi",
+"translation": "to tear down"
+},
+{
+"consonant": "ch",
+"vowel":"uai",
+"tone": 2,
+"sym":"侪",
+"pinin":"chái",
+"translation": "a class"
+},
+{
+"consonant": "ch",
+"vowel":"uai",
+"tone": 3,
+"sym":"茝",
+"pinin":"chǎi",
+"translation": "aromatic plant"
+},
+{
+"consonant": "ch",
+"vowel":"uai",
+"tone": 4,
+"sym":"瘥",
+"pinin":"chài",
+"translation": "to recover from disease"
+},
+{
+"consonant": "",
+"vowel":"uan",
+"tone": 1,
+"sym":"弯",
+"pinin":"wān",
+"translation": "to bend"
+},
+{
+"consonant": "",
+"vowel":"uan",
+"tone": 2,
+"sym":"完",
+"pinin":"wán",
+"translation": "to finish"
+},
+{
+"consonant": "",
+"vowel":"uan",
+"tone": 3,
+"sym":"晚",
+"pinin":"wǎn",
+"translation": "evening"
+},
+{
+"consonant": "",
+"vowel":"uan",
+"tone": 4,
+"sym":"万",
+"pinin":"wàn",
+"translation": "ten thousand"
+},
+{
+"consonant": "d",
+"vowel":"uan",
+"tone": 1,
+"sym":"端",
+"pinin":"duān",
+"translation": "item"
+},
+{
+"consonant": "d",
+"vowel":"uan",
+"tone": 3,
+"sym":"短",
+"pinin":"duǎn",
+"translation": "short"
+},
+{
+"consonant": "d",
+"vowel":"uan",
+"tone": 4,
+"sym":"段",
+"pinin":"duàn",
+"translation": "paragraph"
+},
+{
+"consonant": "t",
+"vowel":"uan",
+"tone": 1,
+"sym":"湍",
+"pinin":"tuān",
+"translation": "to rush (of water)"
+},
+{
+"consonant": "t",
+"vowel":"uan",
+"tone": 2,
+"sym":"团",
+"pinin":"tuán",
+"translation": "round"
+},
+{
+"consonant": "t",
+"vowel":"uan",
+"tone": 3,
+"sym":"疃",
+"pinin":"tuǎn",
+"translation": "village"
+},
+{
+"consonant": "n",
+"vowel":"uan",
+"tone": 2,
+"sym":"奻",
+"pinin":"nuán",
+"translation": "to quarrel"
+},
+{
+"consonant": "n",
+"vowel":"uan",
+"tone": 3,
+"sym":"暖",
+"pinin":"nuǎn",
+"translation": "warm"
+},
+{
+"consonant": "l",
+"vowel":"uan",
+"tone": 2,
+"sym":"孪",
+"pinin":"luán",
+"translation": "twins"
+},
+{
+"consonant": "l",
+"vowel":"uan",
+"tone": 3,
+"sym":"卵",
+"pinin":"luǎn",
+"translation": "egg"
+},
+{
+"consonant": "l",
+"vowel":"uan",
+"tone": 4,
+"sym":"乱",
+"pinin":"luàn",
+"translation": "in confusion or disorder"
+},
+{
+"consonant": "g",
+"vowel":"uan",
+"tone": 1,
+"sym":"官",
+"pinin":"guān",
+"translation": "government official"
+},
+{
+"consonant": "g",
+"vowel":"uan",
+"tone": 3,
+"sym":"馆",
+"pinin":"guǎn",
+"translation": "building"
+},
+{
+"consonant": "g",
+"vowel":"uan",
+"tone": 4,
+"sym":"灌",
+"pinin":"guàn",
+"translation": "to irrigate"
+},
+{
+"consonant": "k",
+"vowel":"uan",
+"tone": 1,
+"sym":"宽",
+"pinin":"kuān",
+"translation": "wide"
+},
+{
+"consonant": "k",
+"vowel":"uan",
+"tone": 3,
+"sym":"款",
+"pinin":"kuǎn",
+"translation": "section"
+},
+{
+"consonant": "h",
+"vowel":"uan",
+"tone": 1,
+"sym":"欢",
+"pinin":"huān",
+"translation": "happy"
+},
+{
+"consonant": "h",
+"vowel":"uan",
+"tone": 2,
+"sym":"环",
+"pinin":"huán",
+"translation": "ring"
+},
+{
+"consonant": "h",
+"vowel":"uan",
+"tone": 3,
+"sym":"缓",
+"pinin":"huǎn",
+"translation": "slow"
+},
+{
+"consonant": "h",
+"vowel":"uan",
+"tone": 4,
+"sym":"换",
+"pinin":"huàn",
+"translation": "to exchange"
+},
+{
+"consonant": "z",
+"vowel":"uan",
+"tone": 1,
+"sym":"躜",
+"pinin":"zuān",
+"translation": "to jump"
+},
+{
+"consonant": "z",
+"vowel":"uan",
+"tone": 3,
+"sym":"纂",
+"pinin":"zuǎn",
+"translation": "to compile"
+},
+{
+"consonant": "z",
+"vowel":"uan",
+"tone": 4,
+"sym":"赚",
+"pinin":"zuàn",
+"translation": "to cheat"
+},
+{
+"consonant": "s",
+"vowel":"uan",
+"tone": 1,
+"sym":"酸",
+"pinin":"suān",
+"translation": "sour"
+},
+{
+"consonant": "s",
+"vowel":"uan",
+"tone": 3,
+"sym":"篹",
+"pinin":"suǎn",
+"translation": "ancient bamboo basket for food"
+},
+{
+"consonant": "s",
+"vowel":"uan",
+"tone": 4,
+"sym":"蒜",
+"pinin":"suàn",
+"translation": "garlic"
+},
+{
+"consonant": "c",
+"vowel":"uan",
+"tone": 1,
+"sym":"汆",
+"pinin":"cuān",
+"translation": "to boil for a short time"
+},
+{
+"consonant": "c",
+"vowel":"uan",
+"tone": 2,
+"sym":"攒",
+"pinin":"cuán",
+"translation": "to bring together"
+},
+{
+"consonant": "c",
+"vowel":"uan",
+"tone": 4,
+"sym":"窜",
+"pinin":"cuàn",
+"translation": "to flee"
+},
+{
+"consonant": "zh",
+"vowel":"uan",
+"tone": 1,
+"sym":"砖",
+"pinin":"zhuān",
+"translation": "brick"
+},
+{
+"consonant": "zh",
+"vowel":"uan",
+"tone": 3,
+"sym":"转",
+"pinin":"zhuǎn",
+"translation": "to turn"
+},
+{
+"consonant": "zh",
+"vowel":"uan",
+"tone": 4,
+"sym":"传",
+"pinin":"zhuàn",
+"translation": "biography"
+},
+{
+"consonant": "sh",
+"vowel":"uan",
+"tone": 1,
+"sym":"拴",
+"pinin":"shuān",
+"translation": "to tie up"
+},
+{
+"consonant": "sh",
+"vowel":"uan",
+"tone": 4,
+"sym":"涮",
+"pinin":"shuàn",
+"translation": "to rinse"
+},
+{
+"consonant": "ch",
+"vowel":"uan",
+"tone": 1,
+"sym":"穿",
+"pinin":"chuān",
+"translation": "to wear"
+},
+{
+"consonant": "ch",
+"vowel":"uan",
+"tone": 2,
+"sym":"船",
+"pinin":"chuán",
+"translation": "boat"
+},
+{
+"consonant": "ch",
+"vowel":"uan",
+"tone": 3,
+"sym":"喘",
+"pinin":"chuǎn",
+"translation": "to gasp"
+},
+{
+"consonant": "ch",
+"vowel":"uan",
+"tone": 4,
+"sym":"钏",
+"pinin":"chuàn",
+"translation": "armlet"
+},
+{
+"consonant": "r",
+"vowel":"uan",
+"tone": 2,
+"sym":"堧",
+"pinin":"ruán",
+"translation": "adjoin"
+},
+{
+"consonant": "r",
+"vowel":"uan",
+"tone": 3,
+"sym":"朊",
+"pinin":"ruǎn",
+"translation": "protein"
+},
+{
+"consonant": "",
+"vowel":"uang",
+"tone": 1,
+"sym":"尢",
+"pinin":"wāng",
+"translation": "lame"
+},
+{
+"consonant": "",
+"vowel":"uang",
+"tone": 2,
+"sym":"亡",
+"pinin":"wáng",
+"translation": "to be gone"
+},
+{
+"consonant": "",
+"vowel":"uang",
+"tone": 3,
+"sym":"往",
+"pinin":"wǎng",
+"translation": "to go (in a direction)"
+},
+{
+"consonant": "",
+"vowel":"uang",
+"tone": 4,
+"sym":"忘",
+"pinin":"wàng",
+"translation": "to forget"
+},
+{
+"consonant": "g",
+"vowel":"uang",
+"tone": 1,
+"sym":"光",
+"pinin":"guāng",
+"translation": "light"
+},
+{
+"consonant": "g",
+"vowel":"uang",
+"tone": 3,
+"sym":"犷",
+"pinin":"guǎng",
+"translation": "rough"
+},
+{
+"consonant": "g",
+"vowel":"uang",
+"tone": 4,
+"sym":"逛",
+"pinin":"guàng",
+"translation": "to visit"
+},
+{
+"consonant": "k",
+"vowel":"uang",
+"tone": 1,
+"sym":"筐",
+"pinin":"kuāng",
+"translation": "basket"
+},
+{
+"consonant": "k",
+"vowel":"uang",
+"tone": 2,
+"sym":"狂",
+"pinin":"kuáng",
+"translation": "mad; wild"
+},
+{
+"consonant": "k",
+"vowel":"uang",
+"tone": 3,
+"sym":"爌",
+"pinin":"kuǎng",
+"translation": "flame light"
+},
+{
+"consonant": "k",
+"vowel":"uang",
+"tone": 4,
+"sym":"矿",
+"pinin":"kuàng",
+"translation": "ore; mine"
+},
+{
+"consonant": "h",
+"vowel":"uang",
+"tone": 1,
+"sym":"荒",
+"pinin":"huāng",
+"translation": "desolate"
+},
+{
+"consonant": "h",
+"vowel":"uang",
+"tone": 2,
+"sym":"皇",
+"pinin":"huáng",
+"translation": "emperor"
+},
+{
+"consonant": "h",
+"vowel":"uang",
+"tone": 3,
+"sym":"幌",
+"pinin":"huǎng",
+"translation": "shop sign"
+},
+{
+"consonant": "h",
+"vowel":"uang",
+"tone": 4,
+"sym":"䁜",
+"pinin":"huàng",
+"translation": "big eyes"
+},
+{
+"consonant": "zh",
+"vowel":"uang",
+"tone": 1,
+"sym":"装",
+"pinin":"zhuāng",
+"translation": "adornment"
+},
+{
+"consonant": "zh",
+"vowel":"uang",
+"tone": 3,
+"sym":"奘",
+"pinin":"zhuǎng",
+"translation": "fat"
+},
+{
+"consonant": "zh",
+"vowel":"uang",
+"tone": 4,
+"sym":"撞",
+"pinin":"zhuàng",
+"translation": "to knock against"
+},
+{
+"consonant": "sh",
+"vowel":"uang",
+"tone": 1,
+"sym":"霜",
+"pinin":"shuāng",
+"translation": "frost"
+},
+{
+"consonant": "sh",
+"vowel":"uang",
+"tone": 3,
+"sym":"塽",
+"pinin":"shuǎng",
+"translation": "elevated prominent ground"
+},
+{
+"consonant": "sh",
+"vowel":"uang",
+"tone": 4,
+"sym":"㦼",
+"pinin":"shuàng",
+"translation": "wooden piles used as a cable to make immovable of a boat"
+},
+{
+"consonant": "ch",
+"vowel":"uang",
+"tone": 1,
+"sym":"窗",
+"pinin":"chuāng",
+"translation": "shutter"
+},
+{
+"consonant": "ch",
+"vowel":"uang",
+"tone": 2,
+"sym":"床",
+"pinin":"chuáng",
+"translation": "bed"
+},
+{
+"consonant": "ch",
+"vowel":"uang",
+"tone": 3,
+"sym":"闯",
+"pinin":"chuǎng",
+"translation": "to rush"
+},
+{
+"consonant": "ch",
+"vowel":"uang",
+"tone": 4,
+"sym":"创",
+"pinin":"chuàng",
+"translation": "to begin"
+},
+{
+"consonant": "",
+"vowel":"uei",
+"tone": 1,
+"sym":"偎",
+"pinin":"wēi",
+"translation": "to cuddle"
+},
+{
+"consonant": "",
+"vowel":"uei",
+"tone": 2,
+"sym":"为",
+"pinin":"wéi",
+"translation": "as (in the capacity of)"
+},
+{
+"consonant": "",
+"vowel":"uei",
+"tone": 3,
+"sym":"尾",
+"pinin":"wěi",
+"translation": "tail"
+},
+{
+"consonant": "",
+"vowel":"uei",
+"tone": 4,
+"sym":"位",
+"pinin":"wèi",
+"translation": "position"
+},
+{
+"consonant": "d",
+"vowel":"uei",
+"tone": 1,
+"sym":"堆",
+"pinin":"duī",
+"translation": "to pile up"
+},
+{
+"consonant": "d",
+"vowel":"uei",
+"tone": 3,
+"sym":"怼",
+"pinin":"duǐ",
+"translation": "to publicly criticize"
+},
+{
+"consonant": "d",
+"vowel":"uei",
+"tone": 4,
+"sym":"对",
+"pinin":"duì",
+"translation": "right; correct"
+},
+{
+"consonant": "t",
+"vowel":"uei",
+"tone": 1,
+"sym":"忒",
+"pinin":"tuī",
+"translation": "very"
+},
+{
+"consonant": "t",
+"vowel":"uei",
+"tone": 2,
+"sym":"蹪",
+"pinin":"tuí",
+"translation": "to stumble"
+},
+{
+"consonant": "t",
+"vowel":"uei",
+"tone": 3,
+"sym":"腿",
+"pinin":"tuǐ",
+"translation": "leg"
+},
+{
+"consonant": "t",
+"vowel":"uei",
+"tone": 4,
+"sym":"退",
+"pinin":"tuì",
+"translation": "to retreat"
+},
+{
+"consonant": "g",
+"vowel":"uei",
+"tone": 1,
+"sym":"归",
+"pinin":"guī",
+"translation": "to return; to go back to"
+},
+{
+"consonant": "g",
+"vowel":"uei",
+"tone": 3,
+"sym":"鬼",
+"pinin":"guǐ",
+"translation": "ghost"
+},
+{
+"consonant": "g",
+"vowel":"uei",
+"tone": 4,
+"sym":"贵",
+"pinin":"guì",
+"translation": "expensive; noble"
+},
+{
+"consonant": "k",
+"vowel":"uei",
+"tone": 1,
+"sym":"悝",
+"pinin":"kuī",
+"translation": "to laugh at"
+},
+{
+"consonant": "k",
+"vowel":"uei",
+"tone": 2,
+"sym":"戣",
+"pinin":"kuí",
+"translation": "a lance"
+},
+{
+"consonant": "k",
+"vowel":"uei",
+"tone": 3,
+"sym":"傀",
+"pinin":"kuǐ",
+"translation": "puppet"
+},
+{
+"consonant": "k",
+"vowel":"uei",
+"tone": 4,
+"sym":"喟",
+"pinin":"kuì",
+"translation": "to sigh"
+},
+{
+"consonant": "h",
+"vowel":"uei",
+"tone": 1,
+"sym":"晖",
+"pinin":"huī",
+"translation": "sunshine"
+},
+{
+"consonant": "h",
+"vowel":"uei",
+"tone": 2,
+"sym":"回",
+"pinin":"huí",
+"translation": "to turn around"
+},
+{
+"consonant": "h",
+"vowel":"uei",
+"tone": 3,
+"sym":"毁",
+"pinin":"huǐ",
+"translation": "to destroy"
+},
+{
+"consonant": "h",
+"vowel":"uei",
+"tone": 4,
+"sym":"会",
+"pinin":"huì",
+"translation": "can (i.e. have the skill)"
+},
+{
+"consonant": "z",
+"vowel":"uei",
+"tone": 1,
+"sym":"厜",
+"pinin":"zuī",
+"translation": "a mountain peak"
+},
+{
+"consonant": "z",
+"vowel":"uei",
+"tone": 3,
+"sym":"咀",
+"pinin":"zuǐ",
+"translation": "a point or tip"
+},
+{
+"consonant": "z",
+"vowel":"uei",
+"tone": 4,
+"sym":"罪",
+"pinin":"zuì",
+"translation": "guilt; crime"
+},
+{
+"consonant": "s",
+"vowel":"uei",
+"tone": 1,
+"sym":"虽",
+"pinin":"suī",
+"translation": "although"
+},
+{
+"consonant": "s",
+"vowel":"uei",
+"tone": 2,
+"sym":"随",
+"pinin":"suí",
+"translation": "to follow"
+},
+{
+"consonant": "s",
+"vowel":"uei",
+"tone": 3,
+"sym":"瀡",
+"pinin":"suǐ",
+"translation": "slippery"
+},
+{
+"consonant": "s",
+"vowel":"uei",
+"tone": 4,
+"sym":"岁",
+"pinin":"suì",
+"translation": "year"
+},
+{
+"consonant": "c",
+"vowel":"uei",
+"tone": 1,
+"sym":"催",
+"pinin":"cuī",
+"translation": "to urge"
+},
+{
+"consonant": "c",
+"vowel":"uei",
+"tone": 3,
+"sym":"䊫",
+"pinin":"cuǐ",
+"translation": "coarse rice"
+},
+{
+"consonant": "c",
+"vowel":"uei",
+"tone": 4,
+"sym":"脆",
+"pinin":"cuì",
+"translation": "brittle"
+},
+{
+"consonant": "zh",
+"vowel":"uei",
+"tone": 1,
+"sym":"椎",
+"pinin":"zhuī",
+"translation": "spine"
+},
+{
+"consonant": "zh",
+"vowel":"uei",
+"tone": 2,
+"sym":"",
+"pinin":"",
+"translation": ""
+},
+{
+"consonant": "zh",
+"vowel":"uei",
+"tone": 3,
+"sym":"沝",
+"pinin":"zhuǐ",
+"translation": "water"
+},
+{
+"consonant": "zh",
+"vowel":"uei",
+"tone": 4,
+"sym":"惴",
+"pinin":"zhuì",
+"translation": "anxious; worried"
+},
+{
+"consonant": "sh",
+"vowel":"uei",
+"tone": 2,
+"sym":"谁",
+"pinin":"shuí",
+"translation": "who"
+},
+{
+"consonant": "sh",
+"vowel":"uei",
+"tone": 3,
+"sym":"水",
+"pinin":"shuǐ",
+"translation": "water; river"
+},
+{
+"consonant": "sh",
+"vowel":"uei",
+"tone": 4,
+"sym":"睡",
+"pinin":"shuì",
+"translation": "to sleep"
+},
+{
+"consonant": "ch",
+"vowel":"uei",
+"tone": 1,
+"sym":"吹",
+"pinin":"chuī",
+"translation": "to blow"
+},
+{
+"consonant": "ch",
+"vowel":"uei",
+"tone": 2,
+"sym":"椎",
+"pinin":"chuí",
+"translation": "a hammer"
+},
+{
+"consonant": "ch",
+"vowel":"uei",
+"tone": 3,
+"sym":"㷃",
+"pinin":"chuǐ",
+"translation": "long-burning fire"
+},
+{
+"consonant": "ch",
+"vowel":"uei",
+"tone": 4,
+"sym":"龡",
+"pinin":"chuì",
+"translation": "to blow (a flute)"
+},
+{
+"consonant": "r",
+"vowel":"uei",
+"tone": 2,
+"sym":"緌",
+"pinin":"ruí",
+"translation": "strings of cap"
+},
+{
+"consonant": "r",
+"vowel":"uei",
+"tone": 3,
+"sym":"繠",
+"pinin":"ruǐ",
+"translation": "dangle"
+},
+{
+"consonant": "r",
+"vowel":"uei",
+"tone": 4,
+"sym":"汭",
+"pinin":"ruì",
+"translation": "river-bend"
+},
+{
+"consonant": "",
+"vowel":"uen",
+"tone": 1,
+"sym":"温",
+"pinin":"wēn",
+"translation": "warm"
+},
+{
+"consonant": "",
+"vowel":"uen",
+"tone": 2,
+"sym":"闻",
+"pinin":"wén",
+"translation": "to hear; news"
+},
+{
+"consonant": "",
+"vowel":"uen",
+"tone": 3,
+"sym":"稳",
+"pinin":"wěn",
+"translation": "settled; steady; stable"
+},
+{
+"consonant": "",
+"vowel":"uen",
+"tone": 4,
+"sym":"问",
+"pinin":"wèn",
+"translation": "to ask; to inquire"
+},
+{
+"consonant": "d",
+"vowel":"uen",
+"tone": 1,
+"sym":"墩",
+"pinin":"dūn",
+"translation": "block"
+},
+{
+"consonant": "d",
+"vowel":"uen",
+"tone": 3,
+"sym":"盹",
+"pinin":"dǔn",
+"translation": "nap"
+},
+{
+"consonant": "d",
+"vowel":"uen",
+"tone": 4,
+"sym":"庉",
+"pinin":"dùn",
+"translation": "a village"
+},
+{
+"consonant": "t",
+"vowel":"uen",
+"tone": 1,
+"sym":"旽",
+"pinin":"tūn",
+"translation": "morning sun"
+},
+{
+"consonant": "t",
+"vowel":"uen",
+"tone": 2,
+"sym":"屯",
+"pinin":"tún",
+"translation": "to station (soldiers)"
+},
+{
+"consonant": "t",
+"vowel":"uen",
+"tone": 3,
+"sym":"氽",
+"pinin":"tǔn",
+"translation": "to float"
+},
+{
+"consonant": "t",
+"vowel":"uen",
+"tone": 4,
+"sym":"㧷",
+"pinin":"tùn",
+"translation": "to wipe tears"
+},
+{
+"consonant": "l",
+"vowel":"uen",
+"tone": 1,
+"sym":"抡",
+"pinin":"lūn",
+"translation": "to fling (money)"
+},
+{
+"consonant": "l",
+"vowel":"uen",
+"tone": 2,
+"sym":"伦",
+"pinin":"lún",
+"translation": "human relationship"
+},
+{
+"consonant": "l",
+"vowel":"uen",
+"tone": 4,
+"sym":"论",
+"pinin":"lùn",
+"translation": "opinion"
+},
+{
+"consonant": "g",
+"vowel":"uen",
+"tone": 3,
+"sym":"磙",
+"pinin":"gǔn",
+"translation": "roller"
+},
+{
+"consonant": "g",
+"vowel":"uen",
+"tone": 4,
+"sym":"棍",
+"pinin":"gùn",
+"translation": "stick;"
+},
+{
+"consonant": "k",
+"vowel":"uen",
+"tone": 1,
+"sym":"焜",
+"pinin":"kūn",
+"translation": "brilliant"
+},
+{
+"consonant": "k",
+"vowel":"uen",
+"tone": 3,
+"sym":"稛",
+"pinin":"kǔn",
+"translation": "full"
+},
+{
+"consonant": "k",
+"vowel":"uen",
+"tone": 4,
+"sym":"困",
+"pinin":"kùn",
+"translation": "sleepy; tired"
+},
+{
+"consonant": "h",
+"vowel":"uen",
+"tone": 1,
+"sym":"婚",
+"pinin":"hūn",
+"translation": "to marry"
+},
+{
+"consonant": "h",
+"vowel":"uen",
+"tone": 2,
+"sym":"混",
+"pinin":"hún",
+"translation": "confused"
+},
+{
+"consonant": "h",
+"vowel":"uen",
+"tone": 4,
+"sym":"诨",
+"pinin":"hùn",
+"translation": "nickname"
+},
+{
+"consonant": "z",
+"vowel":"uen",
+"tone": 1,
+"sym":"尊",
+"pinin":"zūn",
+"translation": "senior"
+},
+{
+"consonant": "z",
+"vowel":"uen",
+"tone": 3,
+"sym":"噂",
+"pinin":"zǔn",
+"translation": "talk together"
+},
+{
+"consonant": "z",
+"vowel":"uen",
+"tone": 4,
+"sym":"俊",
+"pinin":"zùn",
+"translation": "cool; neat"
+},
+{
+"consonant": "s",
+"vowel":"uen",
+"tone": 1,
+"sym":"孙",
+"pinin":"sūn",
+"translation": "grandson"
+},
+{
+"consonant": "s",
+"vowel":"uen",
+"tone": 3,
+"sym":"损",
+"pinin":"sǔn",
+"translation": "to decrease"
+},
+{
+"consonant": "c",
+"vowel":"uen",
+"tone": 1,
+"sym":"皴",
+"pinin":"cūn",
+"translation": "chapped; cracked"
+},
+{
+"consonant": "c",
+"vowel":"uen",
+"tone": 2,
+"sym":"存",
+"pinin":"cún",
+"translation": "to exist"
+},
+{
+"consonant": "c",
+"vowel":"uen",
+"tone": 3,
+"sym":"忖",
+"pinin":"cǔn",
+"translation": "to ponder"
+},
+{
+"consonant": "c",
+"vowel":"uen",
+"tone": 4,
+"sym":"寸",
+"pinin":"cùn",
+"translation": "a unit of length; inch"
+},
+{
+"consonant": "zh",
+"vowel":"uen",
+"tone": 1,
+"sym":"窀",
+"pinin":"zhūn",
+"translation": "to bury"
+},
+{
+"consonant": "zh",
+"vowel":"uen",
+"tone": 3,
+"sym":"准",
+"pinin":"zhǔn",
+"translation": "to allow; to grant"
+},
+{
+"consonant": "sh",
+"vowel":"uen",
+"tone": 3,
+"sym":"楯",
+"pinin":"shǔn",
+"translation": "draw forth"
+},
+{
+"consonant": "sh",
+"vowel":"uen",
+"tone": 4,
+"sym":"瞬",
+"pinin":"shùn",
+"translation": "to wink"
+},
+{
+"consonant": "ch",
+"vowel":"uen",
+"tone": 1,
+"sym":"春",
+"pinin":"chūn",
+"translation": "spring"
+},
+{
+"consonant": "ch",
+"vowel":"uen",
+"tone": 2,
+"sym":"纯",
+"pinin":"chún",
+"translation": "pure; simple"
+},
+{
+"consonant": "ch",
+"vowel":"uen",
+"tone": 3,
+"sym":"㖺",
+"pinin":"chǔn",
+"translation": "to blow; to breath"
+},
+{
+"consonant": "r",
+"vowel":"uen",
+"tone": 2,
+"sym":"犉",
+"pinin":"rún",
+"translation": "ox"
+},
+{
+"consonant": "r",
+"vowel":"uen",
+"tone": 4,
+"sym":"䏰",
+"pinin":"rùn",
+"translation": "kind of insects"
+},
+{
+"consonant": "",
+"vowel":"uo",
+"tone": 1,
+"sym":"窝",
+"pinin":"wō",
+"translation": "nest"
+},
+{
+"consonant": "",
+"vowel":"uo",
+"tone": 3,
+"sym":"我",
+"pinin":"wǒ",
+"translation": "I; me; my"
+},
+{
+"consonant": "",
+"vowel":"uo",
+"tone": 4,
+"sym":"卧",
+"pinin":"wò",
+"translation": "to lie"
+},
+{
+"consonant": "d",
+"vowel":"uo",
+"tone": 1,
+"sym":"多",
+"pinin":"duō",
+"translation": "many; much"
+},
+{
+"consonant": "d",
+"vowel":"uo",
+"tone": 2,
+"sym":"夺",
+"pinin":"duó",
+"translation": "to seize"
+},
+{
+"consonant": "d",
+"vowel":"uo",
+"tone": 3,
+"sym":"朵",
+"pinin":"duǒ",
+"translation": "flower"
+},
+{
+"consonant": "d",
+"vowel":"uo",
+"tone": 4,
+"sym":"惰",
+"pinin":"duò",
+"translation": "lazy"
+},
+{
+"consonant": "t",
+"vowel":"uo",
+"tone": 1,
+"sym":"脱",
+"pinin":"tuō",
+"translation": "to shed"
+},
+{
+"consonant": "t",
+"vowel":"uo",
+"tone": 2,
+"sym":"媠",
+"pinin":"tuó",
+"translation": "beautiful"
+},
+{
+"consonant": "t",
+"vowel":"uo",
+"tone": 3,
+"sym":"妥",
+"pinin":"tuǒ",
+"translation": "suitable"
+},
+{
+"consonant": "t",
+"vowel":"uo",
+"tone": 4,
+"sym":"跅",
+"pinin":"tuò",
+"translation": "careless"
+},
+{
+"consonant": "n",
+"vowel":"uo",
+"tone": 2,
+"sym":"挪",
+"pinin":"nuó",
+"translation": "to shift; to move"
+},
+{
+"consonant": "n",
+"vowel":"uo",
+"tone": 3,
+"sym":"㡅",
+"pinin":"nuǒ",
+"translation": "storage room"
+},
+{
+"consonant": "n",
+"vowel":"uo",
+"tone": 4,
+"sym":"糯",
+"pinin":"nuò",
+"translation": "glutinous rice; sticky rice"
+},
+{
+"consonant": "l",
+"vowel":"uo",
+"tone": 1,
+"sym":"捋",
+"pinin":"luō",
+"translation": "to hold something long"
+},
+{
+"consonant": "l",
+"vowel":"uo",
+"tone": 2,
+"sym":"锣",
+"pinin":"luó",
+"translation": "gong"
+},
+{
+"consonant": "l",
+"vowel":"uo",
+"tone": 3,
+"sym":"㩡",
+"pinin":"luǒ",
+"translation": "shake"
+},
+{
+"consonant": "l",
+"vowel":"uo",
+"tone": 4,
+"sym":"骆",
+"pinin":"luò",
+"translation": "camel"
+},
+{
+"consonant": "g",
+"vowel":"uo",
+"tone": 1,
+"sym":"锅",
+"pinin":"guō",
+"translation": "pot; pan"
+},
+{
+"consonant": "g",
+"vowel":"uo",
+"tone": 2,
+"sym":"国",
+"pinin":"guó",
+"translation": "country"
+},
+{
+"consonant": "g",
+"vowel":"uo",
+"tone": 3,
+"sym":"果",
+"pinin":"guǒ",
+"translation": "result"
+},
+{
+"consonant": "g",
+"vowel":"uo",
+"tone": 4,
+"sym":"过",
+"pinin":"guò",
+"translation": "to cross; to go over"
+},
+{
+"consonant": "k",
+"vowel":"uo",
+"tone": 4,
+"sym":"阔",
+"pinin":"kuò",
+"translation": "rich; wide"
+},
+{
+"consonant": "h",
+"vowel":"uo",
+"tone": 1,
+"sym":"豁",
+"pinin":"huō",
+"translation": "opening"
+},
+{
+"consonant": "h",
+"vowel":"uo",
+"tone": 2,
+"sym":"活",
+"pinin":"huó",
+"translation": "to live; alive"
+},
+{
+"consonant": "h",
+"vowel":"uo",
+"tone": 3,
+"sym":"火",
+"pinin":"huǒ",
+"translation": "fire"
+},
+{
+"consonant": "h",
+"vowel":"uo",
+"tone": 4,
+"sym":"或",
+"pinin":"huò",
+"translation": "maybe; perhaps"
+},
+{
+"consonant": "z",
+"vowel":"uo",
+"tone": 1,
+"sym":"作",
+"pinin":"zuō",
+"translation": "worker"
+},
+{
+"consonant": "z",
+"vowel":"uo",
+"tone": 2,
+"sym":"昨",
+"pinin":"zuó",
+"translation": "yesterday"
+},
+{
+"consonant": "z",
+"vowel":"uo",
+"tone": 3,
+"sym":"㝾",
+"pinin":"zuǒ",
+"translation": "can not walk normally"
+},
+{
+"consonant": "z",
+"vowel":"uo",
+"tone": 4,
+"sym":"坐",
+"pinin":"zuò",
+"translation": "to sit; to take a seat"
+},
+{
+"consonant": "s",
+"vowel":"uo",
+"tone": 1,
+"sym":"傞",
+"pinin":"suō",
+"translation": "uneven"
+},
+{
+"consonant": "s",
+"vowel":"uo",
+"tone": 3,
+"sym":"所",
+"pinin":"suǒ",
+"translation": "actually; place"
+},
+{
+"consonant": "s",
+"vowel":"uo",
+"tone": 4,
+"sym":"䐝",
+"pinin":"suò",
+"translation": "heavy fat of animals or plants"
+},
+{
+"consonant": "c",
+"vowel":"uo",
+"tone": 1,
+"sym":"磋",
+"pinin":"cuō",
+"translation": "deliberate"
+},
+{
+"consonant": "c",
+"vowel":"uo",
+"tone": 2,
+"sym":"瘥",
+"pinin":"cuó",
+"translation": "disease"
+},
+{
+"consonant": "c",
+"vowel":"uo",
+"tone": 3,
+"sym":"脞",
+"pinin":"cuǒ",
+"translation": "chopped meat"
+},
+{
+"consonant": "c",
+"vowel":"uo",
+"tone": 4,
+"sym":"错",
+"pinin":"cuò",
+"translation": "mistake"
+},
+{
+"consonant": "zh",
+"vowel":"uo",
+"tone": 1,
+"sym":"桌",
+"pinin":"zhuō",
+"translation": "table; desk"
+},
+{
+"consonant": "zh",
+"vowel":"uo",
+"tone": 2,
+"sym":"啄",
+"pinin":"zhuó",
+"translation": "to peck"
+},
+{
+"consonant": "zh",
+"vowel":"uo",
+"tone": 4,
+"sym":"㧳",
+"pinin":"zhuò",
+"translation": "to mix; to blend"
+},
+{
+"consonant": "sh",
+"vowel":"uo",
+"tone": 1,
+"sym":"说",
+"pinin":"shuō",
+"translation": "to speak"
+},
+{
+"consonant": "sh",
+"vowel":"uo",
+"tone": 4,
+"sym":"数",
+"pinin":"shuò",
+"translation": "frequently"
+},
+{
+"consonant": "ch",
+"vowel":"uo",
+"tone": 1,
+"sym":"踔",
+"pinin":"chuō",
+"translation": "to get ahead"
+},
+{
+"consonant": "ch",
+"vowel":"uo",
+"tone": 4,
+"sym":"婥",
+"pinin":"chuò",
+"translation": "weak"
+},
+{
+"consonant": "r",
+"vowel":"uo",
+"tone": 2,
+"sym":"捼",
+"pinin":"ruó",
+"translation": "to rub; to crumple"
+},
+{
+"consonant": "r",
+"vowel":"uo",
+"tone": 4,
+"sym":"若",
+"pinin":"ruò",
+"translation": "to seem"
+},
+{
+"consonant": "",
+"vowel":"ü",
+"tone": 1,
+"sym":"纡",
+"pinin":"yū",
+"translation": "winding"
+},
+{
+"consonant": "",
+"vowel":"ü",
+"tone": 2,
+"sym":"鱼",
+"pinin":"yú",
+"translation": "fish"
+},
+{
+"consonant": "",
+"vowel":"ü",
+"tone": 3,
+"sym":"与",
+"pinin":"yǔ",
+"translation": "and; to give; together with"
+},
+{
+"consonant": "",
+"vowel":"ü",
+"tone": 4,
+"sym":"遇",
+"pinin":"yù",
+"translation": "to treat"
+},
+{
+"consonant": "n",
+"vowel":"ü",
+"tone": 3,
+"sym":"女",
+"pinin":"nǚ",
+"translation": "female"
+},
+{
+"consonant": "n",
+"vowel":"ü",
+"tone": 4,
+"sym":"㵖",
+"pinin":"nǜ",
+"translation": "damp"
+},
+{
+"consonant": "l",
+"vowel":"ü",
+"tone": 2,
+"sym":"驴",
+"pinin":"lǘ",
+"translation": "donkey"
+},
+{
+"consonant": "l",
+"vowel":"ü",
+"tone": 3,
+"sym":"旅",
+"pinin":"lǚ",
+"translation": "trip; travel"
+},
+{
+"consonant": "l",
+"vowel":"ü",
+"tone": 4,
+"sym":"绿",
+"pinin":"lǜ",
+"translation": "green"
+},
+{
+"consonant": "q",
+"vowel":"ü",
+"tone": 1,
+"sym":"区",
+"pinin":"qū",
+"translation": "area; region"
+},
+{
+"consonant": "q",
+"vowel":"ü",
+"tone": 2,
+"sym":"懅",
+"pinin":"qú",
+"translation": "bashful"
+},
+{
+"consonant": "q",
+"vowel":"ü",
+"tone": 3,
+"sym":"取",
+"pinin":"qǔ",
+"translation": "to take; to get"
+},
+{
+"consonant": "q",
+"vowel":"ü",
+"tone": 4,
+"sym":"觑",
+"pinin":"qù",
+"translation": "to spy; watch for"
+},
+{
+"consonant": "j",
+"vowel":"ü",
+"tone": 1,
+"sym":"居",
+"pinin":"jū",
+"translation": "to reside"
+},
+{
+"consonant": "j",
+"vowel":"ü",
+"tone": 2,
+"sym":"局",
+"pinin":"jú",
+"translation": "office"
+},
+{
+"consonant": "j",
+"vowel":"ü",
+"tone": 3,
+"sym":"举",
+"pinin":"jǔ",
+"translation": "to lift; to hold up"
+},
+{
+"consonant": "j",
+"vowel":"ü",
+"tone": 4,
+"sym":"句",
+"pinin":"jù",
+"translation": "sentence"
+},
+{
+"consonant": "x",
+"vowel":"ü",
+"tone": 1,
+"sym":"需",
+"pinin":"xū",
+"translation": "to require"
+},
+{
+"consonant": "x",
+"vowel":"ü",
+"tone": 2,
+"sym":"徐",
+"pinin":"xú",
+"translation": "slowly"
+},
+{
+"consonant": "x",
+"vowel":"ü",
+"tone": 3,
+"sym":"许",
+"pinin":"xǔ",
+"translation": "to allow"
+},
+{
+"consonant": "x",
+"vowel":"ü",
+"tone": 4,
+"sym":"续",
+"pinin":"xù",
+"translation": "to continue"
+},
+{
+"consonant": "",
+"vowel":"üan",
+"tone": 1,
+"sym":"冤",
+"pinin":"yuān",
+"translation": "injustice"
+},
+{
+"consonant": "",
+"vowel":"üan",
+"tone": 2,
+"sym":"元",
+"pinin":"yuán",
+"translation": "currency unit"
+},
+{
+"consonant": "",
+"vowel":"üan",
+"tone": 3,
+"sym":"远",
+"pinin":"yuǎn",
+"translation": "far; distant; remote"
+},
+{
+"consonant": "",
+"vowel":"üan",
+"tone": 4,
+"sym":"愿",
+"pinin":"yuàn",
+"translation": "to hope; to wish"
+},
+{
+"consonant": "q",
+"vowel":"üan",
+"tone": 1,
+"sym":"棬",
+"pinin":"quān",
+"translation": "bowl"
+},
+{
+"consonant": "q",
+"vowel":"üan",
+"tone": 2,
+"sym":"全",
+"pinin":"quán",
+"translation": "all; whole; entire"
+},
+{
+"consonant": "q",
+"vowel":"üan",
+"tone": 3,
+"sym":"甽",
+"pinin":"quǎn",
+"translation": "drain between fields"
+},
+{
+"consonant": "q",
+"vowel":"üan",
+"tone": 4,
+"sym":"劝",
+"pinin":"quàn",
+"translation": "to advise"
+},
+{
+"consonant": "j",
+"vowel":"üan",
+"tone": 1,
+"sym":"涓",
+"pinin":"juān",
+"translation": "brook"
+},
+{
+"consonant": "j",
+"vowel":"üan",
+"tone": 3,
+"sym":"呟",
+"pinin":"juǎn",
+"translation": "to mutter"
+},
+{
+"consonant": "j",
+"vowel":"üan",
+"tone": 4,
+"sym":"卷",
+"pinin":"juàn",
+"translation": "scroll"
+},
+{
+"consonant": "x",
+"vowel":"üan",
+"tone": 1,
+"sym":"喧",
+"pinin":"xuān",
+"translation": "clamor"
+},
+{
+"consonant": "x",
+"vowel":"üan",
+"tone": 2,
+"sym":"旋",
+"pinin":"xuán",
+"translation": "to revolve"
+},
+{
+"consonant": "x",
+"vowel":"üan",
+"tone": 3,
+"sym":"咺",
+"pinin":"xuǎn",
+"translation": "glorious"
+},
+{
+"consonant": "x",
+"vowel":"üan",
+"tone": 4,
+"sym":"眩",
+"pinin":"xuàn",
+"translation": "dazzling"
+},
+{
+"consonant": "",
+"vowel":"üe",
+"tone": 1,
+"sym":"约",
+"pinin":"yuē",
+"translation": "to make an appointment"
+},
+{
+"consonant": "",
+"vowel":"üe",
+"tone": 3,
+"sym":"哕",
+"pinin":"yuě",
+"translation": "to hiccup"
+},
+{
+"consonant": "",
+"vowel":"üe",
+"tone": 4,
+"sym":"月",
+"pinin":"yuè",
+"translation": "moon; month"
+},
+{
+"consonant": "n",
+"vowel":"üe",
+"tone": 4,
+"sym":"疟",
+"pinin":"nüè",
+"translation": "malaria"
+},
+{
+"consonant": "l",
+"vowel":"üe",
+"tone": 4,
+"sym":"略",
+"pinin":"lüè",
+"translation": "plan; strategy"
+},
+{
+"consonant": "q",
+"vowel":"üe",
+"tone": 1,
+"sym":"缺",
+"pinin":"quē",
+"translation": "scarce"
+},
+{
+"consonant": "q",
+"vowel":"üe",
+"tone": 2,
+"sym":"瘸",
+"pinin":"qué",
+"translation": "lame"
+},
+{
+"consonant": "q",
+"vowel":"üe",
+"tone": 4,
+"sym":"却",
+"pinin":"què",
+"translation": "but"
+},
+{
+"consonant": "j",
+"vowel":"üe",
+"tone": 1,
+"sym":"撅",
+"pinin":"juē",
+"translation": "to protrude"
+},
+{
+"consonant": "j",
+"vowel":"üe",
+"tone": 2,
+"sym":"决",
+"pinin":"jué",
+"translation": "to determine"
+},
+{
+"consonant": "j",
+"vowel":"üe",
+"tone": 3,
+"sym":"䞵",
+"pinin":"juě",
+"translation": "to jump"
+},
+{
+"consonant": "j",
+"vowel":"üe",
+"tone": 4,
+"sym":"倔",
+"pinin":"juè",
+"translation": "surly"
+},
+{
+"consonant": "x",
+"vowel":"üe",
+"tone": 1,
+"sym":"靴",
+"pinin":"xuē",
+"translation": "boots"
+},
+{
+"consonant": "x",
+"vowel":"üe",
+"tone": 2,
+"sym":"学",
+"pinin":"xué",
+"translation": "to learn"
+},
+{
+"consonant": "x",
+"vowel":"üe",
+"tone": 3,
+"sym":"雪",
+"pinin":"xuě",
+"translation": "snow"
+},
+{
+"consonant": "x",
+"vowel":"üe",
+"tone": 4,
+"sym":"血",
+"pinin":"xuè",
+"translation": "blood"
+},
+{
+"consonant": "",
+"vowel":"ün",
+"tone": 1,
+"sym":"晕",
+"pinin":"yūn",
+"translation": "dizzy"
+},
+{
+"consonant": "",
+"vowel":"ün",
+"tone": 2,
+"sym":"云",
+"pinin":"yún",
+"translation": "cloud"
+},
+{
+"consonant": "",
+"vowel":"ün",
+"tone": 3,
+"sym":"允",
+"pinin":"yǔn",
+"translation": "just; fair"
+},
+{
+"consonant": "",
+"vowel":"ün",
+"tone": 4,
+"sym":"运",
+"pinin":"yùn",
+"translation": "to move; to transport"
+},
+{
+"consonant": "q",
+"vowel":"ün",
+"tone": 1,
+"sym":"踆",
+"pinin":"qūn",
+"translation": "squat"
+},
+{
+"consonant": "q",
+"vowel":"ün",
+"tone": 2,
+"sym":"群",
+"pinin":"qún",
+"translation": "group"
+},
+{
+"consonant": "j",
+"vowel":"ün",
+"tone": 1,
+"sym":"均",
+"pinin":"jūn",
+"translation": "equal"
+},
+{
+"consonant": "j",
+"vowel":"ün",
+"tone": 4,
+"sym":"俊",
+"pinin":"jùn",
+"translation": "smart"
+},
+{
+"consonant": "x",
+"vowel":"ün",
+"tone": 1,
+"sym":"熏",
+"pinin":"xūn",
+"translation": "to smoke"
+},
+{
+"consonant": "x",
+"vowel":"ün",
+"tone": 2,
+"sym":"寻",
+"pinin":"xún",
+"translation": "to look for"
+},
+{
+"consonant": "x",
+"vowel":"ün",
+"tone": 4,
+"sym":"训",
+"pinin":"xùn",
+"translation": "to teac"
+}]
+}
