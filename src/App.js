@@ -68,17 +68,17 @@ class App extends React.Component {
   }
 
   selectVowel(vowel) {
-    let buttons = Array.from(document.getElementsByClassName('sizeButton 1'));
+    let consButtons = Array.from(document.getElementsByClassName('sizeButton 1'));
+    let toneButtons = Array.from(document.getElementsByClassName('sizeButton 2'));
     let possible = this.state.info["data"].filter((obj) => {return obj.vowel === vowel});
-    console.log(buttons);
-    buttons.forEach(button => {
-      console.log(button)
-      if (possible.filter((y) => {return y.consonant === button.textContent}).length === 0)
-        button.disabled = true;
-      else
-        button.disabled = false;
+    consButtons.forEach(button => {
+      // disable consonants, that cannot be used with selected vowel
+      button.disabled = possible.filter((y) => {return y.consonant === button.textContent}).length === 0;
     });
-      
+    toneButtons.forEach(button => {
+      // disable consonants, that cannot be used with selected vowel
+      button.disabled = possible.filter((y) => {return y.tone == button.textContent && y.consonant === this.state.consonant}).length === 0;
+    });
   }
   
   render() {
