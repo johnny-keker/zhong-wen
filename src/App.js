@@ -37,12 +37,16 @@ class SizeButton extends React.Component {
             let selected = (app.state.consonantButton === this) ? "" : size;
             app.setState({"consonant" : selected})
             app.state.consonantButton = (app.state.consonantButton === this) ? null : this;
+            app.selectConsonant(selected);
           }
-          else
+          else if (type == 2)
           {
-            if (app.state.toneButton != null) app.state.toneButton.setSelected();
-            app.setState({"tone" : size})
-            app.state.toneButton = this;
+            if (app.state.toneButton != null
+                && app.state.toneButton.state.isSelected) app.state.toneButton.setSelected();
+            let selected = (app.state.toneButton === this) ? 0 : size;
+            app.setState({"tone" : selected})
+            app.state.toneButton = (app.state.toneButton === this) ? null : this;
+            app.selectTone(selected);
           }
           this.setSelected();
         }}
@@ -83,15 +87,61 @@ class App extends React.Component {
       // disable tones, that cannot be used with selected vowel
       button.disabled = vowel != "" && possible.filter((y) => {return y.tone == button.textContent && y.consonant === this.state.consonant}).length === 0;
     });
-    console.log(this.state.tone);
-    console.log(this.state.consonant);
-    console.log(vowel);
-    let word = this.state.info["data"].find(obj => {return obj.tone == this.state.tone && obj.consonant === this.state.consonant && obj.vowel == vowel});
+
+    this.updateWord(vowel, this.state.consonant, this.state.tone);
+  }
+
+  selectConsonant(consonant) {
+    let vowlButtons = Array.from(document.getElementsByClassName('sizeButton 0'));
+    let toneButtons = Array.from(document.getElementsByClassName('sizeButton 2'));
+    let possible = this.state.info["data"].filter((obj) => {return obj.consonant === consonant});
+    vowlButtons.forEach(button => {
+      // disable consonants, that cannot be used with selected vowel
+      button.disabled = consonant != "" && possible.filter((y) => {return y.vowel === button.textContent}).length === 0;
+    });
+    toneButtons.forEach(button => {
+      // disable tones, that cannot be used with selected vowel
+      button.disabled = consonant != "" && possible.filter((y) => {return y.tone == button.textContent && y.vowel === this.state.vowel}).length === 0;
+    });
+
+    this.updateWord(this.state.vowel, consonant, this.state.tone);
+  }
+
+  selectTone(tone) {
+    let vowlButtons = Array.from(document.getElementsByClassName('sizeButton 0'));
+    let consButtons = Array.from(document.getElementsByClassName('sizeButton 1'));
+    let possible = this.state.info["data"].filter((obj) => {return obj.tone === tone});
+    // vowlButtons.forEach(button => {
+    //   // disable consonants, that cannot be used with selected vowel
+    //   button.disabled = tone != 0 && possible.filter((y) => {return y.vowel == button.textContent}).length === 0;
+    // });
+    // consButtons.forEach(button => {
+    //   // disable consonants, that cannot be used with selected vowel
+    //   button.disabled = tone != 0 && possible.filter((y) => {return y.consonant == button.textContent}).length === 0;
+    // });
+
+    this.updateWord(this.state.vowel, this.state.consonant, tone);
+  }
+
+  updateWord(vowel, consonant, tone) {
+    let word = this.state.info["data"].find(obj => {return obj.tone       == tone
+                                                        && obj.consonant  == consonant
+                                                        && obj.vowel      == vowel});
     if (word != undefined)
     {
       this.state.hieroglyph = word.sym;
       this.state.pinin = word.pinin;
       this.state.meaning = word.translation;
+    }
+    else
+    {
+      this.state.hieroglyph = "";
+      this.state.pinin = "";
+      this.state.meaning = "";
+    }
+    if (word === undefined && tone != 0) {
+      this.state.tone = 0;
+      this.state.toneButton.setSelected();
     }
   }
   
