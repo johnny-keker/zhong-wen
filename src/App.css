@@ -48,11 +48,7 @@
   background-color: white;
   border-radius: 0%;
   border-width: 1px;
-  margin: 20px;
-}
-
-.main-container {
-  margin-left: 20px;
+  margin-top: 20px;
 }
 
 .selected {
@@ -60,24 +56,20 @@
   color: white;
 }
 
-.row {
-  display: flex;
+.hieroglyph {
+  font-size: 45pt;
 }
 
+.row {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
 
-.column1 {
-  flex: 20%;
-  justify-content: flex-start;
+.main-container {
+margin-left: auto;
 }
 
 .column2 {
-  flex: 50%;
-}
-
-.column3 {
-  flex: 50%;
-}
-
-.hieroglyph {
-  font-size: 45pt;
+margin-right: auto;
+margin-left: 10%;
 }
