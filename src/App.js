@@ -26,15 +26,17 @@ class SizeButton extends React.Component {
           if (type == 0)
           {
             if (app.state.vowelButton != null) app.state.vowelButton.setSelected();
-            app.setState({"vowel" : size})
-            app.state.vowelButton = this;
-            app.selectVowel(size);
+            let selected = (app.state.vowelButton === this) ? "" : size;
+            app.setState({"vowel" : selected})
+            app.state.vowelButton = (app.state.vowelButton === this) ? null : this;
+            app.selectVowel(selected);
           }
           else if (type == 1)
           {
             if (app.state.consonantButton != null) app.state.consonantButton.setSelected();
-            app.setState({"consonant" : size})
-            app.state.consonantButton = this;
+            let selected = (app.state.consonantButton === this) ? "" : size;
+            app.setState({"consonant" : selected})
+            app.state.consonantButton = (app.state.consonantButton === this) ? null : this;
           }
           else
           {
@@ -75,11 +77,11 @@ class App extends React.Component {
     let possible = this.state.info["data"].filter((obj) => {return obj.vowel === vowel});
     consButtons.forEach(button => {
       // disable consonants, that cannot be used with selected vowel
-      button.disabled = possible.filter((y) => {return y.consonant === button.textContent}).length === 0;
+      button.disabled = vowel != "" && possible.filter((y) => {return y.consonant === button.textContent}).length === 0;
     });
     toneButtons.forEach(button => {
-      // disable consonants, that cannot be used with selected vowel
-      button.disabled = possible.filter((y) => {return y.tone == button.textContent && y.consonant === this.state.consonant}).length === 0;
+      // disable tones, that cannot be used with selected vowel
+      button.disabled = vowel != "" && possible.filter((y) => {return y.tone == button.textContent && y.consonant === this.state.consonant}).length === 0;
     });
     console.log(this.state.tone);
     console.log(this.state.consonant);
