@@ -37,6 +37,48 @@
   }
 }
 
+.sizeButton {
+  background-color: white;
+  border-radius: 0%;
+  border-width: 1px;
+  width: 40px;
+}
+
+.clearButton {
+  background-color: white;
+  border-radius: 0%;
+  border-width: 1px;
+  margin: 20px;
+}
+
+.main-container {
+  margin-left: 20px;
+}
+
 .selected {
-  background-color: red;
+  background-color: blue;
+  color: white;
+}
+
+.row {
+  display: flex;
+}
+
+
+.column1 {
+  flex: 20%;
+  direction: rtl;
+  justify-content: flex-end;
+}
+
+.column2 {
+  flex: 50%;
+}
+
+.column3 {
+  flex: 50%;
+}
+
+.hieroglyph {
+  font-size: 45pt;
 }

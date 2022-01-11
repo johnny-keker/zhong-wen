@@ -147,9 +147,9 @@ class App extends React.Component {
   
   render() {
     return (
-      <div>
+      <div className="row">
+      <div className='main-container column1'>
       <h3>Vowel</h3>
-      <hr />
       <div>
         <SizeButton size="a" app={this} type={0} />
         <SizeButton size="ai" app={this} type={0} />
@@ -158,6 +158,7 @@ class App extends React.Component {
         <SizeButton size="e" app={this} type={0} />
         <SizeButton size="ei" app={this} type={0} />
         <SizeButton size="en" app={this} type={0} />
+        <br/>
         <SizeButton size="eng" app={this} type={0} />
         <SizeButton size="er" app={this} type={0} />
         <SizeButton size="i" app={this} type={0} />
@@ -165,6 +166,7 @@ class App extends React.Component {
         <SizeButton size="ian" app={this} type={0} />
         <SizeButton size="iang" app={this} type={0} />
         <SizeButton size="iao" app={this} type={0} />
+        <br/>
         <SizeButton size="ie" app={this} type={0} />
         <SizeButton size="in" app={this} type={0} />
         <SizeButton size="ing" app={this} type={0} />
@@ -172,6 +174,7 @@ class App extends React.Component {
         <SizeButton size="iou" app={this} type={0} />
         <SizeButton size="o" app={this} type={0} />
         <SizeButton size="ong" app={this} type={0} />
+        <br/>
         <SizeButton size="ou" app={this} type={0} />
         <SizeButton size="u" app={this} type={0} />
         <SizeButton size="ua" app={this} type={0} />
@@ -179,6 +182,7 @@ class App extends React.Component {
         <SizeButton size="uan" app={this} type={0} />
         <SizeButton size="uang" app={this} type={0} />
         <SizeButton size="uei" app={this} type={0} />
+        <br/>
         <SizeButton size="uen" app={this} type={0} />
         <SizeButton size="ueng" app={this} type={0} />
         <SizeButton size="uo" app={this} type={0} />
@@ -189,7 +193,6 @@ class App extends React.Component {
       </div>
       
       <h3>Consonant</h3>
-      <hr />
       <div>
         <SizeButton size="b" app={this} type={1}/>
         <SizeButton size="p" app={this} type={1}/>
@@ -198,6 +201,7 @@ class App extends React.Component {
         <SizeButton size="d" app={this} type={1}/>
         <SizeButton size="t" app={this} type={1}/>
         <SizeButton size="n" app={this} type={1}/>
+        <br/>
         <SizeButton size="l" app={this} type={1}/>
         <SizeButton size="g" app={this} type={1}/>
         <SizeButton size="k" app={this} type={1}/>
@@ -205,6 +209,7 @@ class App extends React.Component {
         <SizeButton size="j" app={this} type={1}/>
         <SizeButton size="q" app={this} type={1}/>
         <SizeButton size="x" app={this} type={1}/>
+        <br/>
         <SizeButton size="z" app={this} type={1}/>
         <SizeButton size="s" app={this} type={1}/>
         <SizeButton size="c" app={this} type={1}/>
@@ -214,17 +219,45 @@ class App extends React.Component {
         <SizeButton size="r" app={this} type={1}/>
       </div>
       <h3>Tone</h3>
-      <hr />
       <div>
         <SizeButton size="1" app={this} type={2}/>
         <SizeButton size="2" app={this} type={2}/>
         <SizeButton size="3" app={this} type={2}/>
         <SizeButton size="4" app={this} type={2}/>
       </div>
-      <h3>{this.state.hieroglyph}</h3>
-      <h3>{this.state.pinin}</h3>
-      <h3>{this.state.meaning}</h3>
+
+      <button className="clearButton" onClick={() => {
+        if (this.state.vowelButton != null && this.state.vowelButton.state.isSelected) this.state.vowelButton.setSelected();
+        if (this.state.consonantButton != null && this.state.consonantButton.state.isSelected) this.state.consonantButton.setSelected();
+        if (this.state.toneButton != null && this.state.toneButton.state.isSelected) this.state.toneButton.setSelected();
+        this.selectVowel("");
+        this.selectConsonant("");
+        this.selectTone(0);
+        this.setState({ "vowel": "",
+                        "consonant": "",
+                        "text": "",
+                        "tone": 0,
+                        "vowelButton": null,
+                        "consonantButton": null,
+                        "toneButton": null,
+                        "hieroglyph": "",
+                        "pinin": "",
+                        "meaning": ""})
+      }}>
+        Clear All
+      </button>
     </div>
+    <div className='column2'>
+      <center>
+      <h3>{this.state.pinin}</h3>
+      <div className='hieroglyph'>{this.state.hieroglyph}</div>
+      <h3>{this.state.meaning}</h3>
+      </center>
+      </div>
+      
+    <div className='column3'></div>
+    </div>
+
     );
   }
 }
