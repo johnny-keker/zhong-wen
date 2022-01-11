@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zhong-wen/static/css/main.82f7cef1.css",
+    "main.css": "/zhong-wen/static/css/main.e23a070a.css",
     "main.js": "/zhong-wen/static/js/main.83e852d1.js",
     "static/js/787.5b3d9714.chunk.js": "/zhong-wen/static/js/787.5b3d9714.chunk.js",
     "static/media/logo.svg": "/zhong-wen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zhong-wen/index.html",
-    "main.82f7cef1.css.map": "/zhong-wen/static/css/main.82f7cef1.css.map",
+    "main.e23a070a.css.map": "/zhong-wen/static/css/main.e23a070a.css.map",
     "main.83e852d1.js.map": "/zhong-wen/static/js/main.83e852d1.js.map",
     "787.5b3d9714.chunk.js.map": "/zhong-wen/static/js/787.5b3d9714.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f7cef1.css",
+    "static/css/main.e23a070a.css",
     "static/js/main.83e852d1.js"
   ]
 }
