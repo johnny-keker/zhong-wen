@@ -43,7 +43,6 @@ class SizeButton extends React.Component {
             app.state.toneButton = this;
           }
           this.setSelected();
-          console.log(size);
         }}
       >
         {size}
@@ -63,7 +62,10 @@ class App extends React.Component {
       info: require('./data.json'),
       vowelButton: null,
       consonantButton: null,
-      toneButton: null
+      toneButton: null,
+      hieroglyph: "",
+      pinin: "",
+      meaning: ""
     };
   }
 
@@ -79,6 +81,16 @@ class App extends React.Component {
       // disable consonants, that cannot be used with selected vowel
       button.disabled = possible.filter((y) => {return y.tone == button.textContent && y.consonant === this.state.consonant}).length === 0;
     });
+    console.log(this.state.tone);
+    console.log(this.state.consonant);
+    console.log(vowel);
+    let word = this.state.info["data"].find(obj => {return obj.tone == this.state.tone && obj.consonant === this.state.consonant && obj.vowel == vowel});
+    if (word != undefined)
+    {
+      this.state.hieroglyph = word.sym;
+      this.state.pinin = word.pinin;
+      this.state.meaning = word.translation;
+    }
   }
   
   render() {
@@ -157,6 +169,9 @@ class App extends React.Component {
         <SizeButton size="3" app={this} type={2}/>
         <SizeButton size="4" app={this} type={2}/>
       </div>
+      <h3>{this.state.hieroglyph}</h3>
+      <h3>{this.state.pinin}</h3>
+      <h3>{this.state.meaning}</h3>
     </div>
     );
   }
